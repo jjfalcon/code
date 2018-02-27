@@ -13,6 +13,7 @@ Es un artículo resumen de [este repositorio](https://github.com/jupeter/clean-c
 * crear variables tan proximas como sea posible
 * usar la minima identacion
 * tener paciencia, un buen nombre no se consigue a la primera
+* usar comentarios de bloque para indicar la intencion (porque) lo hacemos así al que lo lee.
 
 ## Test
 
