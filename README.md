@@ -16,6 +16,9 @@ Es un artículo resumen de [este repositorio](https://github.com/jupeter/clean-c
 * usar comentarios de bloque para indicar la intencion (porque) lo hacemos así al que lo lee.
 * evitar comentarios para describir codigo, definelo en el propio codigo
 
+### [Herramientas para programadores](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
+Extensiones Chrome y Extensiones VisualCode para programadores web
+
 ## Test
 
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
