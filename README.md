@@ -29,6 +29,11 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 
 ## Desarrollo Producto
 
+### [Creando Cloud Tutorial](https://rominirani.com/creating-google-cloud-shell-tutorials-a1774cc4eb93)
+I love creating developer tutorials. A recently released feature on Google Cloud Platform allows you to create a tutorial that runs inside Google Cloud Shell. This definitely opens up multiple possibilities and all I need to do to keep this tutorial updated is probably minimal text changes and code updates. I think it has very good potential and I am excited about it.
+
+This blog post will be about how to go about creating tutorials that provide a seamless experience to the user in terms of packaging all the code necessary to run your tutorial, provision that on the Cloud Shell and provide step by step instructions that helps the reader follow along, in true tutorial style.
+
 ### [Causas de fallo del desarrollo de producto](https://medium.com/@itortv/reflexi%C3%B3n-sobre-la-inc%C3%B3moda-charla-the-root-cause-of-product-failure-de-marty-cagan-6704783e10)
 Una empresa orientada a producto debe tener como misión masterizar este proceso. Estudiar los problemas actuales, buscar alternativas e inspiraciones para descubrir y entregar más rápido. Sino, el riesgo aumenta, y el dinero disminuye.
 Para saber más: Inspired, how to create product customers love. By Marty Cagan. 
@@ -57,5 +62,18 @@ Extensiones recomendadas:
 
 (*) despues de instalar una extension reiniciar vscode para que tenga efecto
 
+[Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
+
 ### Firebase
 [CRUD en Firebase](https://youtu.be/W-NS2RZm7QM) conectando nuestra app web con firebase
+
+### Frontend 
+
+[Flutter](https://flutter.io/)
+[Google lanza Flutter](https://www.esferaiphone.com/desarrolladores-2/primera-beta-flutter-google/)
+Build beautiful native apps in record time.
+Flutter is Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. 
+
+[Little UI details](https://twitter.com/i/moments/880688233641848832)
+A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
+
