@@ -32,3 +32,12 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 ### [Causas de fallo del desarrollo de producto](https://medium.com/@itortv/reflexi%C3%B3n-sobre-la-inc%C3%B3moda-charla-the-root-cause-of-product-failure-de-marty-cagan-6704783e10)
 Una empresa orientada a producto debe tener como misión masterizar este proceso. Estudiar los problemas actuales, buscar alternativas e inspiraciones para descubrir y entregar más rápido. Sino, el riesgo aumenta, y el dinero disminuye.
 Para saber más: Inspired, how to create product customers love. By Marty Cagan. 
+
+### [How to Build a Secret Product](https://dzone.com/articles/how-to-build-a-secret-product)
+Project Proton has been an ambitious project from the beginning, and while I can’t go into the details yet, I can share the biggest lessons that we’ve learned as a company and reveal some useful tools that we’ve used along the way, such as:
+* Start the way you mean to finish;
+* Articulating the "why";
+* Get the hell out of the building;
+* Keep competitors in the rear-view mirror;
+* Focus on building value, not features; and,
+* Document, document, and document.
