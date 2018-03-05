@@ -41,3 +41,18 @@ Project Proton has been an ambitious project from the beginning, and while I can
 * Keep competitors in the rear-view mirror;
 * Focus on building value, not features; and,
 * Document, document, and document.
+
+## Herramientas
+
+### [Visual Studio Code]
+[Visual Studio Code - Tutorial Español](https://youtu.be/Esnj9pntvyU) Tutorial básico para puesta en marcha
+Extensiones recomendadas:
+* VSCode icons, permite identificar iconos de los ficheros del proyecto/abiertos
+* HTML Snippets permite escribir html/js/css con snippets para ahorrar codigo (consultar archivos/preferences/atajos)
+* Javascript (ES6) code snippets
+* HTML CSS suport
+* Beautify
+* ESLint, integra ESLint dentro de VSCode
+* Saas, identado y autocompletado
+
+(*) despues de instalar una extension reiniciar vscode para que tenga efecto
