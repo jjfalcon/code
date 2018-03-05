@@ -29,6 +29,9 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 
 ## Desarrollo Producto
 
+### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
+Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
+
 ### [Creando Cloud Tutorial](https://rominirani.com/creating-google-cloud-shell-tutorials-a1774cc4eb93)
 I love creating developer tutorials. A recently released feature on Google Cloud Platform allows you to create a tutorial that runs inside Google Cloud Shell. This definitely opens up multiple possibilities and all I need to do to keep this tutorial updated is probably minimal text changes and code updates. I think it has very good potential and I am excited about it.
 
@@ -49,9 +52,38 @@ Project Proton has been an ambitious project from the beginning, and while I can
 
 ## Herramientas
 
+[Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
+In the tech world, there are thousands of tools that people will tell you to use. How are you supposed to know where to start?  If you are just starting to learn how to program, this will hopefully offer you some guidance. If you are a seasoned developer, hopefully you will still learn something new. I am going to recomend:
+
+Chrome Extensions
+* WhatFont. This is an easy way of finding out the fonts that your favorite website is using
+* Pesticide. Useful for seeing the outlines of your <div>s and modifying CSS.
+* Colorzilla.  Useful for copying exact colors off of a website.
+* CSS Peeper.   Useful for looking at colors and assets used on a website.
+* Wappalizer.  Useful for seeing the technologies being used on a website. 
+* JSON Formatter .  Useful for making JSON look cleaner in the browser. 
+* Vimeo Repeat and Speed . Useful for speeding up Vimeo videos.
+* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=es) Dibuja una regla para obtener las dimensiones en píxeles. Mide objetos de cualquier página web.
+
+VS Code extensions
+* Auto Rename Tag . Auto rename paired HTML tags.
+* HTML CSS Support . CSS support for HTML documents.
+* HTML Snippets . Useful code snippets. Another nice time saver. Pair this with Emmet and you barely ever have to type real HTML again.
+* Babel ES6/ES7 . Adds JavaScript Babel syntax coloring.
+* Bracket Pair Colorizer . Adds colors to brackets for easier block visualization. 
+* ESLint . Integrates ESLint into Visual Studio Code.
+* Guides . Adds extra guide lines to code.
+* JavaScript Console Utils . Makes for easier console logging. 
+* Code Spell Checker . Spelling checker that accounts for camelCase.
+* Git Lens.  Makes it easier to see when, and by whom, changes were made. 
+* Path Intellisense . File path autocompletion.
+* Prettier . Automatic code formatter. 
+* VSCode-Icons . Adds icons to the file tree. 
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Launch a development local Server with live reload feature for static & dynamic page.
+
 ### Git - GitHub
 [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
-As a developer, you can’t avoid using GitHub or another Git-based tool on a daily basis as part of your work. It’s used to either host your code or to collaborate on other people’s code. This article explains some key concepts of GitHub, and how to use some of its features to improve your workflow.
+As a developer, you can’t avoid using GitHub or another Git-based tool on a daily basis as part of your work. It’s used to either host your code or to collaborate on other people’s code. This article explains some key concepts of GitHub, and how to use some of its features to improve your workflow. 
 
 ### Visual Studio Code
 [Visual Studio Code - Tutorial Español](https://youtu.be/Esnj9pntvyU) Tutorial básico para puesta en marcha
