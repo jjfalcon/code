@@ -44,7 +44,7 @@ Project Proton has been an ambitious project from the beginning, and while I can
 
 ## Herramientas
 
-### [Visual Studio Code]
+### Visual Studio Code
 [Visual Studio Code - Tutorial Español](https://youtu.be/Esnj9pntvyU) Tutorial básico para puesta en marcha
 Extensiones recomendadas:
 * VSCode icons, permite identificar iconos de los ficheros del proyecto/abiertos
@@ -56,3 +56,6 @@ Extensiones recomendadas:
 * Saas, identado y autocompletado
 
 (*) despues de instalar una extension reiniciar vscode para que tenga efecto
+
+### Firebase
+[CRUD en Firebase](https://youtu.be/W-NS2RZm7QM) conectando nuestra app web con firebase
