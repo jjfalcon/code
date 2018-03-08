@@ -50,6 +50,11 @@ Project Proton has been an ambitious project from the beginning, and while I can
 * Focus on building value, not features; and,
 * Document, document, and document.
 
+### [The Agile Fluency Model](https://martinfowler.com/articles/agileFluency.html)
+Agile methods are solidly in the mainstream, but that popularity hasn't been without its problems. Organizational leaders are complaining that they’re not getting the benefits they expected. This article presents a fluency model that will help you get the most out of agile ideas. Fluency evolves through four distinct zones, each with its own benefits, required proficiencies, and key metrics. 
+
+![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
+
 ## Herramientas
 
 [Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
