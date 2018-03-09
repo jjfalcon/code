@@ -108,8 +108,10 @@ Extensiones recomendadas:
 ### Firebase
 [CRUD en Firebase](https://youtu.be/W-NS2RZm7QM) conectando nuestra app web con firebase
 
-### Frontend 
+### Rest
+[REST API Security](https://dzone.com/refcardz/rest-api-security-1?chapter=1) Rest API security is the single biggest challenge organizations want to see solved in the years ahead. This Refcard provide a better understanding of REST APIs, authentication types, and other aspects of security.
 
+### Frontend 
 [Flutter](https://flutter.io/)
 [Google lanza Flutter](https://www.esferaiphone.com/desarrolladores-2/primera-beta-flutter-google/)
 Build beautiful native apps in record time.
@@ -117,4 +119,3 @@ Flutter is Google’s mobile UI framework for crafting high-quality native inter
 
 [Little UI details](https://twitter.com/i/moments/880688233641848832)
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
-
