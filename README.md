@@ -119,3 +119,8 @@ Flutter is Google’s mobile UI framework for crafting high-quality native inter
 
 [Little UI details](https://twitter.com/i/moments/880688233641848832)
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
+
+[Paligo. La nueva generacion de documentación técnica](https://intojs.github.io/architecting-single-page-applications/)
+Una único origen de contenido completo y publicación multicanal. Genera tu contenido una vez y publicalo donde quieras.
+Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCORM para eLearning, MS Word, presentación HTML5, y muchos más formatos.
+
