@@ -27,6 +27,8 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 
 ![Pirámide de Test](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
 
+### [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
+
 ## Desarrollo Producto
 
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
