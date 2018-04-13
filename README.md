@@ -57,6 +57,11 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
 
+### OTROS
+
+[Every Agile Software Project Needs a User Story Map ](https://dzone.com/articles/every-agile-software-project-needs-a-user-story-ma)
+
+
 ## Herramientas
 
 [Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
@@ -126,4 +131,8 @@ A collections of little tips from @steveschoger to improve your visual design sk
 [Paligo. La nueva generacion de documentación técnica](https://intojs.github.io/architecting-single-page-applications/)
 Una único origen de contenido completo y publicación multicanal. Genera tu contenido una vez y publicalo donde quieras.
 Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCORM para eLearning, MS Word, presentación HTML5, y muchos más formatos.
+
+## Ejemplos
+
+[Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
