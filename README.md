@@ -30,6 +30,7 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 ### [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
 ## Desarrollo Producto
+[¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
 
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
@@ -58,11 +59,14 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 ![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
 
 ### OTROS
+[Aprendizajes con Google Forms](https://medium.com/@ladypain/aprendizajes-con-google-forms-4c26b4c9151a) Pregunta para validar hipotesis antes de desarrollar una app.
 
 [Every Agile Software Project Needs a User Story Map ](https://dzone.com/articles/every-agile-software-project-needs-a-user-story-ma)
 
+[StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
 ## Herramientas
+[Repl.it: programa desde tu navegador gratis y con más de 40 lenguajes](https://www.genbeta.com/web/repl-it-programa-desde-tu-navegador-gratis-y-con-mas-de-40-lenguajes)
 
 [Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 In the tech world, there are thousands of tools that people will tell you to use. How are you supposed to know where to start?  If you are just starting to learn how to program, this will hopefully offer you some guidance. If you are a seasoned developer, hopefully you will still learn something new. I am going to recomend:
