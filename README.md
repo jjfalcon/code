@@ -32,6 +32,8 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 ## Desarrollo Producto
 [¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
 
+[6 Tips to Design an MVP of Your Promising Idea](https://dzone.com/articles/6-tips-to-design-an-mvp-of-your-promising-idea)
+
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
 
@@ -139,4 +141,7 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 ## Ejemplos
 
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
+
+## Videos
+[¿Cobras poco? Carreras profesionales en software | David Bonilla en T3chFest 2018](https://www.youtube.com/watch?v=d2_CUOeCgVE&app=desktop) Bonilla
 
