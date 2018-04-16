@@ -75,6 +75,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [Repl.it: programa desde tu navegador gratis y con más de 40 lenguajes](https://www.genbeta.com/web/repl-it-programa-desde-tu-navegador-gratis-y-con-mas-de-40-lenguajes)
 
+[Creating Google Cloud Shell Tutorials](https://rominirani.com/creating-google-cloud-shell-tutorials-a1774cc4eb93)
+
 [Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 In the tech world, there are thousands of tools that people will tell you to use. How are you supposed to know where to start?  If you are just starting to learn how to program, this will hopefully offer you some guidance. If you are a seasoned developer, hopefully you will still learn something new. I am going to recomend:
 
