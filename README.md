@@ -68,6 +68,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 [StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
 ## Herramientas
+[Getting Started With Jenkins: The Ultimate Guide](https://dzone.com/articles/getting-started-with-jenkins-the-ultimate-guide?oid=twitter)
+
 [Repl.it: programa desde tu navegador gratis y con más de 40 lenguajes](https://www.genbeta.com/web/repl-it-programa-desde-tu-navegador-gratis-y-con-mas-de-40-lenguajes)
 
 [Tools I wish I had known about when I started coding on web](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
