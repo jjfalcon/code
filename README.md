@@ -16,6 +16,9 @@ Es un artículo resumen de [este repositorio](https://github.com/jupeter/clean-c
 * usar comentarios de bloque para indicar la intencion (porque) lo hacemos así al que lo lee.
 * evitar comentarios para describir codigo, definelo en el propio codigo
 
+### [Implementing SOLID and the onion architecture](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
+Este artículo describre la arquitectura de cebolla. Esta arquitectura, es una arquitectura de aplicaciones software que sigue los principios SOLID. Usa ampliamente el principio de inyección de dependencias, y está influenciada por los principios Domain Driven Design (DDD) y algunos principios de programación funcional.
+
 ### [Herramientas para programadores](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 Extensiones Chrome y Extensiones VisualCode para programadores web
 
