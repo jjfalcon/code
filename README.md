@@ -70,6 +70,10 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
+### Comercial
+
+[Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
+
 ## Cloud
 
 [Lanzamiento de Cloud Functions para Firebase v1.0](https://developers-latam.googleblog.com/2018/04/lanzamiento-de-cloud-functions-para.html) 
