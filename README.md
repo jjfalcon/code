@@ -70,6 +70,10 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
+## Cloud
+
+[Lanzamiento de Cloud Functions para Firebase v1.0](https://developers-latam.googleblog.com/2018/04/lanzamiento-de-cloud-functions-para.html) 
+
 ## Herramientas
 [Getting Started With Jenkins: The Ultimate Guide](https://dzone.com/articles/getting-started-with-jenkins-the-ultimate-guide?oid=twitter)
 
