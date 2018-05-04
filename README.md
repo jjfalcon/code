@@ -88,6 +88,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [Ahora puedes documentar automáticamente tus API con Cloud Endpoints](https://developers-latam.googleblog.com/2018/04/ahora-puedes-documentar-automaticamente.html)
 
+[Google Cloud Functions Tutorial](https://rominirani.com/google-cloud-functions-tutorial-overview-of-computing-options-3c27781e8ced)
+
 ## Herramientas
 [Getting Started With Jenkins: The Ultimate Guide](https://dzone.com/articles/getting-started-with-jenkins-the-ultimate-guide?oid=twitter)
 
