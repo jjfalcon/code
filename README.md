@@ -128,6 +128,8 @@ VS Code extensions
 [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 As a developer, you can’t avoid using GitHub or another Git-based tool on a daily basis as part of your work. It’s used to either host your code or to collaborate on other people’s code. This article explains some key concepts of GitHub, and how to use some of its features to improve your workflow. 
 
+[El nuevo laboratorio de aprendizaje de GitHub te enseña todo sobre la plataforma y el desarrollo colaborativo](https://www.genbeta.com/actualidad/el-nuevo-laboratorio-de-aprendizaje-de-github-te-ensena-todo-sobre-la-plataforma-y-el-desarrollo-colaborativo)
+
 ### Visual Studio Code
 [Visual Studio Code - Tutorial Español](https://youtu.be/Esnj9pntvyU) Tutorial básico para puesta en marcha
 Extensiones recomendadas:
