@@ -32,6 +32,12 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 
 ### [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
+[Testing in Production - Quality Software Faster](https://www.youtube.com/watch?v=9C0efJkT0Hg&feature=em-uploademail)
+Una presentación rompedora de como realizar testing directamente en producción, donde el resumen sería:
+* realiza operaciones periodicas en producción que quieras testear
+* realiza operaciones en los periodos valle donde no tienes excesva carga y tienes margen de solucionar antes de cuello botella
+* las operaciones que no se registren en datos vivos para no alterar el sistema.
+
 ## Desarrollo Producto
 [¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
 
