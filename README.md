@@ -69,6 +69,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
 
+[Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
+
 ### OTROS
 [Aprendizajes con Google Forms](https://medium.com/@ladypain/aprendizajes-con-google-forms-4c26b4c9151a) Pregunta para validar hipotesis antes de desarrollar una app.
 
