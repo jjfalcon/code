@@ -39,6 +39,9 @@ Una presentación rompedora de como realizar testing directamente en producción
 * las operaciones que no se registren en datos vivos para no alterar el sistema.
 
 ## Desarrollo Producto
+
+[Why Should You Choose Rapid App Prototyping Prior to Building Your MVP?](https://dzone.com/articles/why-should-you-choose-rapid-app-prototyping-prior)
+
 [¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
 
 [6 Tips to Design an MVP of Your Promising Idea](https://dzone.com/articles/6-tips-to-design-an-mvp-of-your-promising-idea)
