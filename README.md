@@ -40,6 +40,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
+
 [Why Should You Choose Rapid App Prototyping Prior to Building Your MVP?](https://dzone.com/articles/why-should-you-choose-rapid-app-prototyping-prior)
 
 [¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
