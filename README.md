@@ -137,6 +137,8 @@ VS Code extensions
 * VSCode-Icons . Adds icons to the file tree. 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Launch a development local Server with live reload feature for static & dynamic page.
 
+[Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
+
 ### Git - GitHub
 [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 As a developer, you can’t avoid using GitHub or another Git-based tool on a daily basis as part of your work. It’s used to either host your code or to collaborate on other people’s code. This article explains some key concepts of GitHub, and how to use some of its features to improve your workflow. 
