@@ -100,6 +100,9 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 [Google Cloud Functions Tutorial](https://rominirani.com/google-cloud-functions-tutorial-overview-of-computing-options-3c27781e8ced)
 
 ## Herramientas
+
+[MarkText](https://marktext.github.io/website/) Mark Text is a Markdown multi-platform (build with electron) editor for Mac, Windows, and Linux. It is a concise text editor, dedicated to improving your editing efficiency.
+
 [Getting Started With Jenkins: The Ultimate Guide](https://dzone.com/articles/getting-started-with-jenkins-the-ultimate-guide?oid=twitter)
 
 [Google Cloud Functions Tutorial : Writing our first Google Cloud Function](https://rominirani.com/google-cloud-functions-tutorial-writing-our-first-google-cloud-function-a62de60b5c90)
