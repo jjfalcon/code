@@ -101,6 +101,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ## Herramientas
 
+[hackr.io](https://wwwhatsnew.com/2018/05/19/hackr-un-buscador-de-los-mejores-cursos-y-tutoriales-de-programacion/?utm_source=dlvr.it&utm_medium=twitter) hackr, un buscador de los mejores cursos y tutoriales de programación
+
 [MarkText](https://marktext.github.io/website/) Mark Text is a Markdown multi-platform (build with electron) editor for Mac, Windows, and Linux. It is a concise text editor, dedicated to improving your editing efficiency.
 
 [Getting Started With Jenkins: The Ultimate Guide](https://dzone.com/articles/getting-started-with-jenkins-the-ultimate-guide?oid=twitter)
