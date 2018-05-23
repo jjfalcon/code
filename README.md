@@ -22,6 +22,8 @@ Este artículo describre la arquitectura de cebolla. Esta arquitectura, es una a
 ### [Herramientas para programadores](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 Extensiones Chrome y Extensiones VisualCode para programadores web
 
+[Refcard Lean Software Development](https://dzone.com/storage/assets/9163261-dzone-refcard93-leansoftwaredevelopment.pdf)
+
 ## Test
 
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
