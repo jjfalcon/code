@@ -40,6 +40,9 @@ Una presentación rompedora de como realizar testing directamente en producción
 * realiza operaciones en los periodos valle donde no tienes excesva carga y tienes margen de solucionar antes de cuello botella
 * las operaciones que no se registren en datos vivos para no alterar el sistema.
 
+[TDD](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf) TDD course book absolutely free. 222 pages of clear and to-the-point tutorials and exercises that take you from the basics of Red-Green-Refactor to advanced skills in software design, refactoring, Continuous Integration and beyond. This book goes further than any other TDD book or course on the market. Whether you’re completely new to TDD, or an experienced practitioner, this book - and its associated training workshop - will challenge and improve you.
+
+
 ## Desarrollo Producto
 
 [Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
