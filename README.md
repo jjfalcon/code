@@ -47,6 +47,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[A Step-by-Step Guide to Build a Minimum Viable Product (MVP) ](https://dzone.com/articles/a-step-by-step-guide-to-build-a-minimum-viable-pro)
+
 [Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
 
 [Why Should You Choose Rapid App Prototyping Prior to Building Your MVP?](https://dzone.com/articles/why-should-you-choose-rapid-app-prototyping-prior)
