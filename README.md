@@ -47,6 +47,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
+
 [A Step-by-Step Guide to Build a Minimum Viable Product (MVP) ](https://dzone.com/articles/a-step-by-step-guide-to-build-a-minimum-viable-pro)
 
 [Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
@@ -107,6 +109,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 [Google Cloud Platform Project Setup](https://rominirani.com/google-cloud-functions-tutorial-writing-our-first-google-cloud-function-a62de60b5c90)
 
 [Google Cloud Functions Tutorial](https://rominirani.com/google-cloud-functions-tutorial-overview-of-computing-options-3c27781e8ced)
+
+[Modern Distributed Application deployment with Kubernetes and mongodb atlas](https://scotch.io/tutorials/modern-distributed-application-deployment-with-kubernetes-and-mongodb-atlas)
 
 ## Herramientas
 
