@@ -100,6 +100,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ## Cloud
 
+[Cloud Source Repositories: más que un repositorio Git privado ](https://developers-latam.googleblog.com/2018/06/cloud-source-repositories-mas-que-un.html)
+
 [Lanzamiento de Cloud Functions para Firebase v1.0](https://developers-latam.googleblog.com/2018/04/lanzamiento-de-cloud-functions-para.html) 
 
 [Ahora puedes documentar automáticamente tus API con Cloud Endpoints](https://developers-latam.googleblog.com/2018/04/ahora-puedes-documentar-automaticamente.html)
