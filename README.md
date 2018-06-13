@@ -44,7 +44,6 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [TDD](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf) TDD course book absolutely free. 222 pages of clear and to-the-point tutorials and exercises that take you from the basics of Red-Green-Refactor to advanced skills in software design, refactoring, Continuous Integration and beyond. This book goes further than any other TDD book or course on the market. Whether you’re completely new to TDD, or an experienced practitioner, this book - and its associated training workshop - will challenge and improve you.
 
-
 ## Desarrollo Producto
 
 [El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
@@ -58,6 +57,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 [¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
 
 [6 Tips to Design an MVP of Your Promising Idea](https://dzone.com/articles/6-tips-to-design-an-mvp-of-your-promising-idea)
+
+[Seguridad desde diseño](https://www.continuumsecurity.net/)
 
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
