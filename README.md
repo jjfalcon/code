@@ -21,6 +21,8 @@ Este artículo describre la arquitectura de cebolla. Esta arquitectura, es una a
 
 ### [Auditoria de Apps](http://blog.koalite.com/2018/05/auditoria-quien-ha-hecho-que/) Patrones para guardar un registro de los cambios realizados en entidades.
 
+### [No subestimes el poder de un log](http://blog.koalite.com/2014/09/no-subestimes-el-poder-de-un-log/)
+
 ### [Herramientas para programadores](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 Extensiones Chrome y Extensiones VisualCode para programadores web
 
@@ -47,6 +49,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 [TDD](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf) TDD course book absolutely free. 222 pages of clear and to-the-point tutorials and exercises that take you from the basics of Red-Green-Refactor to advanced skills in software design, refactoring, Continuous Integration and beyond. This book goes further than any other TDD book or course on the market. Whether you’re completely new to TDD, or an experienced practitioner, this book - and its associated training workshop - will challenge and improve you.
 
 ## Desarrollo Producto
+
+[The benefits of side projects](https://dzone.com/articles/the-benefits-of-side-projects)
 
 [El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
 
@@ -91,6 +95,7 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 [Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
 
 ### OTROS
+
 [Aprendizajes con Google Forms](https://medium.com/@ladypain/aprendizajes-con-google-forms-4c26b4c9151a) Pregunta para validar hipotesis antes de desarrollar una app.
 
 [Every Agile Software Project Needs a User Story Map ](https://dzone.com/articles/every-agile-software-project-needs-a-user-story-ma)
