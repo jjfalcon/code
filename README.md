@@ -108,6 +108,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ## Cloud
 
+[Tutorial : Analyzing Reviews using Google Sheets and Cloud Natural Language API](https://rominirani.com/tutorial-analyzing-reviews-using-google-sheets-and-cloud-natural-language-api-240ec8f3090c)
+
 [Cloud Source Repositories: más que un repositorio Git privado ](https://developers-latam.googleblog.com/2018/06/cloud-source-repositories-mas-que-un.html)
 
 [Lanzamiento de Cloud Functions para Firebase v1.0](https://developers-latam.googleblog.com/2018/04/lanzamiento-de-cloud-functions-para.html) 
