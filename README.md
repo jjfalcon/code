@@ -108,6 +108,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ## Cloud
 
+[Blog de Google Cloud Platform: Momento de presentar “Hello, World”: VM vs. contenedores, PaaS y FaaS ](https://developers-latam.googleblog.com/2018/06/blog-de-google-cloud-platform-momento_20.html)
+
 [Tutorial : Analyzing Reviews using Google Sheets and Cloud Natural Language API](https://rominirani.com/tutorial-analyzing-reviews-using-google-sheets-and-cloud-natural-language-api-240ec8f3090c)
 
 [Cloud Source Repositories: más que un repositorio Git privado ](https://developers-latam.googleblog.com/2018/06/cloud-source-repositories-mas-que-un.html)
