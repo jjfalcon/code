@@ -50,6 +50,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
+
 [The benefits of side projects](https://dzone.com/articles/the-benefits-of-side-projects)
 
 [El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
