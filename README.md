@@ -104,6 +104,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
+[One day resolutions](https://one-day-resolutions.codecademy.com/) Pequeñas formaciones de un dia. Directas al grano!
+
 ### Comercial
 
 [Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
