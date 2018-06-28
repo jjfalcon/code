@@ -134,6 +134,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [Modern Distributed Application deployment with Kubernetes and mongodb atlas](https://scotch.io/tutorials/modern-distributed-application-deployment-with-kubernetes-and-mongodb-atlas)
 
+[Netlify](https://www.netlify.com/)Build, deploy, and managemodern web projects 
+
 ## Herramientas
 
 [Station](https://getstation.com/) Station is the first smart workstation for busy people.
