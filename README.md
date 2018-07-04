@@ -72,6 +72,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [Seguridad desde diseño](https://www.continuumsecurity.net/)
 
+[One page product design - Jorge Barroso](https://www.youtube.com/watch?v=9wVJHZEeTY0)
+
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
 
