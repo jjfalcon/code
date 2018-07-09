@@ -102,8 +102,11 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
 
-[
-Komercia una startup colombiana que Google Launchpad Start cambio en una semana](https://developers-latam.googleblog.com/2018/07/komercia-una-startup-colombiana-que.html)
+[Komercia una startup colombiana que Google Launchpad Start cambio en una semana](https://developers-latam.googleblog.com/2018/07/komercia-una-startup-colombiana-que.html)
+
+[Experiencias trabajando en remoto](https://twitter.com/nyan_dev/status/1014968748737024000?refsrc=email&s=11&ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eemail) Experiencia de trabajo remoto en empresa 100% remota. La gran ventaja es contratar gente de cualquier parte del mundo (mas oferta, y más especialización). Cada desarrollador crear un nuevo repositorio en Github, y una nueva aplicación en Heroku. Programa, testea, despliega, mantiene, monitoriza, y todos los automatismos (scripts) necesarios que lo soportan. Utilizar las herramientas que mejor se adapte a cada contexto, lo que por supuesto se aplica al codigo, y a todos los ámbitos (comunicación, etc) Por ejemplo usan Trello en lugar de Jira. Con un board por proyecto y una tarjeta por tarea. Para comunicación asícrona sobre tareas, se escribe comentario en tarjeta, y el responsable la contesta sobre la misma tarejta cuando pueda. Di hola cuando empiezas, adios cuando te vas, y avisa cuando no vas a estar. Recuerda que no pueden verte y se trata de responsabilidad. Empatiza con el horario de tus compañeros. No dejes un marron al final del día de un compañero, si no es estricamente necesario. Piensa si a ti te gustaría. Puedes posponer el aviso hasta su mañana para evitarle el susto. También se usa Slack para comunicación no asociada directamente a las tareas. Negarse a herramientas de monitorizacion del tiempo estilo TimeDoctor.
+
+Para las reuniones sincronas ineludibles se concierta un horario común, y se escriben las conclusiones de esas conversaciones en un lugar común al que pueda acceder cualquiera que por alguna razón no haya podido acudir.
 
 ### OTROS
 
