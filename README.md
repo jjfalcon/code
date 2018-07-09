@@ -102,6 +102,9 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 [Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
 
+[
+Komercia una startup colombiana que Google Launchpad Start cambio en una semana](https://developers-latam.googleblog.com/2018/07/komercia-una-startup-colombiana-que.html)
+
 ### OTROS
 
 [Aprendizajes con Google Forms](https://medium.com/@ladypain/aprendizajes-con-google-forms-4c26b4c9151a) Pregunta para validar hipotesis antes de desarrollar una app.
