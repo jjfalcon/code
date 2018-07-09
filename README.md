@@ -140,6 +140,12 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 ## Herramientas
 
+### Como optimizar nuestros sistemas operativos
+
+[Windows]()
+[Mac]()
+[GNU-Linux](https://blog.desdelinux.net/como-optimizar-gnu-linux/)
+
 [DevDocs](https://medium.freecodecamp.org/devdocs-is-joining-the-freecodecamp-community-ae185a1c14a6) https://github.com/jjfalcon/node/blob/master/README.md
 
 [Station](https://getstation.com/) Station is the first smart workstation for busy people.
