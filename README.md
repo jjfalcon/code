@@ -32,6 +32,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [Refcard Lean Software Development](https://dzone.com/storage/assets/9163261-dzone-refcard93-leansoftwaredevelopment.pdf)
 
+[Application Agility Canvas](https://dzone.com/articles/application-agility-canvas)
+
 ## Test
 
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
