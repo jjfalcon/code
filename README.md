@@ -23,6 +23,10 @@ Es un artículo resumen de [este repositorio](https://github.com/jupeter/clean-c
 ### [Implementing SOLID and the onion architecture](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
 Este artículo describre la arquitectura de cebolla. Esta arquitectura, es una arquitectura de aplicaciones software que sigue los principios SOLID. Usa ampliamente el principio de inyección de dependencias, y está influenciada por los principios Domain Driven Design (DDD) y algunos principios de programación funcional.
 
+### [Evolutionary Database Design](https://www.martinfowler.com/articles/evodb.html)
+Can database schemas be developed using Agile practices? This article says Yes! 
+Over the last decade we've developed and refined a number of techniques that allow a database design to evolve as an application develops. This is a very important capability for agile methodologies. The techniques rely on applying continuous integration and automated refactoring to database development, together with a close collaboration between DBAs and application developers. The techniques work in both pre-production and released systems, in green field projects as well as legacy systems.
+
 ### [Auditoria de Apps](http://blog.koalite.com/2018/05/auditoria-quien-ha-hecho-que/) Patrones para guardar un registro de los cambios realizados en entidades.
 
 ### [No subestimes el poder de un log](http://blog.koalite.com/2014/09/no-subestimes-el-poder-de-un-log/)
