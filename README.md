@@ -258,3 +258,14 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 ## Videos
 [¿Cobras poco? Carreras profesionales en software | David Bonilla en T3chFest 2018](https://www.youtube.com/watch?v=d2_CUOeCgVE&app=desktop) Bonilla
 
+[9 charlas comunidad CODE](https://twitter.com/comunidadcode/status/1017832172407918592) Entre las que se encuentran:
+* Continuos delivery
+* Ilusionismo con GitHub Pages
+* Kubernetes
+* Por que fallan los tests en Jenkins. Elastec te ayuda a descubrirlo
+* Larga vida al legacy
+* Un viaje por CosmosDB
+* Microservices from the trenches
+* El camino hacia evolvables APIs
+* Cuando los propósitos de año nuevo se cumplen. Comparando Angular, React y Aurelia
+
