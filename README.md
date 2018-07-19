@@ -150,6 +150,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## Herramientas
 
+[Usar AVA para tests en una API hecha en Node.js y Express](https://blog.adrianistan.eu/2018/07/15/usar-ava-para-tests-en-una-api-hecha-en-node-js-y-express/)
+
 ### Como optimizar nuestros sistemas operativos
 
 [Windows]()
