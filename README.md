@@ -3,6 +3,8 @@ En este documento se recopila la información general para programar y desarroll
 
 [A Developer’s Guide to Setting and Smashing Career Goals](https://simpleprogrammer.com/developers-setting-career-goals/)
 
+[Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
+
 ### [Interesante ciclo desarrollo to-DO](https://medium.com/finizens-engineering/nuestro-ciclo-de-desarrollo-to-do-fe7acdac8ce5)
 
 ### [Algunos trucos para escribir código](https://jesuslc.com/2018/02/05/algunos-trucos-para-escribir-codigo/)
