@@ -60,6 +60,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [TDD](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf) TDD course book absolutely free. 222 pages of clear and to-the-point tutorials and exercises that take you from the basics of Red-Green-Refactor to advanced skills in software design, refactoring, Continuous Integration and beyond. This book goes further than any other TDD book or course on the market. Whether you’re completely new to TDD, or an experienced practitioner, this book - and its associated training workshop - will challenge and improve you.
 
+[How to Prevent Secrets in Source Code with Inspecode](https://blog-en.rocro.com/2018/06/15/how-to-prevent-secrets-in-source-code-with-inspecode/)
+
 ## Desarrollo Producto
 
 [5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
