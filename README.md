@@ -128,6 +128,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### Comercial
 
+[Guía de marketing para apps](http://delphimagic.blogspot.com/2018/08/guia-de-marketing-para-apps.html)
+
 [Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
 
 ## Cloud
