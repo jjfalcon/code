@@ -163,6 +163,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Netlify](https://www.netlify.com/)Build, deploy, and managemodern web projects 
 
 ## Herramientas
+[Trello]
+[Zenkit](https://www.genbeta.com/a-fondo/zenkit-app-productividad-para-gestionar-proyectos-usando-kanban-que-podria-ser-mejor-rival-trello)
 
 [Usar AVA para tests en una API hecha en Node.js y Express](https://blog.adrianistan.eu/2018/07/15/usar-ava-para-tests-en-una-api-hecha-en-node-js-y-express/)
 
@@ -287,3 +289,6 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 
 [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
 
+[#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
+
+[Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
