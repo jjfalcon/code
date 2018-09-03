@@ -292,3 +292,5 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 [#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
 
 [Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
+
+[ajlopez GitHub](https://github.com/ajlopez)
