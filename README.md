@@ -267,6 +267,8 @@ A collections of little tips from @steveschoger to improve your visual design sk
 Una único origen de contenido completo y publicación multicanal. Genera tu contenido una vez y publicalo donde quieras.
 Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCORM para eLearning, MS Word, presentación HTML5, y muchos más formatos.
 
+[joplin](https://github.com/laurent22/joplin) Gestor de notas opensource multiplataforma
+
 ## Ejemplos
 
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
