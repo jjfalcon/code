@@ -5,6 +5,8 @@ En este documento se recopila la información general para programar y desarroll
 
 [Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
 
+[The Best Way to Become a Complete Software Developer](https://dzone.com/articles/the-best-way-to-become-a-complete-software-develop)
+
 ### [Interesante ciclo desarrollo to-DO](https://medium.com/finizens-engineering/nuestro-ciclo-de-desarrollo-to-do-fe7acdac8ce5)
 
 ### [Algunos trucos para escribir código](https://jesuslc.com/2018/02/05/algunos-trucos-para-escribir-codigo/)
