@@ -1,6 +1,8 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[Conventional Commits 1.0.0-beta.2](https://conventionalcommits.org/)
+
 [A Developer’s Guide to Setting and Smashing Career Goals](https://simpleprogrammer.com/developers-setting-career-goals/)
 
 [Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
