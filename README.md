@@ -68,6 +68,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[Iterating a Big, Crazy Idea into a Six-Figure Business](https://leanstartup.co/iterating-a-big-crazy-idea-into-a-six-figure-business/)
+
 ![alt text](https://pbs.twimg.com/media/DoIfxWdUUAAipXt.jpg:small "Comunicacion equipos")
 Añadir mas colaboradores a un proyecto aumenta la complejidad exponencialmente. Pasar de 3 a 4 duplica el numero de lineas de comunicacion. La formula de las lineas de comunicacion de un equipo de n participantes es (n*(n-1))/2. Y eso teniendo en cuenta que sea un equipo totalmente horizontal, ya que si añadimos niveles la calidad de la comunicación se complica con cada nivel de forma linea a exponencial. Esto se duplica si consideramos que una linea de comunicación es bidireccional, y además que tenemos que hablar y escuchar diferente a cada persona.
 
