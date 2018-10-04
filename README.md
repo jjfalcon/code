@@ -68,6 +68,14 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+![alt text](https://pbs.twimg.com/media/DoIfxWdUUAAipXt.jpg:small "Comunicacion equipos")
+Añadir mas colaboradores a un proyecto aumenta la complejidad exponencialmente. Pasar de 3 a 4 duplica el numero de lineas de comunicacion. La formula de las lineas de comunicacion de un equipo de n participantes es (n*(n-1))/2. Y eso teniendo en cuenta que sea un equipo totalmente horizontal, ya que si añadimos niveles la calidad de la comunicación se complica con cada nivel de forma linea a exponencial. Esto se duplica si consideramos que una linea de comunicación es bidireccional, y además que tenemos que hablar y escuchar diferente a cada persona.
+
+Una solución de que la complejidad sea lineal, es un nodo tenga toda la información verdadera, y todos solo se comunican con ese nodo, por ejemplo el control de versiones. En ese caso las lineas de comunicacion son n!
+
+Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
+
+
 [5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
 
 [The benefits of side projects](https://dzone.com/articles/the-benefits-of-side-projects)
