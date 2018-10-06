@@ -303,6 +303,8 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 * El camino hacia evolvables APIs
 * Cuando los propósitos de año nuevo se cumplen. Comparando Angular, React y Aurelia
 
+[Maths for programmers course](https://www.freecodecamp.org/news/beaucarnes/maths-for-programmers--09iy8H6lC)
+
 ## Formacion
 
 [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
