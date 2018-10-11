@@ -290,6 +290,9 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
 ## Videos
+
+Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [Web](https://carlosazaustre.es/)
+
 [¿Cobras poco? Carreras profesionales en software | David Bonilla en T3chFest 2018](https://www.youtube.com/watch?v=d2_CUOeCgVE&app=desktop) Bonilla
 
 [9 charlas comunidad CODE](https://twitter.com/comunidadcode/status/1017832172407918592) Entre las que se encuentran:
