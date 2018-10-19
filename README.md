@@ -48,6 +48,9 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [TDD Example in Software Development ](https://dzone.com/articles/tdd-first-cycle-part-2)
 
+[Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+
+
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 Es un artículo con código de ejemplo que explica la metáfora "Pirámide de Test", que nos agrupa los diferentes tests a realizar a un software, en unitarios, integración, aceptación.
 Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grupos, así como el rango de coste asociado.
@@ -78,7 +81,6 @@ Añadir mas colaboradores a un proyecto aumenta la complejidad exponencialmente.
 Una solución de que la complejidad sea lineal, es un nodo tenga toda la información verdadera, y todos solo se comunican con ese nodo, por ejemplo el control de versiones. En ese caso las lineas de comunicacion son n!
 
 Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
-
 
 [5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
 
@@ -145,6 +147,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [StackOverflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)
 
 [One day resolutions](https://one-day-resolutions.codecademy.com/) Pequeñas formaciones de un dia. Directas al grano!
+
+[https://schema.org/](https://schema.org/)Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ### Comercial
 
