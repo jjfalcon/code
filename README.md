@@ -71,7 +71,9 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [TDD](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf) TDD course book absolutely free. 222 pages of clear and to-the-point tutorials and exercises that take you from the basics of Red-Green-Refactor to advanced skills in software design, refactoring, Continuous Integration and beyond. This book goes further than any other TDD book or course on the market. Whether you’re completely new to TDD, or an experienced practitioner, this book - and its associated training workshop - will challenge and improve you.
 
-[How to Prevent Secrets in Source Code with Inspecode](https://blog-en.rocro.com/2018/06/15/how-to-prevent-secrets-in-source-code-with-inspecode/)
+[How to Prevent Secrets in Source Code with Inspecode](https://blog-en.rocro.com/2018/06/15/how-to-prevent-secrets-in-source-code-with-inspecode/) Cloud Build helps you create fast, consistent, reliable builds across all languages. With this new integration, you can easily set up CI through Cloud Build and automate builds and tests as part of your GitHub workflow.
+
+[Simplify your CI process with GitHub and Google Cloud Build](https://blog.github.com/2018-07-26-simplify-your-ci-process/)
 
 ## Desarrollo Producto
 
