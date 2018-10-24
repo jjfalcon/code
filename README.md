@@ -193,6 +193,11 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Usar AVA para tests en una API hecha en Node.js y Express](https://blog.adrianistan.eu/2018/07/15/usar-ava-para-tests-en-una-api-hecha-en-node-js-y-express/)
 
 [12 best tools for software developers](https://dzone.com/articles/12-best-tools-for-software-developers)
+For further resources, see the recommendations below.
+If you want to be a better developer, check out these [tools to make you a better software developer](https://www.codementor.io/learn-programming/software-developer-tools).
+If you work at a small business, you can also check out these [free tools for small businesses](https://fleep.io/blog/free-tools-for-small-business/).
+If you'd like to be a better communicator, check out this guide to [4 four ways developers can improve their communication skills](https://dzone.com/articles/4-ways-programmers-can-improve-their-communication).
+
 
 ### Como optimizar nuestros sistemas operativos
 
