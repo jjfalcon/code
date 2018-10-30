@@ -198,6 +198,7 @@ If you want to be a better developer, check out these [tools to make you a bette
 If you work at a small business, you can also check out these [free tools for small businesses](https://fleep.io/blog/free-tools-for-small-business/).
 If you'd like to be a better communicator, check out this guide to [4 four ways developers can improve their communication skills](https://dzone.com/articles/4-ways-programmers-can-improve-their-communication).
 
+[How to Improve Your App Team’s Collaboration with a Single Tool](https://dzone.com/articles/how-to-improve-your-app-teams-collaboration-with-a)
 
 ### Como optimizar nuestros sistemas operativos
 
