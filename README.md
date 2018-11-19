@@ -50,6 +50,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 
+[Builders: la solución definitiva a los datos de prueba en los test](https://dosideas.com/noticias/java/1054-builders-la-solucion-definitiva-a-los-datos-de-prueba-en-los-test)
+
 [How to test && commit || revert](https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520)
 test && commit || revert is a programming workflow where all code that passes your tests gets committed, but if the tests fail all the code written since the last commit will be gone.
 
