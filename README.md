@@ -1,6 +1,8 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
+
 [Conventional Commits 1.0.0-beta.2](https://conventionalcommits.org/)
 
 [A Developer’s Guide to Setting and Smashing Career Goals](https://simpleprogrammer.com/developers-setting-career-goals/)
@@ -80,6 +82,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 [How to Prevent Secrets in Source Code with Inspecode](https://blog-en.rocro.com/2018/06/15/how-to-prevent-secrets-in-source-code-with-inspecode/) Cloud Build helps you create fast, consistent, reliable builds across all languages. With this new integration, you can easily set up CI through Cloud Build and automate builds and tests as part of your GitHub workflow.
 
 [Simplify your CI process with GitHub and Google Cloud Build](https://blog.github.com/2018-07-26-simplify-your-ci-process/)
+
+[7 Ways to Improve Your Test Suite with Docker](https://resources.codeship.com/hubfs/Codeship_7-Ways-to-Improve-Your-Test-Suite-with-Docker.pdf)
 
 ## Desarrollo Producto
 
