@@ -44,6 +44,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [Application Agility Canvas](https://dzone.com/articles/application-agility-canvas)
 
+[Best Practices when Versioning a Release](https://resources.codeship.com/hubfs/Codeship_Best-Practices-when-Versioning-a-Release.pdf)
+
 ## Test
 
 [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
