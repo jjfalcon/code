@@ -55,6 +55,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [How to test && commit || revert](https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520)
 test && commit || revert is a programming workflow where all code that passes your tests gets committed, but if the tests fail all the code written since the last commit will be gone.
 
+[A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
+
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 Es un artículo con código de ejemplo que explica la metáfora "Pirámide de Test", que nos agrupa los diferentes tests a realizar a un software, en unitarios, integración, aceptación.
 Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grupos, así como el rango de coste asociado.
