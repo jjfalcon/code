@@ -87,6 +87,14 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
+
+1. Listen to your customers
+2. Invent for your customers 
+3. Personalize for each and everyone of your customers
+pic.twitter.com/cGW8soTBaq
+
+
 [Iterating a Big, Crazy Idea into a Six-Figure Business](https://leanstartup.co/iterating-a-big-crazy-idea-into-a-six-figure-business/)
 
 ![alt text](https://pbs.twimg.com/media/DoIfxWdUUAAipXt.jpg:small "Comunicacion equipos")
@@ -117,6 +125,8 @@ Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
 [One page product design - Jorge Barroso](https://www.youtube.com/watch?v=9wVJHZEeTY0)
 
 [Soporte Comunidad](http://escornabot.com/web/es/content/comunidad) Ejemplo de soporte en proyecto OpenSource Escornabot
+
+[Growing as a Product Owner: Five Product Owner Maturity-Levels](https://dzone.com/articles/growing-as-a-product-owner-five-product-owner-matu)
 
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
