@@ -94,6 +94,7 @@ Una presentación rompedora de como realizar testing directamente en producción
 3. Personalize for each and everyone of your customers
 pic.twitter.com/cGW8soTBaq
 
+[Building an API that Developers Love](https://www.mindtheproduct.com/2017/02/building-api-developers-love)
 
 [Iterating a Big, Crazy Idea into a Six-Figure Business](https://leanstartup.co/iterating-a-big-crazy-idea-into-a-six-figure-business/)
 
@@ -221,6 +222,8 @@ If you'd like to be a better communicator, check out this guide to [4 four ways 
 [How to Improve Your App Team’s Collaboration with a Single Tool](https://dzone.com/articles/how-to-improve-your-app-teams-collaboration-with-a)
 
 [Introducción, muy breve y desenfadada, a Docker](https://blog.irontec.com/introduccion-muy-breve-y-desenfadada-a-docker/)
+
+[Cómo convencer a tus jefes o clientes para que usen Flutter](https://developers-latam.googleblog.com/2018/11/como-convencer-tus-jefes-o-clientes.html)
 
 ### Como optimizar nuestros sistemas operativos
 
