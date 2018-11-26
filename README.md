@@ -165,6 +165,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### OTROS
 
+[5 Programming Languages Every Programmer Should Learn](https://dzone.com/articles/5-programming-languages-every-master-developer-sho?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
+
 [Aprendizajes con Google Forms](https://medium.com/@ladypain/aprendizajes-con-google-forms-4c26b4c9151a) Pregunta para validar hipotesis antes de desarrollar una app.
 
 [Every Agile Software Project Needs a User Story Map ](https://dzone.com/articles/every-agile-software-project-needs-a-user-story-ma)
