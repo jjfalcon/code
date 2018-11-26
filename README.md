@@ -54,6 +54,12 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
 
+[10 best practices in test automation](https://www.ranorex.com/resources/whitepaper/best-practices-automated-testing/thank-you/)
+
+[Why I Practice TDD: Speed and Need](https://dzone.com/articles/why-i-practice-tdd-speed-and-need?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16) Learn how TDD lets you work faster while eliminating critical defects.
+
+[Keep Your Automated Testing Simple and Avoid Anti-Patterns](https://dzone.com/articles/keep-your-automated-testing-simple-and-avoid-anti?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16)
+
 [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 
 [Builders: la solución definitiva a los datos de prueba en los test](https://dosideas.com/noticias/java/1054-builders-la-solucion-definitiva-a-los-datos-de-prueba-en-los-test)
