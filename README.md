@@ -48,6 +48,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [Best Practices when Versioning a Release](https://resources.codeship.com/hubfs/Codeship_Best-Practices-when-Versioning-a-Release.pdf)
 
+[The Keys to Making Important Technical Decisions](https://dzone.com/articles/10-years-of-important-technical-decisions-itds?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
+
 ## Test
 
 [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
