@@ -52,6 +52,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
+
 [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
 
 [10 best practices in test automation](https://www.ranorex.com/resources/whitepaper/best-practices-automated-testing/thank-you/)
@@ -220,7 +222,11 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Netlify](https://www.netlify.com/)Build, deploy, and managemodern web projects 
 
 ## Herramientas
+
+[The Jira moment](http://javisantana.com/2018/03/01/the-jira-moment.html)
+
 [Trello]
+
 [Zenkit](https://www.genbeta.com/a-fondo/zenkit-app-productividad-para-gestionar-proyectos-usando-kanban-que-podria-ser-mejor-rival-trello)
 
 [Usar AVA para tests en una API hecha en Node.js y Express](https://blog.adrianistan.eu/2018/07/15/usar-ava-para-tests-en-una-api-hecha-en-node-js-y-express/)
