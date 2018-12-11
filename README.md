@@ -93,6 +93,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [7 Ways to Improve Your Test Suite with Docker](https://resources.codeship.com/hubfs/Codeship_7-Ways-to-Improve-Your-Test-Suite-with-Docker.pdf)
 
+[A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
+
 ## Desarrollo Producto
 
 [three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
