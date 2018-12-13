@@ -350,6 +350,8 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
+[Simple Solutions for Simple Problems in Code Development](https://simpleprogrammer.com/problems-in-code-development/)
+
 ## Videos
 
 Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [Web](https://carlosazaustre.es/)
