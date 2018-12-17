@@ -175,6 +175,8 @@ Agile methods are solidly in the mainstream, but that popularity hasn't been wit
 
 Para las reuniones sincronas ineludibles se concierta un horario común, y se escriben las conclusiones de esas conversaciones en un lugar común al que pueda acceder cualquiera que por alguna razón no haya podido acudir.
 
+[cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
+
 ### OTROS
 
 [5 Programming Languages Every Programmer Should Learn](https://dzone.com/articles/5-programming-languages-every-master-developer-sho?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
