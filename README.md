@@ -103,6 +103,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
+
 [three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
 
 1. Listen to your customers
