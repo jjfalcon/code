@@ -1,6 +1,8 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[Today I Learned](https://til.hashrocket.com/)
+
 [Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
 
 [Conventional Commits 1.0.0-beta.2](https://conventionalcommits.org/)
@@ -10,6 +12,8 @@ En este documento se recopila la información general para programar y desarroll
 [Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
 
 [The Best Way to Become a Complete Software Developer](https://dzone.com/articles/the-best-way-to-become-a-complete-software-develop)
+
+[Learning, Coding, & Freelancing as a Dad](https://medium.com/@thall1961/learning-coding-freelancing-as-a-dad-7a817fe5461b)
 
 ### [Interesante ciclo desarrollo to-DO](https://medium.com/finizens-engineering/nuestro-ciclo-de-desarrollo-to-do-fe7acdac8ce5)
 
