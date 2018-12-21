@@ -56,6 +56,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[Kata de TDD](https://es.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela)
+
 [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
 
 [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
