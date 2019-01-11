@@ -7,6 +7,8 @@ En este documento se recopila la información general para programar y desarroll
 
 [Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
 
+[JavaScript Algorithms and Data Structures] (https://github.com/trekhleb/javascript-algorithms/blob/master/README.md)
+
 [Today I Learned](https://til.hashrocket.com/)
 
 [Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
