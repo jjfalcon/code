@@ -235,7 +235,11 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## Herramientas
 
-[](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
+[DevDocs](https://devdocs.io/) DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+
+[Dash](https://kapeli.com/dash) Dash gives your Mac instant offline access to 200+ API documentation sets.
+
+[POEditor](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
 [The Jira moment](http://javisantana.com/2018/03/01/the-jira-moment.html)
 
