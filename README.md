@@ -56,6 +56,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[The 4 Keys to Effective Continuous Testing](https://devops.com/the-4-keys-to-effective-continuous-testing/)
+
 [Kata de TDD](https://es.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela)
 
 [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
@@ -232,6 +234,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Netlify](https://www.netlify.com/)Build, deploy, and managemodern web projects 
 
 ## Herramientas
+
+[](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
 [The Jira moment](http://javisantana.com/2018/03/01/the-jira-moment.html)
 
