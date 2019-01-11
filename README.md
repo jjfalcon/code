@@ -235,6 +235,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## Herramientas
 
+[Read the Docs](https://docs.readthedocs.io/en/latest/) Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
+
 [DevDocs](https://devdocs.io/) DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
 [Dash](https://kapeli.com/dash) Dash gives your Mac instant offline access to 200+ API documentation sets.
