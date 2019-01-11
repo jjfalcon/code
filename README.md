@@ -1,6 +1,12 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+## Data Structures and Algorithms
+
+[Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
+
+[Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
+
 [Today I Learned](https://til.hashrocket.com/)
 
 [Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
@@ -55,6 +61,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [The Keys to Making Important Technical Decisions](https://dzone.com/articles/10-years-of-important-technical-decisions-itds?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
 
 ## Test
+
+[The Five Benefits of Automated Testing](https://www.codewithjason.com/five-benefits-automated-testing/)
 
 [The 4 Keys to Effective Continuous Testing](https://devops.com/the-4-keys-to-effective-continuous-testing/)
 
