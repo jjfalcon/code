@@ -247,6 +247,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 [Netlify](https://www.netlify.com/)Build, deploy, and managemodern web projects 
 
+[From Sensors to the Centralized Cloud](https://www.cbinsights.com/research/edge-computing-ecosystem/)
+
 ## Herramientas
 
 [Read the Docs](https://docs.readthedocs.io/en/latest/) Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
