@@ -339,6 +339,16 @@ As a developer, you can’t avoid using GitHub or another Git-based tool on a da
 
 [El nuevo laboratorio de aprendizaje de GitHub te enseña todo sobre la plataforma y el desarrollo colaborativo](https://www.genbeta.com/actualidad/el-nuevo-laboratorio-de-aprendizaje-de-github-te-ensena-todo-sobre-la-plataforma-y-el-desarrollo-colaborativo)
 
+[8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
+* Quick file search in repositories. Open repository type "t" and write name of file using keys and arows.
+* Code change suggestions in pull requests.
+* Navigate the code tree like in an IDE with Octotree chrome extension. 
+* Jump to a function when reviewing code. GitHub lets you jump to a symbol by pressing t when you’re looking at files in a pull request.
+* Creating a permalink to a file. When viewing a file or directory, press y, and the URL will be converted to a permalink, which you can share knowing that the contents of the file will never change.
+* Viewing the blame and change recency heatmap. When viewing a file, you can press b to view the Git blame and a heatmap showing how recently each line was changed. It’ll tell you who most recently changed each line of code, and give you a clickable link taking you to the full commit the change was part of.
+* Powerful code search. GitHub indexes most code and offers powerful search functionality over it. If you need to find something in a repository, but don’t plan on making any changes to it. There’s usually no need to check the repository out. Press / to search all the code in the repository.
+* Saved replies. If you ever find yourself repeating the same comments, you’ll save some time by creating a saved reply. The next time you find you’re going to type that comment again, you can instead just select it from a drop-down menu. To perform the above action without using my mouse, I can do ctrl + . followed by ctrl + 1.
+
 ### Visual Studio Code
 [Visual Studio Code - Tutorial Español](https://youtu.be/Esnj9pntvyU) Tutorial básico para puesta en marcha
 Extensiones recomendadas:
