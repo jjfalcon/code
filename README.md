@@ -407,6 +407,10 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 [Maths for programmers course](https://www.freecodecamp.org/news/beaucarnes/maths-for-programmers--09iy8H6lC)
 
+[Aprende a crear tu propio videojuego estilo Tetris en dos horas y usando Python](https://www.genbeta.com/web/aprende-a-crear-tu-propio-videojuego-estilo-tetris-dos-horas-usando-python)
+
+[Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
+
 ## Formacion
 
 [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
