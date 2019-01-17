@@ -3,14 +3,6 @@ En este documento se recopila la información general para programar y desarroll
 
 [How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
 
-## Data Structures and Algorithms
-
-[Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
-
-[Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
-
-[JavaScript Algorithms and Data Structures] (https://github.com/trekhleb/javascript-algorithms/blob/master/README.md)
-
 [Today I Learned](https://til.hashrocket.com/)
 
 [Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
@@ -90,6 +82,11 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 test && commit || revert is a programming workflow where all code that passes your tests gets committed, but if the tests fail all the code written since the last commit will be gone.
 
 [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
+
+[Can you tell me if your Node app is healthy?](https://www.youtube.com/watch?v=7HoxAeQIck4&feature=youtu.be) #ppt
+* npm blocked - https://www.npmjs.com/package/blocked Check if a node event loop is blocked
+* [Influx Data](https://www.influxdata.com) integrates real-time analytics, event handling, and time-based data with Open Source plugins
+* [Graphana](https://grafana.com/) - A quick way to generate helpful, pre-canned grafana dashboards for Cloudwatch and Graphite
 
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 Es un artículo con código de ejemplo que explica la metáfora "Pirámide de Test", que nos agrupa los diferentes tests a realizar a un software, en unitarios, integración, aceptación.
@@ -377,7 +374,7 @@ Extensiones recomendadas:
 [Google lanza Flutter](https://www.esferaiphone.com/desarrolladores-2/primera-beta-flutter-google/)
 Build beautiful native apps in record time.
 Flutter is Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. 
-[
+
 
 [Little UI details](https://twitter.com/i/moments/880688233641848832)
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
@@ -391,8 +388,6 @@ Una único origen de contenido completo y publicación multicanal. Genera tu con
 Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCORM para eLearning, MS Word, presentación HTML5, y muchos más formatos.
 
 [joplin](https://github.com/laurent22/joplin) Gestor de notas opensource multiplataforma
-
-## Ejemplos
 
 [Desarrolla integraciones con bots a través de la plataforma y la API de Hangouts Chat ](https://developers-latam.googleblog.com/2018/03/desarrolla-integraciones-con-bots.html)
 
@@ -430,3 +425,11 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
 
 [ajlopez GitHub](https://github.com/ajlopez)
+
+## Data Structures and Algorithms
+
+[Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
+
+[Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
+
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/blob/master/README.md)
