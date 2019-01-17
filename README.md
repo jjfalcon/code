@@ -1,6 +1,8 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
+
 ## Data Structures and Algorithms
 
 [Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
