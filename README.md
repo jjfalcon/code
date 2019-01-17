@@ -117,6 +117,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 ## Desarrollo Producto
 
+[Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
+
 [Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
 
 [three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
