@@ -1,6 +1,14 @@
 # code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+## DESIGN
+
+[Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams)
+
+[De Arquitectura Hexagonal a Event Sourcing](https://es.slideshare.net/carlosbuenosvinos/de-arquitectura-hexagonal-a-event-sourcing) Presentacion de [Carlos Buenosvinos](https://carlosbuenosvinos.com/) sobre los distintos niveles de arquitectura realizada en BilboStack2019
+
+## CODE
+
 [How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
 
 [Today I Learned](https://til.hashrocket.com/)
