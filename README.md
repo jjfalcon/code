@@ -114,6 +114,11 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
+## DEVOPPs
+
+[DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
+[Devops in not what you think](https://www.eferro.net/2019/01/bilbostack-2019devops-is-not-what-you.html)
+
 ## Desarrollo Producto
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
