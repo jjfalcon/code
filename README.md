@@ -3,11 +3,17 @@ En este documento se recopila la información general para programar y desarroll
 
 ## DESIGN
 
+
 [Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams)
 
 [De Arquitectura Hexagonal a Event Sourcing](https://es.slideshare.net/carlosbuenosvinos/de-arquitectura-hexagonal-a-event-sourcing) Presentacion de [Carlos Buenosvinos](https://carlosbuenosvinos.com/) sobre los distintos niveles de arquitectura realizada en BilboStack2019
 
+[Plantillas gratuitas para hacer diseños sobre dispositivos](https://wwwhatsnew.com/2019/01/23/plantillas-gratuitas-para-hacer-disenos-sobre-dispositivos/)
+
 ## CODE
+
+[POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
+Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
 [How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
 
@@ -125,11 +131,16 @@ Una presentación rompedora de como realizar testing directamente en producción
 ## DEVOPPs
 
 [DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
+
 [Devops in not what you think](https://www.eferro.net/2019/01/bilbostack-2019devops-is-not-what-you.html)
+
+[SonarQube](https://www.sonarqube.org/) SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
 
 ## RELEASE 
 
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
+
+
 
 ## Desarrollo Producto
 
@@ -445,6 +456,9 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 [ajlopez GitHub](https://github.com/ajlopez)
 
+[Libros Autentia](https://www.autentia.com/libros/)
+* [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
+
 ## Data Structures and Algorithms
 
 [Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
@@ -452,3 +466,5 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
 
 [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/blob/master/README.md)
+
+[Algoritmos y estructuras de datos](https://cimec.org.ar/foswiki/Main/AED/WebHome) Curso Algoritmos y Estructura de Datos  de la Universidad Nacional del Litoral (http://www.unl.edu.ar). La página web del curso es http://www.cimec.org.ar/aed contiene un wiki, listas de correo y un repositorio de archivos donde se puede bajar la mayor parte del código y el libro. Además hay videos de las clases del curso 2016.
