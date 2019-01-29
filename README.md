@@ -127,6 +127,10 @@ Una presentación rompedora de como realizar testing directamente en producción
 [DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
 [Devops in not what you think](https://www.eferro.net/2019/01/bilbostack-2019devops-is-not-what-you.html)
 
+## RELEASE 
+
+[Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
+
 ## Desarrollo Producto
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
@@ -260,6 +264,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [From Sensors to the Centralized Cloud](https://www.cbinsights.com/research/edge-computing-ecosystem/)
 
 ## Herramientas
+
+[VisualStudioCode](https://code.visualstudio.com/updates/v1_30) editor libre multiplataforma
 
 [Read the Docs](https://docs.readthedocs.io/en/latest/) Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
 
