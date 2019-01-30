@@ -69,6 +69,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [The Keys to Making Important Technical Decisions](https://dzone.com/articles/10-years-of-important-technical-decisions-itds?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
 
+[ElasticSearch](https://www.elastic.co/products/elasticsearch) Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.
+
 ## Log
 
 [DataDog, LogEntries, PapeTrail, GrayLog](https://www.datadoghq.com) See it all in one place
@@ -81,7 +83,7 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [Grafana](https://grafana.com/) The open platform for beautiful analytics and monitoring
 
-[Kibana]()
+[Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## Test
 
