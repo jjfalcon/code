@@ -1,4 +1,3 @@
-# code
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
 ## DESIGN
