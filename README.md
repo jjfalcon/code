@@ -69,6 +69,20 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 [The Keys to Making Important Technical Decisions](https://dzone.com/articles/10-years-of-important-technical-decisions-itds?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
 
+## Log
+
+[DataDog, LogEntries, PapeTrail, GrayLog](https://www.datadoghq.com) See it all in one place
+
+[3 open source log aggregation tools](https://opensource.com/article/18/9/open-source-log-aggregation-tools)
+
+[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) View, edit and create a Data Studio report
+
+[Prometheus](https://prometheus.io) From metrics to insight. Power your metrics and alerting with a leading open-source monitoring solution.
+
+[Grafana](https://grafana.com/) The open platform for beautiful analytics and monitoring
+
+[Kibana]()
+
 ## Test
 
 [The Five Benefits of Automated Testing](https://www.codewithjason.com/five-benefits-automated-testing/)
