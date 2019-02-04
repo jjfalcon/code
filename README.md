@@ -463,6 +463,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 ## Formacion
 
+[Más de 500 cursos de programación gratis para empezar en febrero](https://www.genbeta.com/actualidad/aqui-tienes-500-cursos-programacion-gratis-que-puedes-empezar-febrero)
+
 [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
 
 [#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
