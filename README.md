@@ -23,6 +23,11 @@ Thinking to move to AI? Learn Python first.
 
 [Plantillas gratuitas para hacer diseños sobre dispositivos](https://wwwhatsnew.com/2019/01/23/plantillas-gratuitas-para-hacer-disenos-sobre-dispositivos/)
 
+[How to Create Top Quality REST APIs](https://dzone.com/articles/how-to-create-top-quality-rest-apis) A quick look at how to create top quality REST APIs by exploring general design rules and overcoming challenges.
+
+[The Internet of Things: Why Decentralization Must Be the Next Step](https://dzone.com/articles/the-internet-of-things-why-decentralization-must-b)
+
+
 ## CODE
 
 [POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
@@ -171,8 +176,6 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
 
-
-
 ## Desarrollo Producto
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
@@ -306,6 +309,12 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [From Sensors to the Centralized Cloud](https://www.cbinsights.com/research/edge-computing-ecosystem/)
 
 ## Herramientas
+
+[Redis](https://redis.io/) is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+
+[Elastic](https://www.elastic.co) is a stack of tools built on an open source foundation, the Elastic Stack lets you reliably and securely take data from any source, in any format, and search, analyze, and visualize it in real time.
+
+[Rabbitmq](https://www.rabbitmq.com/) is the most widely deployed open source message broker.
 
 [VisualStudioCode](https://code.visualstudio.com/updates/v1_30) editor libre multiplataforma
 
