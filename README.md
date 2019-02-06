@@ -1,7 +1,21 @@
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
-## DESIGN
+[Top 5 Programming Languages to Learn in 2019](https://codeforgeek.com/2019/02/top-5-programming-languages-learn-2017/) We all make some kind of resolution to achieve in the year and if you are working professional or freelance programmer then I got for you the top 5 programming languages which according to me going to be very demanding in this year and probably in upcoming years too.
+* JavaScript has become the language of the web. Whether it’s awesome front-end application or complex Server side application or some Desktop application, JavaScript covers all.
+* Python is well established, popular and used by internet giants (YouTube, Google etc). Python is widely used in machine learning, complex mathematical calculation and of course the Artificial Intelligence. You can also develop a web application using Django framework which worked with Python. You can develop a variety of application actually. Python is adaptable and runs everywhere!
+* Elixir is functional programming language which leverages the ErLang Virtual Machine. It is designed to build the scalable and maintainable application. Well, that’s what they say!
+* Rust is designed and developed to be the better C/C++ while focusing more on memory safety, concurrency, and speed.
+* Swift is the combination of the best of two great programming languages, C and Objective-C. The outcome is indeed the beast! Swift is considered to be a game-changing programming language in Apple developer zone.
 
+The demand of the Swift as a skill is increasing the day it was released by Apple. If you are an aspiring iOS developer, learn this language to boost your career and pay scale.
+
+I was shocked to see that Developers loves this programming languages in 2018 at StackOverflow Survey.
+
+Do you use WhatsApp? If so, then you would be amazed to know that they use ErLang in backend processing.
+
+Thinking to move to AI? Learn Python first.
+
+## DESIGN
 
 [Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams)
 
@@ -144,6 +158,8 @@ Una presentación rompedora de como realizar testing directamente en producción
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
 ## DEVOPPs
+
+[Herramientas de desarollo: Travis CI](https://www.fixedbuffer.com/index.php/2019/02/05/herramientas-de-desarollo-travis-ci/) Herramientas como Travis, AppVeyor, o Azure Pipelines, (los 3 son gratis si nuestro repositorio es público) sirven para automatizar tareas en desarrollo de software, de modo que no tengamos que preocuparnos de compilar y ejecutar las pruebas. Ademas, estos sistemas nos aportan otra ventaja adicional, podemos compilar y ejecutar pruebas en diferentes entornos, como veremos a lo largo de esta entrada sobre Travis.
 
 [DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
 
