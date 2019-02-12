@@ -308,6 +308,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 [From Sensors to the Centralized Cloud](https://www.cbinsights.com/research/edge-computing-ecosystem/)
 
+[Gracias a Google Firebase, cientos de padres y madres pasan menos tiempo en el tráfico y más tiempo con sus hijos](https://developers-latam.googleblog.com/2019/02/gracias-google-firebase-cientos-de.html)
+
 ## Herramientas
 
 [Redis](https://redis.io/) is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
