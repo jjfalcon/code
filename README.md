@@ -144,6 +144,11 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 
 ![Pirámide de Test](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
 
+[Common Testing Mistakes](https://mail.google.com/mail/u/0/#inbox/FMfcgxvzLFCCHKkXnMgTVpTTqvvtTSWS)
+* Testing implementation details.
+* Trying to go for 100% code coverage for an application is a total mistake and I see this all the time.
+
+
 ### [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
 [Testing in Production - Quality Software Faster](https://www.youtube.com/watch?v=9C0efJkT0Hg&feature=em-uploademail)
@@ -163,6 +168,25 @@ Una presentación rompedora de como realizar testing directamente en producción
 [7 Ways to Improve Your Test Suite with Docker](https://resources.codeship.com/hubfs/Codeship_7-Ways-to-Improve-Your-Test-Suite-with-Docker.pdf)
 
 [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
+
+## How to avoid slow and brittle end-to-end tests
+A common mistakes people make when writing E2E tests that lead to slow tests
+
+NOTE: TestingJavaScript.com is still in early bird stage, but it wont be 40% off forever! Grab it now! Scroll down to the bottom for a FAQ about the course.
+
+One of the biggest complaints people have about end-to-end (E2E) tests is how slow and brittle they are when compared to integration or unit tests. There’s no way you’ll ever get a single E2E test as fast or reliable as a single unit test. It’s just never going to happen. That said a single E2E test will get you WAY more confidence than a single unit test. In fact, there are some corners of confidence that are impossible to get out of unit tests that E2E tests are great at, so it’s definitely worth having them around!
+
+But this doesn’t mean that we can’t make our E2E tests faster and more reliable than you’ve likely experienced in the past. There's a common mistake that people make when writing E2E tests that contribute to the poor performance and reliability.
+
+Overtesting
+Tests should always work in isolation. So that means every test should be executed as a different user. So every test will need to register and login as a brand new user right? Right. So you need to have a few page objects for the registration and login pages because you'll be running through those pages in every test right? WRONG! That's the mistake!
+
+Let's take a step back. Why are you writing tests? So you can ship your application with confidence that things wont break! Let's say you have 100 tests that need an authenticated user. How many times do you need to run through the "happy path" registration flow to be confident that flow works? 100 times or 1 time? I think it's safe to say that if it worked once, it should work every time. So those 99 extra runs don't give you any extra confidence. That's wasted effort.
+
+So what do you do instead? I mean, we already established that your tests should work in isolation so you shouldn't be sharing a user between them. Here's what you do: make the same HTTP calls in your tests that your application makes when you register and log in a new user! Those requests will be MUCH faster than clicking and typing around the page and there's less of a chance for false negative failures. And as long as you keep one test around that actually does test the registration/login flow you haven't lost any confidence that this flow works.
+
+Conclusion
+Always remember the reason that you're testing is about confidence. If something your test is doing isn't bringing you more confidence, then consider whether you can stop doing it!
 
 ## DEVOPPs
 
