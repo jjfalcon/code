@@ -106,6 +106,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[An Introduction to Test-Driven Development](https://medium.freecodecamp.org/an-introduction-to-test-driven-development-c4de6dce5c)
+
 [The Five Benefits of Automated Testing](https://www.codewithjason.com/five-benefits-automated-testing/)
 
 [The 4 Keys to Effective Continuous Testing](https://devops.com/the-4-keys-to-effective-continuous-testing/)
@@ -311,6 +313,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Gracias a Google Firebase, cientos de padres y madres pasan menos tiempo en el tráfico y más tiempo con sus hijos](https://developers-latam.googleblog.com/2019/02/gracias-google-firebase-cientos-de.html)
 
 ## Herramientas
+
+[Code Radio: 24/7 jazzy beats you can listen to while you code](https://www.freecodecamp.org/news/code-radio/)
 
 [Redis](https://redis.io/) is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
 
