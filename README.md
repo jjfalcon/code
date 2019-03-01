@@ -1,5 +1,7 @@
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
+
 [Top 5 Programming Languages to Learn in 2019](https://codeforgeek.com/2019/02/top-5-programming-languages-learn-2017/) We all make some kind of resolution to achieve in the year and if you are working professional or freelance programmer then I got for you the top 5 programming languages which according to me going to be very demanding in this year and probably in upcoming years too.
 * JavaScript has become the language of the web. Whether it’s awesome front-end application or complex Server side application or some Desktop application, JavaScript covers all.
 * Python is well established, popular and used by internet giants (YouTube, Google etc). Python is widely used in machine learning, complex mathematical calculation and of course the Artificial Intelligence. You can also develop a web application using Django framework which worked with Python. You can develop a variety of application actually. Python is adaptable and runs everywhere!
