@@ -192,6 +192,69 @@ Always remember the reason that you're testing is about confidence. If something
 
 ## DEVOPPs
 
+[TrunkBasesDevelopment](https://twitter.com/inicopaez/status/1100782337141469185?s=11)
+[TrunkBasesDevelopment](https://twitter.com/tdpauw/status/1101175888291528710)
+- every feature developed behind a toggle
+- keep toggle duration short
+- no dependencies between toggles
+- duplicate code to avoid dependencies
+- work in small units to commit and push frequently (local broken build lasts max 10min)
+
+[Agile Development](https://twitter.com/jcesarperez/status/1101437979464253442?s=11)
+- Automatizar una build
+- TDD
+- Montar un entorno de CI/CD
+- Estrategias de control de versiones
+- Clean code
+- Pair programming
+- Revisiones de código
+- Definición de hecho
+- DDD
+
+[Entrega continua con Jenkins](https://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/entrega-continua-con-jenkins-2-pipelines/12773.aspx)
+Taller dinámico que combinará explicación y justificación teórica de la metodología conocida como 'entrega continua' (Continuous Delivery) y ejemplos prácticos de creación de Pipelines con el nuevo API de Jenkins 2.
+
+Objetivos
+El objetivo es que el asistente descubra si las técnicas de entrega continua, integración continua y despliegue continuo son interesantes en el contexto de los desarrollos de software de su organización.
+
+Además, Jenkins 2 trae una gran batería de novedades. El objetivo de la dinámica es conocer esas novedades y reducir la curva de aprendizaje de las mismas.
+
+Dirigido a
+Aquellas personas que ya usan Jenkins y quieren conocer las novedades que les permitirán crear tareas y relacionarlas de manera mucho más simple y potente. También para aquellas personas que, usando o no jenkins, se preguntan si podrían mejorar el proceso de entrega de su producto, automatizándolo y haciéndolo más fiable.
+
+Contenido
+Todas las secciones incluyen ejercicio práctico
+1. Conceptos básicos: 
+  Integración continua, entrega continua y despliegue continuo
+  Pipeline as code, infrastructure as code
+  Walking skeleton
+  Relación entre arquitectura y entrega continua
+  Las tres maneras de hacer devops: flow, feedback y fast experiments
+  Feature toggling, branch by abstraction and dark launching
+  Continuous delivery economics
+  Entrega vertical de Software
+  Blue/Green deployment
+2. Novedades Jenkins:
+  Pipelines
+  Stashing code
+  Nodes, steps, stages
+  Declarative syntax y gestión de errores
+  Jenkins File
+  Parallel stages
+  Parametrización de tareas
+  Blue Ocean: mejorando la experiencia de usuario Jenkins
+3. Automatización:
+  De migraciones de bases de datos
+  De test y paralelización de los mismos
+  Del despliegue
+4. Políticas de usos de control de versiones:
+  Trunk based development
+  Feature branching
+5. Mejores prácticas:
+... para entrega continua
+...para integración continua
+...con Jenkins
+
 [Herramientas de desarollo: Travis CI](https://www.fixedbuffer.com/index.php/2019/02/05/herramientas-de-desarollo-travis-ci/) Herramientas como Travis, AppVeyor, o Azure Pipelines, (los 3 son gratis si nuestro repositorio es público) sirven para automatizar tareas en desarrollo de software, de modo que no tengamos que preocuparnos de compilar y ejecutar las pruebas. Ademas, estos sistemas nos aportan otra ventaja adicional, podemos compilar y ejecutar pruebas en diferentes entornos, como veremos a lo largo de esta entrada sobre Travis.
 
 [DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
