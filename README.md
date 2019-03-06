@@ -540,9 +540,12 @@ Extensiones recomendadas:
 Build beautiful native apps in record time.
 Flutter is Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. 
 
-
 [Little UI details](https://twitter.com/i/moments/880688233641848832)
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
+
+## Recursos
+
+[ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
 
 ## Ejemplos/Apps
 
@@ -582,6 +585,10 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
 ## Formacion
+
+[a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
+
+[My Favorite Free Resources for New Programmers](https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia)
 
 [Más de 500 cursos de programación gratis para empezar en febrero](https://www.genbeta.com/actualidad/aqui-tienes-500-cursos-programacion-gratis-que-puedes-empezar-febrero)
 
