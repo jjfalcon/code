@@ -561,6 +561,8 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 
 [Simple Solutions for Simple Problems in Code Development](https://simpleprogrammer.com/problems-in-code-development/)
 
+[Microsoft Calculator](https://github.com/Microsoft/calculator) Microsoft libera el código de la calculadora de Windows https://hipertextual.com/2019/03/microsoft-libera-codigo-calculadora-windows-github Microsoft ha liberado el código de la calculadora de Windows. La aplicación es ahora software de código abierto con licencia MIT. Puedes descargar todos los archivos desde el repositorio de la empresa en GitHub.
+
 ## Videos
 
 Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [Web](https://carlosazaustre.es/)
