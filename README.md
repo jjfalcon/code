@@ -443,6 +443,8 @@ If you'd like to be a better communicator, check out this guide to [4 four ways 
 
 [Cómo convencer a tus jefes o clientes para que usen Flutter](https://developers-latam.googleblog.com/2018/11/como-convencer-tus-jefes-o-clientes.html)
 
+[Latex Course Repository](https://github.com/Ondiz/academicWriting) This repository holds the slides of a LaTeX course I’m teaching at uni
+
 ### Como optimizar nuestros sistemas operativos
 
 [Windows]()
