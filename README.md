@@ -1,5 +1,7 @@
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[How to get started with programming](https://kentcdodds.com/blog/how-to-get-started-with-programming)
+
 [¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
 
 [Top 5 Programming Languages to Learn in 2019](https://codeforgeek.com/2019/02/top-5-programming-languages-learn-2017/) We all make some kind of resolution to achieve in the year and if you are working professional or freelance programmer then I got for you the top 5 programming languages which according to me going to be very demanding in this year and probably in upcoming years too.
