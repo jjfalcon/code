@@ -4,6 +4,12 @@ En este documento se recopila la información general para programar y desarroll
 
 [¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
 
+[Continuous Delivery: Germinando una cultura Agile moderna](https://www.youtube.com/watch?v=hbggtXmQcf8&feature=youtu.be) Esta charla describe en detalle, cómo usando como hilo conductor Continious Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
+
+Continious Delivery es el dial que nos permite identificar los cuellos de botella en el proceso de desarrollo y operación de un sistema de sofware. Subes un poco, ves el problema, lo resuelves/minimizas y vuelves al primer paso.
+
+Describiré la cultura, sus características core (aprendizaje continuo, XP development, DevOps, Arquitectura Evolutivas), su necesidad en nuestro contexto (startup, cloud), y los pasos que dimos para introducirla. También identificaré los retos a los que nos enfrentamos y las reticencias más típicas.
+
 [Top 5 Programming Languages to Learn in 2019](https://codeforgeek.com/2019/02/top-5-programming-languages-learn-2017/) We all make some kind of resolution to achieve in the year and if you are working professional or freelance programmer then I got for you the top 5 programming languages which according to me going to be very demanding in this year and probably in upcoming years too.
 * JavaScript has become the language of the web. Whether it’s awesome front-end application or complex Server side application or some Desktop application, JavaScript covers all.
 * Python is well established, popular and used by internet giants (YouTube, Google etc). Python is widely used in machine learning, complex mathematical calculation and of course the Artificial Intelligence. You can also develop a web application using Django framework which worked with Python. You can develop a variety of application actually. Python is adaptable and runs everywhere!
@@ -30,7 +36,6 @@ Thinking to move to AI? Learn Python first.
 [How to Create Top Quality REST APIs](https://dzone.com/articles/how-to-create-top-quality-rest-apis) A quick look at how to create top quality REST APIs by exploring general design rules and overcoming challenges.
 
 [The Internet of Things: Why Decentralization Must Be the Next Step](https://dzone.com/articles/the-internet-of-things-why-decentralization-must-b)
-
 
 ## CODE
 
@@ -568,6 +573,8 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 [Microsoft Calculator](https://github.com/Microsoft/calculator) Microsoft libera el código de la calculadora de Windows https://hipertextual.com/2019/03/microsoft-libera-codigo-calculadora-windows-github Microsoft ha liberado el código de la calculadora de Windows. La aplicación es ahora software de código abierto con licencia MIT. Puedes descargar todos los archivos desde el repositorio de la empresa en GitHub.
 
 ## Videos
+
+[Comunidad Code](https://www.youtube.com/channel/UCDJARuPiO4QX2o-rpEEGOXA/videos)
 
 Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [Web](https://carlosazaustre.es/)
 
