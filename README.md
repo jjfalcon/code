@@ -1,5 +1,7 @@
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[Awesome Learning](https://github.com/afontcu/awesome-learning/blob/master/README.md) A living curated list of awesome learning material.
+
 [How to get started with programming](https://kentcdodds.com/blog/how-to-get-started-with-programming)
 
 [¿Qué es un Senior Developer?](https://medium.com/@Rafael_Casuso/qu%C3%A9-es-un-senior-developer-7d2911605da8)
