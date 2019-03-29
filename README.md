@@ -117,6 +117,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[TDD de fuera a dentro. Mi manera de trabajar - Eduardo Sánchez](https://www.youtube.com/watch?v=e9DvmVd4HZM&feature=youtu.be)
+
 [Modesto San Juan - TDD mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0)
 
 [An Introduction to Test-Driven Development](https://medium.freecodecamp.org/an-introduction-to-test-driven-development-c4de6dce5c)
