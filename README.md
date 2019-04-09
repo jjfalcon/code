@@ -29,7 +29,9 @@ Thinking to move to AI? Learn Python first.
 
 ## DESIGN
 
-[Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams)
+[Mobbin](https://mobbin.design/) Discover the latest iOS UI design patterns. Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 170 iOS apps and 10,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.
+
+[Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams) 
 
 [De Arquitectura Hexagonal a Event Sourcing](https://es.slideshare.net/carlosbuenosvinos/de-arquitectura-hexagonal-a-event-sourcing) Presentacion de [Carlos Buenosvinos](https://carlosbuenosvinos.com/) sobre los distintos niveles de arquitectura realizada en BilboStack2019
 
