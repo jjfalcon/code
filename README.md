@@ -281,6 +281,8 @@ Todas las secciones incluyen ejercicio práctico
 
 [SonarQube](https://www.sonarqube.org/) SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
 
+[Mastering Bitrise workflows for continuous iOS app delivery](https://theswiftdev.com/2019/03/29/mastering-bitrise-workflows-for-ios-app-delivery/)
+
 ## RELEASE 
 
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
@@ -390,6 +392,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
 
 ## Cloud
+
+[Qué es serverless y por qué adoptarlo en el desarrollo de tu próxima aplicación](https://www.genbeta.com/desarrollo/que-serverless-que-adoptarlo-desarrollo-tu-proxima-aplicacion)
 
 [Build a Serverless Online Quiz with Google Cloud Functions and Cloud Firestore](https://rominirani.com/build-a-serverless-online-quiz-with-google-cloud-functions-and-cloud-firestore-1e3fbf84a7d8)
 
@@ -630,6 +634,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
 ## Data Structures and Algorithms
+
+[Learn the Dropbox API in 5 minutes](https://medium.freecodecamp.org/learn-the-dropbox-api-in-5-minutes-fd4626a0df18)
 
 [Algorithms in JavaScript](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) 40 Problems, Solutions, and Explanations
 
