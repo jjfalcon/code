@@ -207,7 +207,10 @@ Always remember the reason that you're testing is about confidence. If something
 
 ## DEVOPPs
 
+[Esto es lo que pasa cuando intentas medir la productividad de un programador por las líneas de código que escribe al día](https://www.genbeta.com/desarrollo/esto-que-pasa-cuando-intentas-medir-productividad-programador-lineas-codigo-que-escribe-al-dia)
+
 [TrunkBasesDevelopment](https://twitter.com/inicopaez/status/1100782337141469185?s=11)
+
 [TrunkBasesDevelopment](https://twitter.com/tdpauw/status/1101175888291528710)
 - every feature developed behind a toggle
 - keep toggle duration short
