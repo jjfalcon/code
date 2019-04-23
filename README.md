@@ -119,6 +119,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## Test
 
+[Refactoring](https://rachelcarmena.github.io/2019/04/13/refactoring.html)
+
 [TDD de fuera a dentro. Mi manera de trabajar - Eduardo Sánchez](https://www.youtube.com/watch?v=e9DvmVd4HZM&feature=youtu.be)
 
 [Modesto San Juan - TDD mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0)
