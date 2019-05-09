@@ -290,6 +290,7 @@ Todas las secciones incluyen ejercicio práctico
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
 
 ## Desarrollo Producto
+[Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
 
