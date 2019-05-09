@@ -1,3 +1,13 @@
+## TODO
+[Serving Vue.js apps on Github Pages](https://blog.usmanity.com/serving-vue-js-apps-on-github-pages/)
+
+[Building Single Page Apps (with Vue and Bootstrap) on Google Apps Script](http://blog.gsmart.in/single-page-apps-vue-bootstrap-on-google-apps-script/)
+
+[Using ES6 and npm modules in Google Apps Script](http://blog.gsmart.in/es6-and-npm-modules-in-google-apps-script/)
+
+
+## INTRO
+
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
 [Awesome Learning](https://github.com/afontcu/awesome-learning/blob/master/README.md) A living curated list of awesome learning material.
