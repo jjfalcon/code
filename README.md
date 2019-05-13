@@ -5,6 +5,9 @@
 
 [Using ES6 and npm modules in Google Apps Script](http://blog.gsmart.in/es6-and-npm-modules-in-google-apps-script/)
 
+[Python for Everybody - Free 14 hour Python course from Dr. Chuck](https://www.freecodecamp.org/news/python-for-everybody/)
+
+[Code a magic card trick with JavaScript and Node.js](https://www.freecodecamp.org/news/magic-card-trick-with-javascript-and-nodejs/)
 
 ## INTRO
 
