@@ -182,7 +182,6 @@ Nos da una idea gráfica de cuantos tests debemos tener en cada uno de esos grup
 * Testing implementation details.
 * Trying to go for 100% code coverage for an application is a total mistake and I see this all the time.
 
-
 ### [End to End Testing with Google's Puppeteer and Jest](https://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest)
 
 [Testing in Production - Quality Software Faster](https://www.youtube.com/watch?v=9C0efJkT0Hg&feature=em-uploademail)
@@ -309,6 +308,8 @@ Todas las secciones incluyen ejercicio práctico
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
 
+[Clarifying the Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
+
 [Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
 
 [three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
@@ -390,6 +391,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
 
 ### OTROS
+
+
 
 [5 Programming Languages Every Programmer Should Learn](https://dzone.com/articles/5-programming-languages-every-master-developer-sho?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
 
@@ -572,6 +575,8 @@ Extensiones recomendadas:
 [CRUD en Firebase](https://youtu.be/W-NS2RZm7QM) conectando nuestra app web con firebase
 
 [Cómo crear una campaña con mensajes desde la app de Firebase](https://developers-latam.googleblog.com/2018/10/como-crear-una-campana-con-mensajes.html)
+
+[Las respuestas inteligentes de Gmail ya pueden integrarse en cualquier aplicación](https://elandroidelibre.elespanol.com/2019/04/las-respuestas-inteligentes-de-gmail-ya-pueden-integrarse-en-cualquier-aplicacion.html)
 
 ### Rest
 [REST API Security](https://dzone.com/refcardz/rest-api-security-1?chapter=1) Rest API security is the single biggest challenge organizations want to see solved in the years ahead. This Refcard provide a better understanding of REST APIs, authentication types, and other aspects of security.
