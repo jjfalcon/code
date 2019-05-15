@@ -1,4 +1,7 @@
 ## TODO
+
+How to build your own iPhone and Android app from a single JavaScript codebase by using React Native - a powerful tool that turns websites into mobile apps (4 hour watch): https://www.freecodecamp.org/news/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web
+
 [bento-starter Open-Source Full-Stack solution for fast PWA development](https://bento-starter.netlify.com/)
 
 [Serving Vue.js apps on Github Pages](https://blog.usmanity.com/serving-vue-js-apps-on-github-pages/)
@@ -28,6 +31,7 @@ The CSS Handbook - a full free book to guide you through CSS (85 minute read)
 
 [Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless)
 
+[The Beginner's Guide to Figma](https://egghead.io/courses/the-beginner-s-guide-to-figma)
 
 ## INTRO
 
