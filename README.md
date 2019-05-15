@@ -11,6 +11,11 @@
 
 [Code a magic card trick with JavaScript and Node.js](https://www.freecodecamp.org/news/magic-card-trick-with-javascript-and-nodejs/)
 
+[The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
+
+https://medium.freecodecamp.org/b56695917d11
+The CSS Handbook - a full free book to guide you through CSS (85 minute read): 
+
 ## INTRO
 
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
