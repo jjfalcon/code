@@ -9,12 +9,25 @@
 
 [Python for Everybody - Free 14 hour Python course from Dr. Chuck](https://www.freecodecamp.org/news/python-for-everybody/)
 
+[How I used Python to analyze Game of Thrones](https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6)
+
 [Code a magic card trick with JavaScript and Node.js](https://www.freecodecamp.org/news/magic-card-trick-with-javascript-and-nodejs/)
 
 [The Modern JavaScript Tutorial](https://javascript.info/) From the basics to advanced topics with simple, but detailed explanations. Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles.
 
 https://medium.freecodecamp.org/b56695917d11
-The CSS Handbook - a full free book to guide you through CSS (85 minute read): 
+The CSS Handbook - a full free book to guide you through CSS (85 minute read)
+
+[Build a Trello Clone in Vue](https://www.vuemastery.com/courses/watch-us-build-trello-clone/tour-of-the-app)
+
+[How to use Python to build your own AI that wins at Connect Four (1.5 hour watch)](https://www.freecodecamp.org/news/python-connect-four-artificial-intelligence)
+
+[How to build your own online multiplayer game using Python and Pygame (2.5 hour watch)](https://www.freecodecamp.org/news/python-online-multiplayer-game-development-tutorial)
+
+[Scaling Vue with Nuxt.js](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/creating-a-nuxt-app)
+
+[Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless)
+
 
 ## INTRO
 
@@ -138,6 +151,7 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## Test
+[How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
 
 [Refactoring](https://rachelcarmena.github.io/2019/04/13/refactoring.html)
 
