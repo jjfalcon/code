@@ -327,6 +327,9 @@ Todas las secciones incluyen ejercicio práctico
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
 
 ## Desarrollo Producto
+
+[A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
+
 [Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
 
 [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
@@ -415,7 +418,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### OTROS
 
+[Oferta Trabajo Programador Bob](https://medium.com/bob-io/buscamos-un-desarrollador-web-para-trabajar-en-bob-40450506045)
 
+[TensorFlow. An end-to-end open source machine learning platform](https://www.tensorflow.org/)
 
 [5 Programming Languages Every Programmer Should Learn](https://dzone.com/articles/5-programming-languages-every-master-developer-sho?edition=419193&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-11-17)
 
