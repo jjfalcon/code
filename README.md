@@ -1,5 +1,7 @@
 ## TODO
 
+[Introduction to Blockchain](https://www.codecademy.com/learn/introduction-to-blockchain) Learn the fundamental concepts of Blockchain and implement them in Python.
+
 How to build your own iPhone and Android app from a single JavaScript codebase by using React Native - a powerful tool that turns websites into mobile apps (4 hour watch): https://www.freecodecamp.org/news/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web
 
 [bento-starter Open-Source Full-Stack solution for fast PWA development](https://bento-starter.netlify.com/)
@@ -155,6 +157,11 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## Test
+
+[TDD Example in Software Development (Part I)](https://dzone.com/articles/tdd-example-in-software-development-part-i) Take a look at how test-driven development can ultimately save you time by using one of the methods presented here to turn your test green.
+
+[Types of QA Checklists in Software Development](https://dzone.com/articles/types-of-qa-checklists-in-software-development) Never miss a bug by organizing a QA checklist for your software development project, and learn what that chceklist should include here.
+
 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
 
 [Refactoring](https://rachelcarmena.github.io/2019/04/13/refactoring.html)
