@@ -2,6 +2,8 @@
 
 [Introduction to Blockchain](https://www.codecademy.com/learn/introduction-to-blockchain) Learn the fundamental concepts of Blockchain and implement them in Python.
 
+[Build a React Native Application for iOS and Android from Start to Finish](https://egghead.io/courses/build-a-react-native-application-for-ios-and-android-from-start-to-finish)
+
 How to build your own iPhone and Android app from a single JavaScript codebase by using React Native - a powerful tool that turns websites into mobile apps (4 hour watch): https://www.freecodecamp.org/news/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web
 
 [bento-starter Open-Source Full-Stack solution for fast PWA development](https://bento-starter.netlify.com/)
