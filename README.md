@@ -1,5 +1,7 @@
 ## TODO
 
+[On Migrating Los Techies to Github Pages](https://lostechies.com/derekgreer/2018/02/16/on-migrating-lostechies-to-github-pages)
+
 [Introduction to Blockchain](https://www.codecademy.com/learn/introduction-to-blockchain) Learn the fundamental concepts of Blockchain and implement them in Python.
 
 [Build a React Native Application for iOS and Android from Start to Finish](https://egghead.io/courses/build-a-react-native-application-for-ios-and-android-from-start-to-finish)
