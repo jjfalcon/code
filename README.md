@@ -1,5 +1,13 @@
 ## TODO
 
+[slidesgo, presentaciones gratuitas para Google y Powerpoint](https://wwwhatsnew.com/2019/05/22/slidesgo-presentaciones-gratuitas-para-google-y-powerpoint/)
+
+[Quality website design ](https://twitter.com/VPestilenZ/status/1130898318442283009)
+
+[Five years of A Single Div](https://lynnandtonic.com/thoughts/entries/five-years-of-a-single-div/)
+
+[How to Embed MP3 Audio Files In Web Pages with the help of Google Drive](https://www.labnol.org/internet/google-drive-mp3-embed/2232/)
+
 [On Migrating Los Techies to Github Pages](https://lostechies.com/derekgreer/2018/02/16/on-migrating-lostechies-to-github-pages)
 
 [Introduction to Blockchain](https://www.codecademy.com/learn/introduction-to-blockchain) Learn the fundamental concepts of Blockchain and implement them in Python.
