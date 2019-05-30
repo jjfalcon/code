@@ -1,5 +1,7 @@
 ## TODO
 
+[Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/) Servicio de base de datos NoSQL rápido y flexible para cualquier escala
+
 [slidesgo, presentaciones gratuitas para Google y Powerpoint](https://wwwhatsnew.com/2019/05/22/slidesgo-presentaciones-gratuitas-para-google-y-powerpoint/)
 
 [Quality website design ](https://twitter.com/VPestilenZ/status/1130898318442283009)
