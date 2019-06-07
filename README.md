@@ -688,6 +688,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 ## Formacion
 
+[Deep Dive Into Modern Web Development - Full Stack Open 2019](https://fullstackopen.com/en/) La universidad de Helsinki ha publicado un MOOC gratuito sobre desarrollo web fullstack. Explican cómo crear aplicaciones web con #expressjs y #reactjs. Además te enseñan a utilizar GraphQL
+
 [a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
 
 [My Favorite Free Resources for New Programmers](https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia)
