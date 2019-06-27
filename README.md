@@ -1,5 +1,16 @@
 ## TODO
 
+[How to set up a Minimum Viable Product (MVP)](https://www.freecodecamp.org/news/how-to-define-an-mvp/) Start with the problem, understand your users, the market, your competitors; define the ‘complete product’; then identify its smallest subset which can still bring enough value to early customers; so they stay engaged and promote your product.  
+  1. Start by framing the problem
+  2. Identify your users
+  3. Understand your users
+  4. Validate the problem
+  5. Ideate on potential solutions
+  6. Define your ‘full Product’
+  7. Define your MVP — the Minimum Viable Product
+  8. Define how success would look like
+  9. Next steps: Build, Measure, Learn; iterate
+
 [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/) Servicio de base de datos NoSQL rápido y flexible para cualquier escala
 
 [slidesgo, presentaciones gratuitas para Google y Powerpoint](https://wwwhatsnew.com/2019/05/22/slidesgo-presentaciones-gratuitas-para-google-y-powerpoint/)
