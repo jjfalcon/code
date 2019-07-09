@@ -699,6 +699,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 ## Formacion
 
+[Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
+
 [Deep Dive Into Modern Web Development - Full Stack Open 2019](https://fullstackopen.com/en/) La universidad de Helsinki ha publicado un MOOC gratuito sobre desarrollo web fullstack. Explican cómo crear aplicaciones web con #expressjs y #reactjs. Además te enseñan a utilizar GraphQL
 
 [a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
