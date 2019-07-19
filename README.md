@@ -1,5 +1,7 @@
 ## TODO
 
+[Ejemplo sistema de diseño margetgoo](https://www.marketgoo.com/blog/2019/07/17/inauguramos-ola-sistema-de-diseno/) Presenta como lo han hecho, así como la documentación final con todo detalle de forma publica.
+
 [How to set up a Minimum Viable Product (MVP)](https://www.freecodecamp.org/news/how-to-define-an-mvp/) Start with the problem, understand your users, the market, your competitors; define the ‘complete product’; then identify its smallest subset which can still bring enough value to early customers; so they stay engaged and promote your product.  
   1. Start by framing the problem
   2. Identify your users
