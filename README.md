@@ -1,5 +1,9 @@
 ## TODO
 
+[The Secret to Unlimited Ideas for Your Coding Projects](https://www.freecodecamp.org/news/the-secret-to-unlimited-project-ideas/)
+
+[Here are Hello World app examples for every major programming language - all in one GitHub repository](https://www.freecodecamp.org/news/a-repository-with-the-example-of-printing-hello-world-in-a-lot-of-programming-languages/)
+
 [How to get started with Git](https://www.freecodecamp.org/news/git-commands/) a free crash course for new developers (7 minute read + video) 
 
 [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
