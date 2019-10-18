@@ -1,11 +1,16 @@
 ## LIBROS
 
-Extreme Programming Explained. Debería ser el primer libro de como programar.
-The Pragmatic Programmer. Un libro de programación en general de obligada lectura.
-Clean Code. Un libro indispensable para escribir codigo limpio.
+* Extreme Programming Explained. Debería ser el primer libro de como programar
+* The Pragmatic Programmer. Un libro de programación en general de obligada lectura
+* Clean Code. Un libro indispensable para escribir codigo limpio
+* Code Complete
+* Cracking the code
+* Implementing Domain-Driven Design. Denso pero un must read. Explicado al detalle por @CodelyTV
 
-Implementing Domain-Driven Design. Denso pero un must read. Explicado al detalle por @CodelyTV
+* How Linux works
+* Linux basics for hackers
 
+* The Javascript Handbook
 
 ## HERRAMIENTAS
 
