@@ -1,6 +1,16 @@
+## LIBROS
+
+Extreme Programming Explained. Debería ser el primer libro de como programar.
+The Pragmatic Programmer. Un libro de programación en general de obligada lectura.
+Clean Code. Un libro indispensable para escribir codigo limpio.
+
+Implementing Domain-Driven Design. Denso pero un must read. Explicado al detalle por @CodelyTV
+
+
 ## HERRAMIENTAS
 
 [myCompiler](https://www.mycompiler.io) es una web donde puedes practicar con 16 lenguajes de programación sin instalar nada
+[Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
 
 ## TODO
 
