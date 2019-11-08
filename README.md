@@ -25,6 +25,10 @@ Plataformas de Formacion
 * Udemy
 * Codeacademy
 
+[the beginners guide to git and github](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/) This beginner’s guide to Git and GitHub will introduce you to some version control fundamentals. (9 minute read): 
+
+[Learn Python programming 5 games](https://www.freecodecamp.org/news/learn-python-by-building-5-games/) If you're looking for a fun way to practice Python, start here. You'll build Tetris, Pong, Snake, Connect Four, and even an online multiplayer game. Each game tutorial includes a working example codebase. (7 hour watch): 
+
 [The Secret to Unlimited Ideas for Your Coding Projects](https://www.freecodecamp.org/news/the-secret-to-unlimited-project-ideas/)
 
 [Here are Hello World app examples for every major programming language - all in one GitHub repository](https://www.freecodecamp.org/news/a-repository-with-the-example-of-printing-hello-world-in-a-lot-of-programming-languages/)
