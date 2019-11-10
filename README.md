@@ -130,6 +130,11 @@ Do you use WhatsApp? If so, then you would be amazed to know that they use ErLan
 
 Thinking to move to AI? Learn Python first.
 
+## ARCHITECTURE
+
+[How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
+
+
 ## DESIGN
 
 [Mobbin](https://mobbin.design/) Discover the latest iOS UI design patterns. Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 170 iOS apps and 10,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.
