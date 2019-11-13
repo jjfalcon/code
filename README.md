@@ -16,7 +16,7 @@
 
 [Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
 
-
+[¿Qué puedo usar para publicar documentación de un producto?](https://twitter.com/juanmacias/status/1192020487825690624?s=11) NotionHQ, coda, github/gitlabs pages,GitBook, @NotionHQ + @milanoteapp
 
 [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
 
@@ -25,6 +25,12 @@
 [Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
 
 ## TODO
+
+WebApp
+* [https://www.youtube.com/watch?v=RRQvySxaCW0](https://www.youtube.com/watch?v=RRQvySxaCW0)
+* [5 programas para crear páginas web con aspecto profesional sin escribir una sola línea de código](https://www.hostcupon.com/programas-para-crear-paginas-web/)
+* [Sitios Web para crear los mejores prototipos de páginas y apps móviles](https://hipertextual.com/2017/03/crear-los-mejores-prototipos-paginas-apps-moviles)
+
 
 Plataformas de Formacion
 * Coursera
@@ -140,7 +146,6 @@ Thinking to move to AI? Learn Python first.
 ## ARCHITECTURE
 
 [How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
-
 
 ## DESIGN
 
