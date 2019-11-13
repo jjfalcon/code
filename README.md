@@ -14,7 +14,10 @@
 
 ## HERRAMIENTAS
 
+[35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
+
 [myCompiler](https://www.mycompiler.io) es una web donde puedes practicar con 16 lenguajes de programación sin instalar nada
+
 [Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
 
 ## TODO
