@@ -720,6 +720,8 @@ Publica tu contenido como centro de ayuda HTML5, PDF de alta calidad, móvil,SCO
 
 ## Videos
 
+[Master responsive website design with this free four-hour course](https://www.freecodecamp.org/news/master-responsive-website-design/)
+
 [Comunidad Code](https://www.youtube.com/channel/UCDJARuPiO4QX2o-rpEEGOXA/videos)
 
 Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [Web](https://carlosazaustre.es/)
@@ -767,6 +769,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
 ## Data Structures and Algorithms
+
+[Learn Data Structures from a Google Engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
 
 [Learn the Dropbox API in 5 minutes](https://medium.freecodecamp.org/learn-the-dropbox-api-in-5-minutes-fd4626a0df18)
 
