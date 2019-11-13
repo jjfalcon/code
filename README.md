@@ -14,6 +14,10 @@
 
 ## HERRAMIENTAS
 
+[Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
+
+
+
 [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
 
 [myCompiler](https://www.mycompiler.io) es una web donde puedes practicar con 16 lenguajes de programación sin instalar nada
