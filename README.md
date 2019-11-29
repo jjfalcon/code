@@ -14,6 +14,8 @@
 
 ## HERRAMIENTAS
 
+[How a simple cron job can save you from a ransomware attack](https://www.freecodecamp.org/news/cronjob-ransomware-attack/)
+
 [Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
 
 [¿Qué puedo usar para publicar documentación de un producto?](https://twitter.com/juanmacias/status/1192020487825690624?s=11) NotionHQ, coda, github/gitlabs pages,GitBook, @NotionHQ + @milanoteapp
@@ -25,6 +27,8 @@
 [Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
 
 ## TODO
+
+[How to plan, code, and deploy your startup idea in a single weekend (2 hour video course)](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
 
 WebApp
 * [https://www.youtube.com/watch?v=RRQvySxaCW0](https://www.youtube.com/watch?v=RRQvySxaCW0)
