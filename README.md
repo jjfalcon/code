@@ -28,13 +28,14 @@
 
 ## TODO
 
+[Apple toma medidas de emergencia por la calidad del software](https://www.bloomberg.com/news/articles/2019-11-21/apple-ios-14-features-changes-testing-after-ios-13-bugs?cmpid==socialflow-twitter-tech) Numerosos bugs y problemas de rendimiento en iOS 13 y Catalina han llevado a la compañía a establecer nuevas medidas de desarrollo y comprobación para que el software sea más fácil de evolucionar y mantener.
+
 [How to plan, code, and deploy your startup idea in a single weekend (2 hour video course)](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
 
 WebApp
 * [https://www.youtube.com/watch?v=RRQvySxaCW0](https://www.youtube.com/watch?v=RRQvySxaCW0)
 * [5 programas para crear páginas web con aspecto profesional sin escribir una sola línea de código](https://www.hostcupon.com/programas-para-crear-paginas-web/)
 * [Sitios Web para crear los mejores prototipos de páginas y apps móviles](https://hipertextual.com/2017/03/crear-los-mejores-prototipos-paginas-apps-moviles)
-
 
 Plataformas de Formacion
 * Coursera
