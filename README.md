@@ -151,6 +151,8 @@ Thinking to move to AI? Learn Python first.
 
 [How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
 
+[Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
+
 ## DESIGN
 
 [Mobbin](https://mobbin.design/) Discover the latest iOS UI design patterns. Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 170 iOS apps and 10,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.
