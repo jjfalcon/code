@@ -246,6 +246,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## TEST
 
+[Tests Too DRY? Make Them DAMP!](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html) In tests we can use the DAMP principle (“Descriptive and Meaningful Phrases”), which emphasizes readability over uniqueness. Note that the DRY principle is still relevant in tests; for example, using a helper function for creating value objects can increase clarity by removing redundant details from the test body. Ideally, test code should be both readable and unique, but sometimes there’s a trade-off. When writing unit tests and faced with a choice between the DRY and DAMP principles, lean more heavily toward DAMP.
+
 [How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)
 
 [TDD Example in Software Development (Part I)](https://dzone.com/articles/tdd-example-in-software-development-part-i) Take a look at how test-driven development can ultimately save you time by using one of the methods presented here to turn your test green.
