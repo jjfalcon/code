@@ -28,6 +28,12 @@
 
 ## TODO
 
+[How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+
+[How to Use Your Debugger and other tools to find and fix bugs](https://www.freecodecamp.org/news/the-beginner-bug-squashing-guide/)
+
+[How to start a software YouTube channel](https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel/)
+
 [Apple toma medidas de emergencia por la calidad del software](https://www.bloomberg.com/news/articles/2019-11-21/apple-ios-14-features-changes-testing-after-ios-13-bugs?cmpid==socialflow-twitter-tech) Numerosos bugs y problemas de rendimiento en iOS 13 y Catalina han llevado a la compañía a establecer nuevas medidas de desarrollo y comprobación para que el software sea más fácil de evolucionar y mantener.
 
 [How to plan, code, and deploy your startup idea in a single weekend (2 hour video course)](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
