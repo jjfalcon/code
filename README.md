@@ -28,6 +28,8 @@
 
 ## TODO
 
+[How to manage the version number in Git?](https://stackoverflow.com/questions/37814286/how-to-manage-the-version-number-in-git)
+
 [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 [How to Use Your Debugger and other tools to find and fix bugs](https://www.freecodecamp.org/news/the-beginner-bug-squashing-guide/)
