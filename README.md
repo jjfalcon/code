@@ -28,6 +28,8 @@
 
 ## TODO
 
+[6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf)
+
 [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 
 [How to manage the version number in Git?](https://stackoverflow.com/questions/37814286/how-to-manage-the-version-number-in-git)
