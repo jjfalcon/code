@@ -28,6 +28,8 @@
 
 ## TODO
 
+[Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+
 [How to manage the version number in Git?](https://stackoverflow.com/questions/37814286/how-to-manage-the-version-number-in-git)
 
 [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
