@@ -35,7 +35,7 @@
 [NO CODE]
 * Coda
 * Glide
-* App
+* AppSheet
 * https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC
 * https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
 * https://notrealtwitter.com/
