@@ -32,6 +32,14 @@
 
 [KataCoda](https://www.katacoda.com/) Learn new technologies using real environments right in your browser. Interactive Learning and Training Platform for Software Engineers. Helping Developers Learn and Companies Increase Adoption
 
+[NO CODE]
+* Coda
+* Glide
+* App
+* https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC
+* https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
+* https://notrealtwitter.com/
+
 ## TODO
 
 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf)
