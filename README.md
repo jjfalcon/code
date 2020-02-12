@@ -32,6 +32,9 @@
 
 [KataCoda](https://www.katacoda.com/) Learn new technologies using real environments right in your browser. Interactive Learning and Training Platform for Software Engineers. Helping Developers Learn and Companies Increase Adoption
 
+### SWIFT
+* [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
+
 [NO CODE]
 * Coda
 * Glide
