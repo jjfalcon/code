@@ -288,6 +288,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## TEST
 
+[Guidelines for Quality Assurance and a Technique for Advanced Software Testing](https://simpleprogrammer.com/advanced-software-testing/)
+
 https://twitter.com/davidkpiano/status/1218552334680317953?s=11
 E2E tests make sure the app is working properly.
 Integration tests make sure the code is working properly.
