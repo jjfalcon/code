@@ -14,6 +14,8 @@
 
 ## HERRAMIENTAS
 
+[iHateRegex](https://www.genbeta.com/desarrollo/ihateregex-web-que-nos-permite-consultar-verificar-visualizar-expresiones-regulares) la web que nos permite consultar, verificar y visualizar expresiones regulares
+
 [How a simple cron job can save you from a ransomware attack](https://www.freecodecamp.org/news/cronjob-ransomware-attack/)
 
 [Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
@@ -48,6 +50,8 @@
 * https://notrealtwitter.com/
 
 ## TODO
+
+[Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
 
 [Bilbostack 2020 - El camino de l a entrega en DevOps](https://www.slideshare.net/lfraile/bilbostack-2020-el-camino-de-l-a-entrega-en-devops)
 
