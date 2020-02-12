@@ -49,6 +49,8 @@
 
 ## TODO
 
+[Bilbostack 2020 - El camino de l a entrega en DevOps](https://www.slideshare.net/lfraile/bilbostack-2020-el-camino-de-l-a-entrega-en-devops)
+
 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf)
 
 [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
