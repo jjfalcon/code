@@ -32,7 +32,11 @@
 
 [KataCoda](https://www.katacoda.com/) Learn new technologies using real environments right in your browser. Interactive Learning and Training Platform for Software Engineers. Helping Developers Learn and Companies Increase Adoption
 
-### SWIFT
+[React Native]
+* Just launched [new React Native docs](https://twitter.com/reactnative/status/1222911109977530368?s=12) by @rachelnabors to help folks start their React Native journey
+** [React Native Introduction](https://facebook.github.io/react-native/docs/next/getting-started)
+
+[SWIFT]
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
 [NO CODE]
