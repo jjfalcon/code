@@ -1,5 +1,6 @@
 ## LIBROS
 
+* [Recopilacion de Resumen de libros](https://twitter.com/victorianoi/status/1213393653718306816?s=11)
 * Extreme Programming Explained. Debería ser el primer libro de como programar
 * The Pragmatic Programmer. Un libro de programación en general de obligada lectura
 * Clean Code. Un libro indispensable para escribir codigo limpio
@@ -50,6 +51,8 @@
 * https://notrealtwitter.com/
 
 ## TODO
+
+[conclusiones/confirmaciones sobre como afrontar un MVP](https://twitter.com/jjballano/status/1217397010267021312?s=11)
 
 [Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
 
@@ -284,6 +287,11 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## TEST
+
+https://twitter.com/davidkpiano/status/1218552334680317953?s=11
+E2E tests make sure the app is working properly.
+Integration tests make sure the code is working properly.
+Unit tests make sure the developer is working properly
 
 [Tests Too DRY? Make Them DAMP!](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html) In tests we can use the DAMP principle (“Descriptive and Meaningful Phrases”), which emphasizes readability over uniqueness. Note that the DRY principle is still relevant in tests; for example, using a helper function for creating value objects can increase clarity by removing redundant details from the test body. Ideally, test code should be both readable and unique, but sometimes there’s a trade-off. When writing unit tests and faced with a choice between the DRY and DAMP principles, lean more heavily toward DAMP.
 
@@ -806,6 +814,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
 ## Formacion
+
+[3D buzz abre todos sus cursos gratuitamente](https://www.genbeta.com/actualidad/3d-buzz-cierra-como-regalo-final-nos-dejan-descargar-todos-sus-cursos-tutoriales-diseno-desarrollo-completamente-gratis)
 
 [Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
 
