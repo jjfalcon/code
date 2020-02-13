@@ -13,7 +13,11 @@
 
 * The Javascript Handbook
 
+[What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
+
 ## HERRAMIENTAS
+
+[10 Important Git Commands that Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
 
 [iHateRegex](https://www.genbeta.com/desarrollo/ihateregex-web-que-nos-permite-consultar-verificar-visualizar-expresiones-regulares) la web que nos permite consultar, verificar y visualizar expresiones regulares
 
