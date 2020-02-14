@@ -56,6 +56,10 @@
 
 ## TODO
 
+[Build a weight tracker app with nodejs and postgresql](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
+
+[How to Make a killer Dashboard with google sheerts](https://www.lucidchart.com/techblog/2017/10/18/make-killer-data-dashboard-with-google-sheets/)
+
 [conclusiones/confirmaciones sobre como afrontar un MVP](https://twitter.com/jjballano/status/1217397010267021312?s=11)
 
 [Build a Weight Tracker App with Node.js and PostgreSQL](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
