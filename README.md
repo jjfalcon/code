@@ -56,6 +56,9 @@
 
 ## TODO
 
+Más información sobre nuestros Términos del Servicio actualizados (Google)
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDWnFvlBPJQknTBXfdKPDFhxJ
+
 [Build a weight tracker app with nodejs and postgresql](https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql)
 
 [How to Make a killer Dashboard with google sheerts](https://www.lucidchart.com/techblog/2017/10/18/make-killer-data-dashboard-with-google-sheets/)
