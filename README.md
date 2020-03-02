@@ -405,6 +405,9 @@ Always remember the reason that you're testing is about confidence. If something
 
 ## DEVOPPs
 
+Programming the Cloud: Empowering Developers to Do Infrastructure
+https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
+
 [Esto es lo que pasa cuando intentas medir la productividad de un programador por las líneas de código que escribe al día](https://www.genbeta.com/desarrollo/esto-que-pasa-cuando-intentas-medir-productividad-programador-lineas-codigo-que-escribe-al-dia)
 
 [TrunkBasesDevelopment](https://twitter.com/inicopaez/status/1100782337141469185?s=11)
