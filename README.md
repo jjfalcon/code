@@ -407,6 +407,7 @@ Always remember the reason that you're testing is about confidence. If something
 
 Programming the Cloud: Empowering Developers to Do Infrastructure
 https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
+* Pulumi
 
 [Esto es lo que pasa cuando intentas medir la productividad de un programador por las líneas de código que escribe al día](https://www.genbeta.com/desarrollo/esto-que-pasa-cuando-intentas-medir-productividad-programador-lineas-codigo-que-escribe-al-dia)
 
