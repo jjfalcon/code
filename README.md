@@ -93,7 +93,7 @@ WebApp
 Plataformas de Formacion
 * Coursera
 * Miriada X
-* Udemy
+* Udemy https://www.udemy.com/home/my-courses/learning/
 * Codeacademy
 
 [the beginners guide to git and github](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/) This beginner’s guide to Git and GitHub will introduce you to some version control fundamentals. (9 minute read): 
