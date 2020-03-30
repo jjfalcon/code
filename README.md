@@ -56,6 +56,9 @@
 
 ## TODO
 
+Cómo hacer una app | Guía completa para diseñar y programar una aplicación móvil
+https://platzi.com/blog/como-crear-una-app
+
 Más información sobre nuestros Términos del Servicio actualizados (Google)
 https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDWnFvlBPJQknTBXfdKPDFhxJ
 
