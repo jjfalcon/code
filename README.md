@@ -17,6 +17,8 @@
 
 ## HERRAMIENTAS
 
+[Platforma 2](https://platforma.ws/) Start your web project right with distinct prototype, easily made with Platforma’s huge layout library
+
 [10 Important Git Commands that Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
 
 [iHateRegex](https://www.genbeta.com/desarrollo/ihateregex-web-que-nos-permite-consultar-verificar-visualizar-expresiones-regulares) la web que nos permite consultar, verificar y visualizar expresiones regulares
