@@ -1,6 +1,4 @@
-## NO CODE
 
-[Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 
 ## LIBROS
 
@@ -59,6 +57,7 @@
 * https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC
 * https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
 * https://notrealtwitter.com/
+* [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 
 ## TODO
 
