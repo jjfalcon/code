@@ -1,7 +1,11 @@
 ## PET PROJECTS
 
 [Permisos QR para salir de casa](https://www.xataka.com/medicina-y-salud/permisos-qr-para-salir-casa-recibidos-sms-asi-como-grecia-esta-controlando-salidas-su-ciudadania)
+
 [Aprende JavaScript creando ocho videojuegos simples y clásicos que puedes añadir a tu portafolio](https://www.genbeta.com/desarrollo/aprende-javascript-creando-ocho-videojuegos-simples-clasicos-que-puedes-anadir-a-tu-portafolio)
+
+[Arduino. Termometro fiebre sin contacto](https://create.arduino.cc/projecthub/hardyedela/diy-arduino-gy-906-infrared-thermometer-5881aa)
+
 
 ## REMOTO
 
