@@ -243,7 +243,7 @@ Thinking to move to AI? Learn Python first.
 
 ### Diseño sostenible
 
-[Charla inspiradora de desarrollo sostenible](https://wordpress.tv/2019/09/22/roberto-vazquez-desarrollo-sostenible/) Recomendada para todos los diseñadores y desarrolladores y luego [Charla de consejos para hacer tu web más sostenible](https://wordpress.tv/2020/05/09/nahuai-badiola-consejos-para-hacer-tus-webs-mas-sostenibles/) con [presentacion](https://2020.spain.wordcamp.org/files/2020/05/08A03_03_WordCamp-Espan%CC%83a-2020-Nahuai-Badiola.pdf)
+[Charla inspiradora de desarrollo sostenible](https://wordpress.tv/2019/09/22/roberto-vazquez-desarrollo-sostenible/) Recomendada para todos los diseñadores y desarrolladores y luego [Charla de consejos para hacer tu web más sostenible](https://wordpress.tv/2020/05/09/nahuai-badiola-consejos-para-hacer-tus-webs-mas-sostenibles/) con [presentacion](https://2020.spain.wordcamp.org/files/2020/05/08A03_03_WordCamp-Espan%CC%83a-2020-Nahuai-Badiola.pdf) Lo sostenible va de la mano con lean, rapido, conexiones lentas, usable y accesible.
 
 ## CODE
 
