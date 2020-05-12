@@ -1,4 +1,25 @@
+## Info Estrategica Inspiradora
+* Google - ThinkWithGoogle - Insights, ideas e inspiración
+  * [Resources and insights to help you navigate uncertain times](https://www.thinkwithgoogle.com/marketing-resources/coronavirus-strategy/)
+
 ## PET PROJECTS
+
+### Como hacer una web personal gratis
+* WebFlow
+* Wix
+* [Fruition: Free, Open Source Toolkit for Building Websites with Notion](https://fruitionsite.com/)
+* GitPages
+* Nutjx
+
+### Como hacer una web, app con herramientas no code
+* Glide
+*
+
+### Como hacer un desarrollo multiplataforma (web, app, desktop)
+* electron
+* NWjs
+* [Neutralinojs](https://github.com/neutralinojs/neutralinojs/blob/master/README.md)
+
 
 [Permisos QR para salir de casa](https://www.xataka.com/medicina-y-salud/permisos-qr-para-salir-casa-recibidos-sms-asi-como-grecia-esta-controlando-salidas-su-ciudadania)
 
