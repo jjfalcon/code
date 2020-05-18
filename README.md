@@ -250,6 +250,8 @@ Thinking to move to AI? Learn Python first.
 
 ## DESIGN
 
+[Why We Made a New Component Library Instead of Buying One](https://medium.com/thron-tech/why-we-made-a-new-component-library-instead-of-buying-one-2335009a0895) Buy or Make? We are all for “buy” but — thanks to Vue.js — we choose “make”
+
 [Mobbin](https://mobbin.design/) Discover the latest iOS UI design patterns. Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. Get inspiration from over 170 iOS apps and 10,000 patterns (screenshots from iPhone X) available on the platform. Sign up to save your favorite patterns.
 
 [Why Do We Need Architectural Diagrams?](https://www.infoq.com/articles/why-architectural-diagrams) 
