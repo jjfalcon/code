@@ -86,7 +86,7 @@
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
 * Glide
 * AppSheet
-* [AppGyver](https://www.appgyver.com/)
+* [AppGyver](https://www.appgyver.com/) Parece que tiene notificaciones y QR Scan
 * https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC
 * https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
 * https://notrealtwitter.com/
