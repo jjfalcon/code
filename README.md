@@ -1,6 +1,12 @@
-## Info Estrategica Inspiradora
+## ESTRATEGIA
 * Google - ThinkWithGoogle - Insights, ideas e inspiración
   * [Resources and insights to help you navigate uncertain times](https://www.thinkwithgoogle.com/marketing-resources/coronavirus-strategy/)
+* [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy)
+  Importante fijar la estrategia de negocio y planificar productos/proyectos para conseguirla.
+  * Vision. Objetivo propuesto a futuro, motivacional, aspiracional, para alinear a toda la organizacion
+  * Reto. Primer gran objetivo detectado en camino de la vision anterior. 
+  * Objetivo. Pequeño y medible para explorar por un equipo de trabajo, y conseguir una parte del reto.
+  * Estado Actual, respecto al objetivo definido.
 
 ## PET PROJECTS
 
@@ -91,6 +97,7 @@
 * https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
 * https://notrealtwitter.com/
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
+[How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
 
 ## TODO
 
