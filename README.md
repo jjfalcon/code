@@ -56,6 +56,8 @@
 
 ## HERRAMIENTAS
 
+[No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev. Follow @nodesigndev
+
 [Platforma 2](https://platforma.ws/) Start your web project right with distinct prototype, easily made with Platforma’s huge layout library
 
 [10 Important Git Commands that Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
@@ -98,6 +100,7 @@
 * https://notrealtwitter.com/
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 [How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
+[No Code](https://vas3k.com/blog/nocode/#.Xuf7Wrb6C3Q.twitter)
 
 ## TODO
 
