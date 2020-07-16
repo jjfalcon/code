@@ -96,6 +96,7 @@
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
 * Glide
 * AppSheet
+* [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816)
 * [AppGyver](https://www.appgyver.com/) Parece que tiene notificaciones y QR Scan
 * https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC
 * https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks
