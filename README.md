@@ -102,7 +102,7 @@
 * https://notrealtwitter.com/
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 [How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
-[No Code](https://vas3k.com/blog/nocode/#.Xuf7Wrb6C3Q.twitter)
+[Ejemplo practico No Code](https://vas3k.com/blog/nocode/#.Xuf7Wrb6C3Q.twitter) Digitalizacion de gastos
 
 ## TODO
 
