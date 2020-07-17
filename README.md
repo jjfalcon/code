@@ -7,11 +7,12 @@
   * Reto. Primer gran objetivo detectado en camino de la vision anterior. 
   * Objetivo. Pequeño y medible para explorar por un equipo de trabajo, y conseguir una parte del reto.
   * Estado Actual, respecto al objetivo definido.
-  [El ciclo de vida de los experimentos](https://vanesatejada.com/2020/07/17/el-ciclo-de-vida-de-los-experimentos/) Los equipos de producto tienen que aprender a trabaja en modo dual track gestionando discovery y delivery al mismo tiempo, lo cual es maravilloso para el crecimiento del equipo/producto, pero un reto dificil de gestionar.
  
- ### How to build the right product
-  [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
-  [How to Improve Your Experiment Design (And Build Trust in Your Product Experiments)](https://www.producttalk.org/2017/08/experiment-design/)
+ * How to build the right product validando ideas con datos
+  * [Cómo definir tus experimentos](https://vanesatejada.com/2020/07/08/como-definir-tus-experimentos/)
+  * [El ciclo de vida de los experimentos](https://vanesatejada.com/2020/07/17/el-ciclo-de-vida-de-los-experimentos/) Los equipos de producto tienen que aprender a trabaja en modo dual track gestionando discovery y delivery al mismo tiempo, lo cual es maravilloso para el crecimiento del equipo/producto, pero un reto dificil de gestionar.
+  * [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
+  * [How to Improve Your Experiment Design (And Build Trust in Your Product Experiments)](https://www.producttalk.org/2017/08/experiment-design/)
 
 ## PET PROJECTS
 
