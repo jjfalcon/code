@@ -482,6 +482,8 @@ https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
 - duplicate code to avoid dependencies
 - work in small units to commit and push frequently (local broken build lasts max 10min)
 
+[Pusheando en master, que es gerundio](https://www.youtube.com/watch?v=UvtaujgCNsI) Genial charla del gran @islomar sobre trunk base development
+
 [Agile Development](https://twitter.com/jcesarperez/status/1101437979464253442?s=11)
 - Automatizar una build
 - TDD
