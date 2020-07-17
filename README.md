@@ -362,6 +362,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## TEST
 
+[osx-config-check](https://github.com/kristovatlas/osx-config-check)
+
 [Guidelines for Quality Assurance and a Technique for Advanced Software Testing](https://simpleprogrammer.com/advanced-software-testing/)
 
 https://twitter.com/davidkpiano/status/1218552334680317953?s=11
