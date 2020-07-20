@@ -112,6 +112,12 @@
 [How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
 [Ejemplo practico No Code](https://vas3k.com/blog/nocode/#.Xuf7Wrb6C3Q.twitter) Digitalizacion de gastos
 
+[MULTIPLATAFORMA]
+* electron
+* flutter
+* python y kivy
+* delphi
+
 ## TODO
 
 Cómo hacer una app | Guía completa para diseñar y programar una aplicación móvil
