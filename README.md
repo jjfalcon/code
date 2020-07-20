@@ -564,6 +564,8 @@ Todas las secciones incluyen ejercicio práctico
 
 ## Desarrollo Producto
 
+[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/) product briefing” (PB) es un documento que resume la estrategia y planificación detrás de un producto, con un formato y contenido dirigidos a ser consumidos por cualquier empleado o stakeholder. Su principal objetivo es responder a cualquier pregunta derivada de: ¿Por qué es un buen uso de los recursos de la empresa el trabajar en este producto (o gran funcionalidad) de este modo en este momento?
+
 [A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
 
 [Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
