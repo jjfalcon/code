@@ -1,5 +1,6 @@
 ## ESTRATEGIA
 * [Liderazgo, estrategia y cultura](https://samuelgil.substack.com/p/46-liderazgo-estrategia-y-cultura)
+* [Como implementar OKRs](https://twitter.com/rmedranollamas/status/1289655940053049344)
 * Google - ThinkWithGoogle - Insights, ideas e inspiración
   * [Resources and insights to help you navigate uncertain times](https://www.thinkwithgoogle.com/marketing-resources/coronavirus-strategy/)
 * [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy)
