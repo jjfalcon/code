@@ -1,3 +1,6 @@
+## VENTA ONLINE
+* [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
+
 ## ESTRATEGIA
 * [Liderazgo, estrategia y cultura](https://samuelgil.substack.com/p/46-liderazgo-estrategia-y-cultura)
 * [Como implementar OKRs](https://twitter.com/rmedranollamas/status/1289655940053049344)
@@ -274,6 +277,10 @@ Thinking to move to AI? Learn Python first.
 [How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
 
 [Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
+
+## DOC
+
+[Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
 
 ## DESIGN
 
