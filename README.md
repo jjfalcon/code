@@ -23,6 +23,105 @@
   * [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
   * [How to Improve Your Experiment Design (And Build Trust in Your Product Experiments)](https://www.producttalk.org/2017/08/experiment-design/)
 
+## DESARROLLO PRODUCTO
+
+[The Kano Model analysis is the solution!](https://medium.com/@filomenamsacardoso/the-kano-model-analysis-is-the-solution-56b50ac7a757) Kano Model analysis enables you and your team to focus on the right priorities. Understanding the users is the first step to a great project. The model was built on three core tenets:
+* Value attracts clients.
+* Quality keeps clients and builds loyalty.
+* Innovation is necessary to differentiate and compete in the market.
+
+[Growth Loops](https://samuelgil.substack.com/p/50-growth-loops) la forma óptima de describir un producto digital de alto crecimiento es un sistema compuesto por dos bucles interconectados: uno de adquisición y otro de interacción.
+
+[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/) product briefing” (PB) es un documento que resume la estrategia y planificación detrás de un producto, con un formato y contenido dirigidos a ser consumidos por cualquier empleado o stakeholder. Su principal objetivo es responder a cualquier pregunta derivada de: ¿Por qué es un buen uso de los recursos de la empresa el trabajar en este producto (o gran funcionalidad) de este modo en este momento?
+
+[A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
+
+[Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
+
+[Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
+
+[Clarifying the Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
+
+[Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
+
+[three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
+
+1. Listen to your customers
+2. Invent for your customers 
+3. Personalize for each and everyone of your customers
+pic.twitter.com/cGW8soTBaq
+
+[Building an API that Developers Love](https://www.mindtheproduct.com/2017/02/building-api-developers-love)
+
+[Iterating a Big, Crazy Idea into a Six-Figure Business](https://leanstartup.co/iterating-a-big-crazy-idea-into-a-six-figure-business/)
+
+![alt text](https://pbs.twimg.com/media/DoIfxWdUUAAipXt.jpg:small "Comunicacion equipos")
+Añadir mas colaboradores a un proyecto aumenta la complejidad exponencialmente. Pasar de 3 a 4 duplica el numero de lineas de comunicacion. La formula de las lineas de comunicacion de un equipo de n participantes es (n*(n-1))/2. Y eso teniendo en cuenta que sea un equipo totalmente horizontal, ya que si añadimos niveles la calidad de la comunicación se complica con cada nivel de forma linea a exponencial. Esto se duplica si consideramos que una linea de comunicación es bidireccional, y además que tenemos que hablar y escuchar diferente a cada persona.
+
+Una solución de que la complejidad sea lineal, es un nodo tenga toda la información verdadera, y todos solo se comunican con ese nodo, por ejemplo el control de versiones. En ese caso las lineas de comunicacion son n!
+
+Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
+
+[5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
+
+[The benefits of side projects](https://dzone.com/articles/the-benefits-of-side-projects)
+
+[El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
+
+[A Step-by-Step Guide to Build a Minimum Viable Product (MVP) ](https://dzone.com/articles/a-step-by-step-guide-to-build-a-minimum-viable-pro)
+
+[Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
+
+[Why Should You Choose Rapid App Prototyping Prior to Building Your MVP?](https://dzone.com/articles/why-should-you-choose-rapid-app-prototyping-prior)
+
+[¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
+
+[6 Tips to Design an MVP of Your Promising Idea](https://dzone.com/articles/6-tips-to-design-an-mvp-of-your-promising-idea)
+
+[Seguridad desde diseño](https://www.continuumsecurity.net/)
+
+[One page product design - Jorge Barroso](https://www.youtube.com/watch?v=9wVJHZEeTY0)
+
+[Soporte Comunidad](http://escornabot.com/web/es/content/comunidad) Ejemplo de soporte en proyecto OpenSource Escornabot
+
+[Growing as a Product Owner: Five Product Owner Maturity-Levels](https://dzone.com/articles/growing-as-a-product-owner-five-product-owner-matu)
+
+### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
+Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
+
+### [Creando Cloud Tutorial](https://rominirani.com/creating-google-cloud-shell-tutorials-a1774cc4eb93)
+I love creating developer tutorials. A recently released feature on Google Cloud Platform allows you to create a tutorial that runs inside Google Cloud Shell. This definitely opens up multiple possibilities and all I need to do to keep this tutorial updated is probably minimal text changes and code updates. I think it has very good potential and I am excited about it.
+
+This blog post will be about how to go about creating tutorials that provide a seamless experience to the user in terms of packaging all the code necessary to run your tutorial, provision that on the Cloud Shell and provide step by step instructions that helps the reader follow along, in true tutorial style.
+
+### [Causas de fallo del desarrollo de producto](https://medium.com/@itortv/reflexi%C3%B3n-sobre-la-inc%C3%B3moda-charla-the-root-cause-of-product-failure-de-marty-cagan-6704783e10)
+Una empresa orientada a producto debe tener como misión masterizar este proceso. Estudiar los problemas actuales, buscar alternativas e inspiraciones para descubrir y entregar más rápido. Sino, el riesgo aumenta, y el dinero disminuye.
+Para saber más: Inspired, how to create product customers love. By Marty Cagan. 
+
+### [How to Build a Secret Product](https://dzone.com/articles/how-to-build-a-secret-product)
+Project Proton has been an ambitious project from the beginning, and while I can’t go into the details yet, I can share the biggest lessons that we’ve learned as a company and reveal some useful tools that we’ve used along the way, such as:
+* Start the way you mean to finish;
+* Articulating the "why";
+* Get the hell out of the building;
+* Keep competitors in the rear-view mirror;
+* Focus on building value, not features; and,
+* Document, document, and document.
+
+### [The Agile Fluency Model](https://martinfowler.com/articles/agileFluency.html)
+Agile methods are solidly in the mainstream, but that popularity hasn't been without its problems. Organizational leaders are complaining that they’re not getting the benefits they expected. This article presents a fluency model that will help you get the most out of agile ideas. Fluency evolves through four distinct zones, each with its own benefits, required proficiencies, and key metrics. 
+
+![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
+
+[Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
+
+[Komercia una startup colombiana que Google Launchpad Start cambio en una semana](https://developers-latam.googleblog.com/2018/07/komercia-una-startup-colombiana-que.html)
+
+[Experiencias trabajando en remoto](https://twitter.com/nyan_dev/status/1014968748737024000?refsrc=email&s=11&ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eemail) Experiencia de trabajo remoto en empresa 100% remota. La gran ventaja es contratar gente de cualquier parte del mundo (mas oferta, y más especialización). Cada desarrollador crear un nuevo repositorio en Github, y una nueva aplicación en Heroku. Programa, testea, despliega, mantiene, monitoriza, y todos los automatismos (scripts) necesarios que lo soportan. Utilizar las herramientas que mejor se adapte a cada contexto, lo que por supuesto se aplica al codigo, y a todos los ámbitos (comunicación, etc) Por ejemplo usan Trello en lugar de Jira. Con un board por proyecto y una tarjeta por tarea. Para comunicación asícrona sobre tareas, se escribe comentario en tarjeta, y el responsable la contesta sobre la misma tarejta cuando pueda. Di hola cuando empiezas, adios cuando te vas, y avisa cuando no vas a estar. Recuerda que no pueden verte y se trata de responsabilidad. Empatiza con el horario de tus compañeros. No dejes un marron al final del día de un compañero, si no es estricamente necesario. Piensa si a ti te gustaría. Puedes posponer el aviso hasta su mañana para evitarle el susto. También se usa Slack para comunicación no asociada directamente a las tareas. Negarse a herramientas de monitorizacion del tiempo estilo TimeDoctor.
+
+Para las reuniones sincronas ineludibles se concierta un horario común, y se escriben las conclusiones de esas conversaciones en un lugar común al que pueda acceder cualquiera que por alguna razón no haya podido acudir.
+
+[cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
+
 ## PET PROJECTS
 
 ### Como hacer una web personal gratis
@@ -611,101 +710,8 @@ Todas las secciones incluyen ejercicio práctico
 
 [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
 
-## Desarrollo Producto
 
-[Growth Loops](https://samuelgil.substack.com/p/50-growth-loops) la forma óptima de describir un producto digital de alto crecimiento es un sistema compuesto por dos bucles interconectados: uno de adquisición y otro de interacción.
-
-[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/) product briefing” (PB) es un documento que resume la estrategia y planificación detrás de un producto, con un formato y contenido dirigidos a ser consumidos por cualquier empleado o stakeholder. Su principal objetivo es responder a cualquier pregunta derivada de: ¿Por qué es un buen uso de los recursos de la empresa el trabajar en este producto (o gran funcionalidad) de este modo en este momento?
-
-[A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
-
-[Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
-
-[Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
-
-[Clarifying the Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
-
-[Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
-
-[three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
-
-1. Listen to your customers
-2. Invent for your customers 
-3. Personalize for each and everyone of your customers
-pic.twitter.com/cGW8soTBaq
-
-[Building an API that Developers Love](https://www.mindtheproduct.com/2017/02/building-api-developers-love)
-
-[Iterating a Big, Crazy Idea into a Six-Figure Business](https://leanstartup.co/iterating-a-big-crazy-idea-into-a-six-figure-business/)
-
-![alt text](https://pbs.twimg.com/media/DoIfxWdUUAAipXt.jpg:small "Comunicacion equipos")
-Añadir mas colaboradores a un proyecto aumenta la complejidad exponencialmente. Pasar de 3 a 4 duplica el numero de lineas de comunicacion. La formula de las lineas de comunicacion de un equipo de n participantes es (n*(n-1))/2. Y eso teniendo en cuenta que sea un equipo totalmente horizontal, ya que si añadimos niveles la calidad de la comunicación se complica con cada nivel de forma linea a exponencial. Esto se duplica si consideramos que una linea de comunicación es bidireccional, y además que tenemos que hablar y escuchar diferente a cada persona.
-
-Una solución de que la complejidad sea lineal, es un nodo tenga toda la información verdadera, y todos solo se comunican con ese nodo, por ejemplo el control de versiones. En ese caso las lineas de comunicacion son n!
-
-Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
-
-[5 Design Mistakes Your Clients will Never Forgive and How to Avoid Them Using Pre-Built Websites](https://webdesignledger.com/5-design-mistakes-your-clients-will-never-forgive-and-how-to-avoid-them-using-pre-built-websites/amp/)
-
-[The benefits of side projects](https://dzone.com/articles/the-benefits-of-side-projects)
-
-[El Product Owner y cómo interpretar su rol](https://vanesatejada.com/2018/06/04/el-product-owner-y-como-interpretar-su-rol)
-
-[A Step-by-Step Guide to Build a Minimum Viable Product (MVP) ](https://dzone.com/articles/a-step-by-step-guide-to-build-a-minimum-viable-pro)
-
-[Rapid Prototyping: What To Do And What To Avoid](https://webdesignledger.com/rapid-prototyping-avoid/amp/)
-
-[Why Should You Choose Rapid App Prototyping Prior to Building Your MVP?](https://dzone.com/articles/why-should-you-choose-rapid-app-prototyping-prior)
-
-[¿Qué pruebas debemos hacerle a nuestro software y para qué?](https://www.genbetadev.com/trabajar-como-desarrollador/que-pruebas-debemos-hacerle-a-nuestro-software-y-para-que)
-
-[6 Tips to Design an MVP of Your Promising Idea](https://dzone.com/articles/6-tips-to-design-an-mvp-of-your-promising-idea)
-
-[Seguridad desde diseño](https://www.continuumsecurity.net/)
-
-[One page product design - Jorge Barroso](https://www.youtube.com/watch?v=9wVJHZEeTY0)
-
-[Soporte Comunidad](http://escornabot.com/web/es/content/comunidad) Ejemplo de soporte en proyecto OpenSource Escornabot
-
-[Growing as a Product Owner: Five Product Owner Maturity-Levels](https://dzone.com/articles/growing-as-a-product-owner-five-product-owner-matu)
-
-### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
-Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
-
-### [Creando Cloud Tutorial](https://rominirani.com/creating-google-cloud-shell-tutorials-a1774cc4eb93)
-I love creating developer tutorials. A recently released feature on Google Cloud Platform allows you to create a tutorial that runs inside Google Cloud Shell. This definitely opens up multiple possibilities and all I need to do to keep this tutorial updated is probably minimal text changes and code updates. I think it has very good potential and I am excited about it.
-
-This blog post will be about how to go about creating tutorials that provide a seamless experience to the user in terms of packaging all the code necessary to run your tutorial, provision that on the Cloud Shell and provide step by step instructions that helps the reader follow along, in true tutorial style.
-
-### [Causas de fallo del desarrollo de producto](https://medium.com/@itortv/reflexi%C3%B3n-sobre-la-inc%C3%B3moda-charla-the-root-cause-of-product-failure-de-marty-cagan-6704783e10)
-Una empresa orientada a producto debe tener como misión masterizar este proceso. Estudiar los problemas actuales, buscar alternativas e inspiraciones para descubrir y entregar más rápido. Sino, el riesgo aumenta, y el dinero disminuye.
-Para saber más: Inspired, how to create product customers love. By Marty Cagan. 
-
-### [How to Build a Secret Product](https://dzone.com/articles/how-to-build-a-secret-product)
-Project Proton has been an ambitious project from the beginning, and while I can’t go into the details yet, I can share the biggest lessons that we’ve learned as a company and reveal some useful tools that we’ve used along the way, such as:
-* Start the way you mean to finish;
-* Articulating the "why";
-* Get the hell out of the building;
-* Keep competitors in the rear-view mirror;
-* Focus on building value, not features; and,
-* Document, document, and document.
-
-### [The Agile Fluency Model](https://martinfowler.com/articles/agileFluency.html)
-Agile methods are solidly in the mainstream, but that popularity hasn't been without its problems. Organizational leaders are complaining that they’re not getting the benefits they expected. This article presents a fluency model that will help you get the most out of agile ideas. Fluency evolves through four distinct zones, each with its own benefits, required proficiencies, and key metrics. 
-
-![The Agile Fluency Model](https://martinfowler.com/articles/agileFluency/agile-fluency-model-v2-simple-2-1.png)
-
-[Las 4 grandes mentiras de un proyecto en equipo ](http://thinkwasabi.com/mentiras-proyecto-equipo/)
-
-[Komercia una startup colombiana que Google Launchpad Start cambio en una semana](https://developers-latam.googleblog.com/2018/07/komercia-una-startup-colombiana-que.html)
-
-[Experiencias trabajando en remoto](https://twitter.com/nyan_dev/status/1014968748737024000?refsrc=email&s=11&ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eemail) Experiencia de trabajo remoto en empresa 100% remota. La gran ventaja es contratar gente de cualquier parte del mundo (mas oferta, y más especialización). Cada desarrollador crear un nuevo repositorio en Github, y una nueva aplicación en Heroku. Programa, testea, despliega, mantiene, monitoriza, y todos los automatismos (scripts) necesarios que lo soportan. Utilizar las herramientas que mejor se adapte a cada contexto, lo que por supuesto se aplica al codigo, y a todos los ámbitos (comunicación, etc) Por ejemplo usan Trello en lugar de Jira. Con un board por proyecto y una tarjeta por tarea. Para comunicación asícrona sobre tareas, se escribe comentario en tarjeta, y el responsable la contesta sobre la misma tarejta cuando pueda. Di hola cuando empiezas, adios cuando te vas, y avisa cuando no vas a estar. Recuerda que no pueden verte y se trata de responsabilidad. Empatiza con el horario de tus compañeros. No dejes un marron al final del día de un compañero, si no es estricamente necesario. Piensa si a ti te gustaría. Puedes posponer el aviso hasta su mañana para evitarle el susto. También se usa Slack para comunicación no asociada directamente a las tareas. Negarse a herramientas de monitorizacion del tiempo estilo TimeDoctor.
-
-Para las reuniones sincronas ineludibles se concierta un horario común, y se escriben las conclusiones de esas conversaciones en un lugar común al que pueda acceder cualquiera que por alguna razón no haya podido acudir.
-
-[cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
-
-### OTROS
+## OTROS
 
 [Oferta Trabajo Programador Bob](https://medium.com/bob-io/buscamos-un-desarrollador-web-para-trabajar-en-bob-40450506045)
 
