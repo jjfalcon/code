@@ -146,7 +146,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 [Arduino. Termometro fiebre sin contacto](https://create.arduino.cc/projecthub/hardyedela/diy-arduino-gy-906-infrared-thermometer-5881aa)
 
-## REMOTO
+## EQUIPO, GESTION, REMOTO
+
+[Why Be Agile: Main Metrics, Most Used Tools, Agile Planning](https://dzone.com/articles/why-be-agile-main-metrics-most-used-tools-agile-pl) Why should businesses and startups care about PM? Why be Agile? Read about main metrics, Key Performance Indicators, and most used project management tools.
 
 [Remote Agile (Part 5): Retrospectives with Distributed Teams](https://dzone.com/articles/remote-agile-part-5-retrospectives-with-distribute)
 
