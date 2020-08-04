@@ -41,7 +41,6 @@
 * NWjs
 * [Neutralinojs](https://github.com/neutralinojs/neutralinojs/blob/master/README.md)
 
-
 [Permisos QR para salir de casa](https://www.xataka.com/medicina-y-salud/permisos-qr-para-salir-casa-recibidos-sms-asi-como-grecia-esta-controlando-salidas-su-ciudadania)
 
 [Aprende JavaScript creando ocho videojuegos simples y clásicos que puedes añadir a tu portafolio](https://www.genbeta.com/desarrollo/aprende-javascript-creando-ocho-videojuegos-simples-clasicos-que-puedes-anadir-a-tu-portafolio)
@@ -129,6 +128,8 @@
 * delphi
 
 ## TODO
+
+[WinGet](https://www.genbeta.com/windows/nuevo-gestor-paquetes-windows-10-se-acaba-convertir-mi-forma-favorita-instalar-aplicaciones) Gestor paquetes W10 desde terminal
 
 Cómo hacer una app | Guía completa para diseñar y programar una aplicación móvil
 https://platzi.com/blog/como-crear-una-app
