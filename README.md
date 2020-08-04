@@ -13,6 +13,10 @@
   * Objetivo. Pequeño y medible para explorar por un equipo de trabajo, y conseguir una parte del reto.
   * Estado Actual, respecto al objetivo definido.
  
+ * [una estrategia buena en internet, es controlar la demanda ofreciendo la mejor UX y generando efectos de red](https://twitter.com/samuelgil/status/1262361284579864576)
+ * [El viaje de Pre-Seed a Series A](https://twitter.com/samuelgil/status/1261523172496510976) Hacemos el recorrido que realizan las startups desde su creación hasta que levantan una serie A. Bonus: Detallamos nuestra estrategia de inversión.
+ 
+ 
  * How to build the right product validando ideas con datos
   * [Cómo definir tus experimentos](https://vanesatejada.com/2020/07/08/como-definir-tus-experimentos/)
   * [El ciclo de vida de los experimentos](https://vanesatejada.com/2020/07/17/el-ciclo-de-vida-de-los-experimentos/) Los equipos de producto tienen que aprender a trabaja en modo dual track gestionando discovery y delivery al mismo tiempo, lo cual es maravilloso para el crecimiento del equipo/producto, pero un reto dificil de gestionar.
@@ -66,6 +70,8 @@
 [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+
+[UIZARD](https://uizard.io/) The fastest and easiest way to bring your ideas to life
 
 [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev. Follow @nodesigndev
 
