@@ -406,6 +406,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## TEST
 
+[11 Ways To Manage Distributed Testing Teams Effectively](https://dzone.com/articles/11-ways-to-manage-distributed-testing-teams-effect)
+
 [osx-config-check](https://github.com/kristovatlas/osx-config-check)
 
 [Guidelines for Quality Assurance and a Technique for Advanced Software Testing](https://simpleprogrammer.com/advanced-software-testing/)
