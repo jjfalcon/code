@@ -310,6 +310,8 @@ Thinking to move to AI? Learn Python first.
 
 ## DOC
 
+[Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
+[Ejemplos docuemntacion diseño Google[(https://twitter.com/asiermarques/status/1286040586332536833?s=12)
 [Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
 [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
 
