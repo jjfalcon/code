@@ -256,6 +256,18 @@ The CSS Handbook - a full free book to guide you through CSS (85 minute read)
 
 En este documento se recopila la información general para programar y desarrollar software, independiente del lenguaje, plataforma, tecnología o modas.
 
+[10 Tips to Become a Better Software Engineer](https://dzone.com/articles/10-tips-to-become-a-better-software-engineer)
+* Write It Out Before You Code
+* Keep a Checklist of Tasks
+* Follow Proper Version Control Techniques
+* Constant Refactoring
+* The Code Does Not Self-Document
+* Ask Google. Not all the problems you encounter will have an obvious solution. Always ask Google. Sometimes my job is more about knowing how to search for something than actual programming. 
+* Always Reach Out For Help. Programming is actually a social activity. So do not program in silos, always discuss and progress. Follow pair programming.
+* Remember That Technology Always Changes
+* Remember That It Is OK to Have Bugs in Your Code
+* Always Find Out Ways to Automate Repetitive Tasks
+
 [Awesome Learning](https://github.com/afontcu/awesome-learning/blob/master/README.md) A living curated list of awesome learning material.
 
 [How to get started with programming](https://kentcdodds.com/blog/how-to-get-started-with-programming)
@@ -292,6 +304,7 @@ Thinking to move to AI? Learn Python first.
 ## DOC
 
 [Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
+[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
 
 ## DESIGN
 
