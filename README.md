@@ -176,6 +176,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## HERRAMIENTAS
 
+[Miro](https://miro.com) The online whiteboard for collaborative wireframing
+
 [Time Trackers](https://twitter.com/jmbeas/status/1265278000800514048) RescueTime, Clockify,Trello Time Tracker
 
 [MindMastr](https://hipertextual.com/presentado-por/mindmaster/representar-ideas-y-proyectos)
