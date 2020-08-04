@@ -51,6 +51,13 @@
 
 [Remote Agile (Part 5): Retrospectives with Distributed Teams](https://dzone.com/articles/remote-agile-part-5-retrospectives-with-distribute)
 
+[5 Best Practices for Managing a Remote Engineering Team](https://dzone.com/articles/code-ownership-is-more-important-than-ever-5-best)
+* The ABCs: Always Be Communicating
+* Aim for Complete Clarity and Document Everything
+* Inject Efficiency and Purpose Into Scheduled Meetings
+* Ditch Whiteboards for Transparency
+* Promote Human Connections
+
 ## LIBROS
 
 * [Recopilacion de Resumen de libros](https://twitter.com/victorianoi/status/1213393653718306816?s=11)
