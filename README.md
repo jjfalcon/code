@@ -70,6 +70,10 @@
 
 ## HERRAMIENTAS
 
+[Time Trackers](https://twitter.com/jmbeas/status/1265278000800514048) RescueTime, Clockify,Trello Time Tracker
+
+[MindMastr](https://hipertextual.com/presentado-por/mindmaster/representar-ideas-y-proyectos)
+
 [UIZARD](https://uizard.io/) The fastest and easiest way to bring your ideas to life
 
 [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev. Follow @nodesigndev
