@@ -15,7 +15,7 @@
  
  * [una estrategia buena en internet, es controlar la demanda ofreciendo la mejor UX y generando efectos de red](https://twitter.com/samuelgil/status/1262361284579864576)
  * [El viaje de Pre-Seed a Series A](https://twitter.com/samuelgil/status/1261523172496510976) Hacemos el recorrido que realizan las startups desde su creación hasta que levantan una serie A. Bonus: Detallamos nuestra estrategia de inversión.
- 
+ * [¿Consumerprise o enterconsumer?](https://twitter.com/samuelgil/status/1266596481911468032?s=12)
  
  * How to build the right product validando ideas con datos
   * [Cómo definir tus experimentos](https://vanesatejada.com/2020/07/08/como-definir-tus-experimentos/)
