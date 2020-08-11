@@ -1,5 +1,6 @@
 ## VENTA ONLINE
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
+* [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
 
 ## ESTRATEGIA
 * [Liderazgo, estrategia y cultura](https://samuelgil.substack.com/p/46-liderazgo-estrategia-y-cultura)
@@ -177,6 +178,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+
+[Planview LeanKit](https://www.planview.com/products-solutions/products/leankit/) enables engineering teams across all levels of the organization with a visual work delivery tool to apply Lean management principles to their work, helping them work smarter and deliver faster.
 
 [Miro](https://miro.com) The online whiteboard for collaborative wireframing
 
