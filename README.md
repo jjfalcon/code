@@ -242,6 +242,10 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
 [Ejemplo practico No Code](https://vas3k.com/blog/nocode/#.Xuf7Wrb6C3Q.twitter) Digitalizacion de gastos
 [No Code y la progresiva automatización de la programación](https://www.enriquedans.com/2020/08/no-code-y-la-progresiva-automatizacion-de-la-programacion.html)
+[The Difference Between Low-Code Development and Traditional Coding](https://simpleprogrammer.com/low-code-development-traditional-coding/)
+[Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
+[Build an Instagram clone in Adalo without code](https://nocodery.com/course/build-an-instagram-clone-in-adalo-without-code)
+[Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
 
 [MULTIPLATAFORMA]
 * electron
@@ -526,6 +530,8 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## TEST
+
+[Test Automation in Agile Environments: How to Get Started](https://dzone.com/articles/test-automation-how-to-get-started)
 
 [11 Ways To Manage Distributed Testing Teams Effectively](https://dzone.com/articles/11-ways-to-manage-distributed-testing-teams-effect)
 
