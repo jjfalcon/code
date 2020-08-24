@@ -26,6 +26,8 @@
 
 ## DESARROLLO PRODUCTO
 
+[¿Cómo creó Steve Jobs el iPhone?](https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/)
+
 [The Kano Model analysis is the solution!](https://medium.com/@filomenamsacardoso/the-kano-model-analysis-is-the-solution-56b50ac7a757) Kano Model analysis enables you and your team to focus on the right priorities. Understanding the users is the first step to a great project. The model was built on three core tenets:
 * Value attracts clients.
 * Quality keeps clients and builds loyalty.
