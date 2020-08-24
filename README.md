@@ -426,6 +426,7 @@ Thinking to move to AI? Learn Python first.
 [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
 
 ## DESIGN
+[Designing Software From the Outside In: Putting Visuals First](https://dzone.com/articles/designing-software-from-the-outside-in-the-importa)
 
 [Estrategia Patient Centric: por qué empezar por el paciente](https://www.runroom.com/realworld/estrategia-patient-centric-por-que-empezar-por-el-paciente) Diseño para paciente, pero valido para cualquier usuario. [Diseño estrategia centrada en personas](https://cdn2.hubspot.net/hubfs/3569290/Runroom-HumanCentricity.pdf)
 
