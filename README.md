@@ -28,6 +28,8 @@
 
 [¿Cómo creó Steve Jobs el iPhone?](https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/)
 
+[8 Essential Steps to Effectively Manage Projects](https://dzone.com/articles/8-essential-steps-to-effectively-managing-project)
+
 [The Kano Model analysis is the solution!](https://medium.com/@filomenamsacardoso/the-kano-model-analysis-is-the-solution-56b50ac7a757) Kano Model analysis enables you and your team to focus on the right priorities. Understanding the users is the first step to a great project. The model was built on three core tenets:
 * Value attracts clients.
 * Quality keeps clients and builds loyalty.
