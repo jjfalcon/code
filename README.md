@@ -3,6 +3,7 @@
 * [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
 
 ## ESTRATEGIA
+* [Herramientas para hacer un estudio de mercado](https://www.infoautonomos.com/blog/herramientas-para-hacer-un-estudio-de-mercado/)
 * [Liderazgo, estrategia y cultura](https://samuelgil.substack.com/p/46-liderazgo-estrategia-y-cultura)
 * [Como implementar OKRs](https://twitter.com/rmedranollamas/status/1289655940053049344)
 * Google - ThinkWithGoogle - Insights, ideas e inspiración
