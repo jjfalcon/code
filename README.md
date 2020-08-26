@@ -27,6 +27,14 @@
 
 ## DESARROLLO PRODUCTO
 
+[Como desarrollar un producto](https://twitter.com/juanmacias/status/1293607798182486016)
+*  Vender el producto, sin producto, por ejemplo llegando hasta carrito e indicar no disponible por falta stock, dejar email para reserva
+* Programarlo
+* Venderselo a mas gente
+* Buscarle un nombre
+* Elegir un logo aleatorio
+* Despues de tres años acabo de registrar el dominio de la empresa y hacer el logo...
+
 [¿Cómo creó Steve Jobs el iPhone?](https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/)
 
 [8 Essential Steps to Effectively Manage Projects](https://dzone.com/articles/8-essential-steps-to-effectively-managing-project)
