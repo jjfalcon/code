@@ -435,9 +435,14 @@ Thinking to move to AI? Learn Python first.
 ## DOC
 
 [Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
+
 [Ejemplos docuemntacion diseño Google[(https://twitter.com/asiermarques/status/1286040586332536833?s=12)
+
 [Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
+
 [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
+
+[Document APIs with open source OpenAPI Comment Parser](https://developer.ibm.com/blogs/document-apis-with-open-source-openapi-comment-parser/)
 
 ## DESIGN
 [Designing Software From the Outside In: Putting Visuals First](https://dzone.com/articles/designing-software-from-the-outside-in-the-importa)
