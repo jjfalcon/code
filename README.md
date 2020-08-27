@@ -1008,6 +1008,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 ## Formacion
 
+[escuelavue.es](https://escuelavue.es/) Cursos de Vue, JavaScript y mucho más. Aprende a desarrollar proyectos Web profesionales con JavaScript, Vue y todo su ecosistema.
+
 [3D buzz abre todos sus cursos gratuitamente](https://www.genbeta.com/actualidad/3d-buzz-cierra-como-regalo-final-nos-dejan-descargar-todos-sus-cursos-tutoriales-diseno-desarrollo-completamente-gratis)
 
 [Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
