@@ -27,6 +27,9 @@
 
 ## DESARROLLO PRODUCTO
 
+[ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
+Conviérte en un todoterreno digital.
+
 [Como desarrollar un producto](https://twitter.com/juanmacias/status/1293607798182486016)
 *  Vender el producto, sin producto, por ejemplo llegando hasta carrito e indicar no disponible por falta stock, dejar email para reserva
 * Programarlo
