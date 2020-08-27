@@ -1,8 +1,14 @@
 ## VENTA ONLINE
+
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
 * [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
+* [Advertising Channels](https://www.thinkwithgoogle.com/advertising-channels/) Discover the advertising resources you need to succeed and determine which advertising channels make sense for your business.
+* [Mobile on Air: Building a Great Experience Across App and Web](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-building-great-experience-across-app-and-web/)
+* [Mobile on Air: The Business Value of an App](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-business-value-app/)
 
 ## ESTRATEGIA
+* [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
+* [7 Tips to Hire the Perfect Mobile App Developer for Your Company](https://dzone.com/articles/7-easy-steps-to-hire-the-perfect-mobile-app-develo)
 * [Como tomar decisiones importantes](https://coda.io/@gokulrajaram/gokuls-spade-toolkit) mediante SPARE, una tecnica para tomar decisiones dificiles y usado en Google, Facebook, Square.
 * [Cómo establecer la misión, visión y valores de la empresa](https://www.infoautonomos.com/blog/como-establecer-la-mision-vision-y-valores-de-la-empresa/) 
 * [Herramientas para hacer un estudio de mercado](https://www.infoautonomos.com/blog/herramientas-para-hacer-un-estudio-de-mercado/)
