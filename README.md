@@ -470,6 +470,13 @@ Thinking to move to AI? Learn Python first.
 
 ## CODE
 
+[Más allá de SOLID, principios básicos](https://franiglesias.github.io/beyond-solid/) Un buen codigo debe ser robusto, reutilizable, testeable, bien organizado, legible, y sostenible para lo cual debemos aplicar los siguientes principios:
+* Separacion de intereses dice que diferentes partes de un programa se ocupan de diferentes intereses. Ayuda a separar partes del código de una manera significativa, yendo juntas aquellas que atienen a los mismos intereses, lo cual es un punto de partida para una buena organización.
+* Abstracción (DRY) dice que cada parte significativa de funcionalidad de un programa debe implementarse en un sólo lugar del código fuente. Ayuda a tener criterios para modularizar código y para favorecer su sostenibilidad y su capacidad de ser reutilizado.
+* Separación comando preguna dice que cada método o función debe ser o bien un comando, que provoca un cambio en el sistema ejecutando una acción, o bien una pregunta (o query) que obtiene una información del sistema sin modificarlo. Ayuda la testeablidad del software y contribuye a su robustez.
+* Minimo conocimiento dice que una unidad de software sólo puede hablar con aquellas otras unidades que conozca, aquellas instanciadas dentro de la propia unidad de software considerada, o aquellas que se pasan como parámetros a la unidad considerada. Ayuda mucho a la testeabilidad, sobre todo cuando en el nivel unitario utilizamos dobles de tests. Además, aligera el acoplamiento eliminando dependencias ocultas o transitivas (cuando desde la unidad A, usamos una unidad B porque contiene una tercera unidad C que es la que realmente queremos usar), y favorece la cohesión.
+* Cohesion vs Acoplamiento. La cohesión se refiere al grado en que los elementos de un módulo van juntos. Nos interesa que la cohesión dentro de un módulo sea alta. El acoplamiento se refiere al grado de interdependencia entre módulos distintos. Nos interesa que el acoplamiento entre módulos sea lo más bajo posible. En conjunto, la relación entre cohesión y acoplamiento son claves y ayudae en la organización del software y la posibilidad de reutilización de los distintos módulos. 
+
 [POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
 Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
