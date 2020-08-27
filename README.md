@@ -24,6 +24,7 @@
   * [El ciclo de vida de los experimentos](https://vanesatejada.com/2020/07/17/el-ciclo-de-vida-de-los-experimentos/) Los equipos de producto tienen que aprender a trabaja en modo dual track gestionando discovery y delivery al mismo tiempo, lo cual es maravilloso para el crecimiento del equipo/producto, pero un reto dificil de gestionar.
   * [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
   * [How to Improve Your Experiment Design (And Build Trust in Your Product Experiments)](https://www.producttalk.org/2017/08/experiment-design/)
+  * [Aprendiendo a aprender con experimentación](https://vanesatejada.com/2020/08/07/aprendiendo-a-aprender-con-experimentacion/) El panel de experimentación es el artefacto donde damos visibilidad de todo lo relacionado con experimentación a la organización en su totalidad. Se compone de diferentes secciones de información, a partir de la cual, vamos a ir tomando decisiones que nos ayuden a mejorar continuamente.
 
 ## DESARROLLO PRODUCTO
 
