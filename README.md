@@ -23,6 +23,18 @@
   * Objetivo. Pequeño y medible para explorar por un equipo de trabajo, y conseguir una parte del reto.
   * Estado Actual, respecto al objetivo definido.
  
+ * [10 pasos para el cambio cultural que requiere la transformación digital](https://humannova.com/pasos-cambio-cultural-transformacion-digital/) En resumen rimero lo humano, y después la tecnología.
+   * Nueva organizacion en red que potencie la cultura innovadora
+   * Nueva gestion del talento colectivo, creando aprendizaje e intelingencia para generar nuevas soluciones y modelos de negocio
+   * Objetivo de acelerar el proceso innovador que supone la transformacion digital,incluyendo creatividad, nuevas ideas, procesos/mejoras implantadas, etc.
+   * Arquitectura de comunidad superpuesta a la organizacion funcional, para generar conversaciones de conocimiento, aprendizaje e innovacion.
+   * Protagonismo de intra-emprendedores, que supone seleccionar el 15% de potenciales que suele tener cada organización, pero también en asegurar que los mejores directivos transformadores impulsan el cambio.
+   * Alinear todos los procesos de personal para asegurar el cambio cultural y el funcionamiento de la nueva organización.
+   * Potenciar un liderazgo redarquico que permita hacer la transición hacia nuevos modelos organizativos, y que requieren nuevos comportamientos. Es clave la ayuda de sus directivos y mandos para hacer esta transición.
+   * La conectividad con redes sociales internas y externas de profesionales digitales, que trabajen de forma colaborativa en red dentro y fuera de la organización.
+   * Dinamización y formación digital que requieren medir y utilizar análisis de redes sociales.
+   * El principal socio del proceso de gestión del cambio y de digitalización debe ser personal. El reto es alinear los nuevos modelos organizativos, las carreras, el desempeño, el potencial, el liderazgo o la experiencia del empleado con la transformación digital.
+ 
  * [una estrategia buena en internet, es controlar la demanda ofreciendo la mejor UX y generando efectos de red](https://twitter.com/samuelgil/status/1262361284579864576)
  * [El viaje de Pre-Seed a Series A](https://twitter.com/samuelgil/status/1261523172496510976) Hacemos el recorrido que realizan las startups desde su creación hasta que levantan una serie A. Bonus: Detallamos nuestra estrategia de inversión.
  * [¿Consumerprise o enterconsumer?](https://twitter.com/samuelgil/status/1266596481911468032?s=12)
