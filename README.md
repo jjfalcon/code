@@ -287,6 +287,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Build an Instagram clone in Adalo without code](https://nocodery.com/course/build-an-instagram-clone-in-adalo-without-code)
 [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
 [Node-red](https://nodered.org/) se ha convertido en el estándar open-source para la gestión y procesado de datos en tiempo real, logrando simplificar los procesos entre productores y consumidores de información.
+[Ejemplo WeRemoto](https://weremoto.com/)
 
 [MULTIPLATAFORMA]
 * electron
