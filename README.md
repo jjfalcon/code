@@ -45,6 +45,8 @@
   * [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
   * [How to Improve Your Experiment Design (And Build Trust in Your Product Experiments)](https://www.producttalk.org/2017/08/experiment-design/)
   * [Aprendiendo a aprender con experimentación](https://vanesatejada.com/2020/08/07/aprendiendo-a-aprender-con-experimentacion/) El panel de experimentación es el artefacto donde damos visibilidad de todo lo relacionado con experimentación a la organización en su totalidad. Se compone de diferentes secciones de información, a partir de la cual, vamos a ir tomando decisiones que nos ayuden a mejorar continuamente.
+  
+* [Bussines Canvas Model - Loogic](https://loogic.com/business-model-canvas-loogic-podcast) Análisis del Business Model Canvas o Lienzo del Modelo de Negocio, aunque todo el mundo habla de él por su nombre en inglés, o simplemente llamándolo «canvas»
 
 ## DESARROLLO PRODUCTO
 
