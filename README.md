@@ -218,6 +218,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## HERRAMIENTAS
 
+[Netlify Drop, cuando publicar gratis un sitio web es sólo arrastrar, soltar y esperar unos segundos](https://www.genbeta.com/herramientas/netlify-drop-cuando-publicar-gratis-sitio-web-solo-arrastrar-soltar-esperar-unos-segundos)
+
 [Planview LeanKit](https://www.planview.com/products-solutions/products/leankit/) enables engineering teams across all levels of the organization with a visual work delivery tool to apply Lean management principles to their work, helping them work smarter and deliver faster.
 
 [Miro](https://miro.com) The online whiteboard for collaborative wireframing
@@ -264,6 +266,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
 [NO CODE]
+* [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
+* [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
+* [externalizar el formulario de contacto](https://twitter.com/jlhortelano/status/1299360673571508224)
 * Coda
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
 * Glide
@@ -470,6 +475,8 @@ Thinking to move to AI? Learn Python first.
 [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
 
 [Document APIs with open source OpenAPI Comment Parser](https://developer.ibm.com/blogs/document-apis-with-open-source-openapi-comment-parser/)
+
+[Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
 [Designing Software From the Outside In: Putting Visuals First](https://dzone.com/articles/designing-software-from-the-outside-in-the-importa)
