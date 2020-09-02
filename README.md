@@ -691,6 +691,11 @@ Always remember the reason that you're testing is about confidence. If something
 
 ## DEVOPPs
 
+[Los principios DevOps: The Three Ways](https://danilat.com/weblog/2020/09/01/los-principios-devops-the-three-ways)
+* The First Way: aumentar el flujo de entrega al cliente previniendo defectos.
+* The Second Way: amplificar los ciclos de feedback para prevenir problemas y mejorar la calidad en origen.
+* The Third Way: crear y fomentar una cultura de experimentación y aprendizaje continuos.
+
 Programming the Cloud: Empowering Developers to Do Infrastructure
 https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
 * Pulumi
