@@ -22,6 +22,13 @@
   * Reto. Primer gran objetivo detectado en camino de la vision anterior. 
   * Objetivo. Pequeño y medible para explorar por un equipo de trabajo, y conseguir una parte del reto.
   * Estado Actual, respecto al objetivo definido.
+* [5 Strategies Dev Team Managers Can Use To Boost Productivity](https://simpleprogrammer.com/team-managers-boost-productivity/)
+  * Planificar y organizar equipo de trabajo, por ejemplo con Trello, etc.
+  * Facilitar comunicacion, por ejemplo con Slack de forma asincronca consultando info de equipo, y videoconferencia para aumentar productividad desbloqueando puntos criticos.
+  * Facilitar info produccion, con un sistema de monitorizacion de todos los servicios, la aceptacion del usuario, y el estado del entorno. Una vez detectado el problema un servicio de log permite analizar que ha ocurrido. Debug remotamente con herramientas como https://www.rookout.com/
+  * Optimizar reuniones. Reducir su numero al mínimo (hay empresas donde hay dias semanales sin reuniones). Preparar la reunión con una agenda de informacion previa a revisar, puntos a tratar, y conclusiones/decisiones/objetivos a alcanzar.
+  * Aprovechar las fortalezas del equipo.
+  
  
  * [10 pasos para el cambio cultural que requiere la transformación digital](https://humannova.com/pasos-cambio-cultural-transformacion-digital/) En resumen rimero lo humano, y después la tecnología.
    * Nueva organizacion en red que potencie la cultura innovadora
@@ -273,6 +280,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * AppSheet
 * [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
 * [AppGyver](https://www.appgyver.com/) Parece que tiene notificaciones y QR Scan
+* [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
