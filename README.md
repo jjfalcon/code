@@ -874,7 +874,7 @@ Todas las secciones incluyen ejercicio práctico
 
 ## Herramientas
 
-[Developper resources](https://zerotomastery.io/resources/) collection of their top free developer resources to help you at any stage of your programming journey.
+[Developper resources](https://zerotomastery.io/resources/) collection of their top free developer resources to help you at any stage of your programming journey. Logo makers, free templates, javascript, css, free developper assets, Must Watch Playlists, Git + Github, Everyday Tools, Free Videos & Images, Top Articles, Handbooks + Guides, Cheat Sheets, Motivational Videos, 
 
 [Code Radio: 24/7 jazzy beats you can listen to while you code](https://www.freecodecamp.org/news/code-radio/)
 
