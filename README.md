@@ -299,6 +299,20 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Node-red](https://nodered.org/) se ha convertido en el estándar open-source para la gestión y procesado de datos en tiempo real, logrando simplificar los procesos entre productores y consumidores de información.
 * [Ejemplo WeRemoto](https://weremoto.com/)
 * [Ejemplo notion repositorio app nocode](https://sincodigo.io/tutorial/directorio-recursos-notion)
+* [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
+  * Webflow, Bubble para montar web
+  * Tribe, Circle para montar landing sencilla
+  * Slack para la comunidad. Una herramienta conocida en el entorno profesional y que funciona genial.
+  * Stripe como pasarela de pago, para gestionar los pagos.
+  * Mailchimp para gestionar la lista de correo y enviar la newsletter semanal (como también hago en SinCodigo)
+  * Crowdcast para los eventos online o webinars. No te “obliga” a descargarte una app como hace Zoom.
+  * Airtable como CRM para gestionar de un vistazo los usuarios y un agregado de toda su información (pagos, membresía, notas...).
+  * Zapier para automatizar tareas de TODO tipo. Mi primer “empleado”. Alimenta el CRM de Airtable, crea las facturas, registra datos...
+  * Notion para organizar el equipo desde el momento en que Bohdan empezó a trabajar en el proyecto.
+  * Google Analytics + Sheets + Data Studio para llevar cierto control de cómo va el proyecto.
+  * Whereby para las reuniones de equipo y de comunidad (afterwork, mesas redondas...).
+  * Siteground para hosting
+  * FacturaDirecta para las facturas
 
 [MULTIPLATAFORMA]
 * electron
@@ -859,6 +873,8 @@ Todas las secciones incluyen ejercicio práctico
 [Gracias a Google Firebase, cientos de padres y madres pasan menos tiempo en el tráfico y más tiempo con sus hijos](https://developers-latam.googleblog.com/2019/02/gracias-google-firebase-cientos-de.html)
 
 ## Herramientas
+
+[Developper resources](https://zerotomastery.io/resources/) collection of their top free developer resources to help you at any stage of your programming journey.
 
 [Code Radio: 24/7 jazzy beats you can listen to while you code](https://www.freecodecamp.org/news/code-radio/)
 
