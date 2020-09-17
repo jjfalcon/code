@@ -842,6 +842,8 @@ Todas las secciones incluyen ejercicio práctico
 
 [Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
 
+[Google y RTVE te enseñan a crear tus propios contenidos audiovisuales](https://elandroidelibre.elespanol.com/2020/09/google-y-rtve-te-ensenan-a-crear-tus-propios-contenidos-audiovisuales.html)
+
 ## Cloud
 
 [Qué es serverless y por qué adoptarlo en el desarrollo de tu próxima aplicación](https://www.genbeta.com/desarrollo/que-serverless-que-adoptarlo-desarrollo-tu-proxima-aplicacion)
