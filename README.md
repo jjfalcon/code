@@ -133,6 +133,8 @@ Una mujer tiene un hijo en 9 meses. 9 mujeres no pueden tener un hijo en 1 mes!
 
 [Growing as a Product Owner: Five Product Owner Maturity-Levels](https://dzone.com/articles/growing-as-a-product-owner-five-product-owner-matu)
 
+[Libro Historias de Usuario](https://scrummanager.net/files/scrum_manager_historias_usuario.pdf)
+
 ### [Como crear una app de éxito](http://richardmorla.com/crear-una-app-exito/)
 Como montar un negocio basado en una aplicación móvil. Pero crear una app de éxito no es solo programarla, hay mucho más detrás.
 
