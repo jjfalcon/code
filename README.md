@@ -280,6 +280,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * AppSheet
 * [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
 * [AppGyver](https://www.appgyver.com/) Parece que tiene notificaciones y QR Scan
+  * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
+  * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)
 * [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
