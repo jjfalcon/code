@@ -535,6 +535,8 @@ Thinking to move to AI? Learn Python first.
 
 ## CODE
 
+[5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
+
 [Más allá de SOLID, principios básicos](https://franiglesias.github.io/beyond-solid/) Un buen codigo debe ser robusto, reutilizable, testeable, bien organizado, legible, y sostenible para lo cual debemos aplicar los siguientes principios:
 * Separacion de intereses dice que diferentes partes de un programa se ocupan de diferentes intereses. Ayuda a separar partes del código de una manera significativa, yendo juntas aquellas que atienen a los mismos intereses, lo cual es un punto de partida para una buena organización.
 * Abstracción (DRY) dice que cada parte significativa de funcionalidad de un programa debe implementarse en un sólo lugar del código fuente. Ayuda a tener criterios para modularizar código y para favorecer su sostenibilidad y su capacidad de ser reutilizado.
