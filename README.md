@@ -1,3 +1,7 @@
+## REMOTE
+
+[11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
+
 ## VENTA ONLINE
 
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
