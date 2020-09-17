@@ -535,6 +535,8 @@ Thinking to move to AI? Learn Python first.
 
 ## CODE
 
+[Benefits of Pair Programming](https://hackernoon.com/benefits-of-pair-programming-s51a3ur8)
+
 [5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
 
 [Más allá de SOLID, principios básicos](https://franiglesias.github.io/beyond-solid/) Un buen codigo debe ser robusto, reutilizable, testeable, bien organizado, legible, y sostenible para lo cual debemos aplicar los siguientes principios:
