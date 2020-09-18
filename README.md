@@ -321,6 +321,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * Whereby para las reuniones de equipo y de comunidad (afterwork, mesas redondas...).
   * Siteground para hosting
   * FacturaDirecta para las facturas
+* [How to Export and Analyze Jira Issues in Google Sheets vs. Coda](https://dzone.com/articles/how-to-export-and-analyze-jira-issues-in-google-sh)
 
 [MULTIPLATAFORMA]
 * electron
@@ -855,6 +856,8 @@ Todas las secciones incluyen ejercicio práctico
 [Las 15 lecciones de nuestro curso de ventas SumaCRM](https://www.sumacrm.com/blog/vas-a-vender-mas?utm_campaign=vuelve-el-blog-con-un-superpoder-este-ano-con-sumacrm-vas-a-vender-mas&utm_medium=email&utm_source=acumbamail)
 
 [Google y RTVE te enseñan a crear tus propios contenidos audiovisuales](https://elandroidelibre.elespanol.com/2020/09/google-y-rtve-te-ensenan-a-crear-tus-propios-contenidos-audiovisuales.html)
+
+[Mejora tu estrategia digital para que incluso los que aún no son tus clientes te encuentren](https://www.spri.eus/euskadinnova/es/enpresa-digitala/mikroenpresa-digitala-formacion/centros-convocatorias/651.aspx)
 
 ## Cloud
 
