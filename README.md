@@ -282,6 +282,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [AirTable](https://airtable.com/)
 * Coda
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
+** [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
 * Glide
 * AppSheet
 * [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
