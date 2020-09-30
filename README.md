@@ -9,6 +9,7 @@
 * [Advertising Channels](https://www.thinkwithgoogle.com/advertising-channels/) Discover the advertising resources you need to succeed and determine which advertising channels make sense for your business.
 * [Mobile on Air: Building a Great Experience Across App and Web](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-building-great-experience-across-app-and-web/)
 * [Mobile on Air: The Business Value of an App](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-business-value-app/)
+* [Las ventajas del mailing corporativo para una empresa](https://loogic.com/las-ventajas-del-mailing-corporativo-para-una-empresa)
 
 ## ESTRATEGIA
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
@@ -32,7 +33,8 @@
   * Facilitar info produccion, con un sistema de monitorizacion de todos los servicios, la aceptacion del usuario, y el estado del entorno. Una vez detectado el problema un servicio de log permite analizar que ha ocurrido. Debug remotamente con herramientas como https://www.rookout.com/
   * Optimizar reuniones. Reducir su numero al mínimo (hay empresas donde hay dias semanales sin reuniones). Preparar la reunión con una agenda de informacion previa a revisar, puntos a tratar, y conclusiones/decisiones/objetivos a alcanzar.
   * Aprovechar las fortalezas del equipo.
-  
+
+* [Como introducir en el mercado un software innovador](https://crearsoftware.com/2020/09/29/como-introducir-en-el-mercado-un-software-innovador/) una referencia del libro Crossing the Chasm, como publicitar y vender productos disruptivos al mercado de masas. [Aquí un buen resumen del libro](https://resumidito.com/resumen/resumen-del-libro-cruzando-el-abismo-crossing-the-chasm-por-geoffrey-a-moore)
  
  * [10 pasos para el cambio cultural que requiere la transformación digital](https://humannova.com/pasos-cambio-cultural-transformacion-digital/) En resumen rimero lo humano, y después la tecnología.
    * Nueva organizacion en red que potencie la cultura innovadora
