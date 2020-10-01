@@ -184,7 +184,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * Wix
 * [Fruition: Free, Open Source Toolkit for Building Websites with Notion](https://fruitionsite.com/)
 * GitPages
-* Nutjx
+* Nuxtjs
+  * [NuxtJS en español](https://es.nuxtjs.org/) y [tutorial instalacion y empezar](https://es.nuxtjs.org/guides/get-started/installation/)
 
 ### Como hacer una web, app con herramientas no code
 * Glide
