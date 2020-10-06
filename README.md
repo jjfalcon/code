@@ -293,7 +293,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)
 * [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
-[TypeForm]
+* [TypeForm]
+* [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
