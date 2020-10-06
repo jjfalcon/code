@@ -298,7 +298,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [SWIFT]
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
-[NO CODE]
+[NOCODE]
 * [AirTable](https://airtable.com/)
 * Coda
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
@@ -312,6 +312,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
 * [TypeForm]
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
+* [DigitalOcean app platform[(https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
