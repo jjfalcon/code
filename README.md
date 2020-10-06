@@ -235,6 +235,22 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## HERRAMIENTAS
 
+[30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
+* canva permite crear infografias e ilustraciones cv, encabezado twitter, etc)
+* datawrapper permite crear graficos, tablas y mapas de color a partir de excel
+* biorender permite crear ilustraciones y figuras cientificas con múltiples iconos
+* mindthegraph.com permite diseñar infogracias, posters, etc con iconos cientificos
+* chemix.org web similar a BioRender y MindTheGraph
+* inkscape.org permite editar graficos vectoriales
+* free-powerpoint-templates-design.com ofrece multitud de plantillas
+* ChemSketch permite dibujar estructuras quimicas
+* smart.servier.com banco de imagenes relacionadas con la medicina
+* pixabay.com/es/ banco de imagenes de libre acceso tanto cientificas como de otros temas
+* flaticon.es ofrece iconos gratuitos de multitud de temas
+* iconfinder.com similar que flaticon
+* ilovepdf.com/es permite realizar conversiones de PDF a Word, Excel, etc.
+* CanScanner permite escanear documentos mediante una foto y compartir en pdf, jpg
+
 [Netlify Drop, cuando publicar gratis un sitio web es sólo arrastrar, soltar y esperar unos segundos](https://www.genbeta.com/herramientas/netlify-drop-cuando-publicar-gratis-sitio-web-solo-arrastrar-soltar-esperar-unos-segundos)
 
 [Planview LeanKit](https://www.planview.com/products-solutions/products/leankit/) enables engineering teams across all levels of the organization with a visual work delivery tool to apply Lean management principles to their work, helping them work smarter and deliver faster.
