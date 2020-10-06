@@ -4,6 +4,7 @@
 
 ## VENTA ONLINE
 
+* [](https://www.lifestylealcuadrado.com/como-crear-una-oferta-irresistible/)
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
 * [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
 * [Advertising Channels](https://www.thinkwithgoogle.com/advertising-channels/) Discover the advertising resources you need to succeed and determine which advertising channels make sense for your business.
@@ -520,6 +521,9 @@ Thinking to move to AI? Learn Python first.
 [Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
+
+[]() The agile lesson is not "don't design." Rather, it's "design enough." When you start, design enough to get started. No more. As you work and learn, incrementally improve the design. A simple design is easier to refactor.
+
 [Designing Software From the Outside In: Putting Visuals First](https://dzone.com/articles/designing-software-from-the-outside-in-the-importa)
 
 [Estrategia Patient Centric: por qué empezar por el paciente](https://www.runroom.com/realworld/estrategia-patient-centric-por-que-empezar-por-el-paciente) Diseño para paciente, pero valido para cualquier usuario. [Diseño estrategia centrada en personas](https://cdn2.hubspot.net/hubfs/3569290/Runroom-HumanCentricity.pdf)
@@ -1048,6 +1052,8 @@ A collections of little tips from @steveschoger to improve your visual design sk
 ## Recursos
 
 [ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
+
+[BBC sound effects](http://bbcsfx.acropolis.org.uk/)
 
 ## Ejemplos/Apps
 
