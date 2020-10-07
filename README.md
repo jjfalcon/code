@@ -305,10 +305,14 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 🧱 Bite sized videos
 🧱 Inspiration for what to build next!
 ** [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
-* [AirTable](https://airtable.com/)
-* Coda
+* [Coda](coda.io)
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
 ** [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
+* [Roam research](https://roamresearch.com/)
+** [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
+
+
+* [AirTable](https://airtable.com/)
 * Glide
 * AppSheet
 * [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
