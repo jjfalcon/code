@@ -299,6 +299,12 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
 [NOCODE]
+* [Notion](notion.so)
+** Go to http://notion.so/guides to find:
+🧱 Tutorials for engineers, designers, PMs & more
+🧱 Bite sized videos
+🧱 Inspiration for what to build next!
+** [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
 * [AirTable](https://airtable.com/)
 * Coda
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
