@@ -358,8 +358,11 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [How to Export and Analyze Jira Issues in Google Sheets vs. Coda](https://dzone.com/articles/how-to-export-and-analyze-jira-issues-in-google-sh)
 
 [MULTIPLATAFORMA]
-* electron
-* flutter
+* [electron](https://www.electronjs.org/)
+* [flutter](https://flutter.dev/)
+** [La herramienta de Google para hacer apps de Android y iPhone ahora también puede hacer apps de Windows y Xbox](https://elandroidelibre.elespanol.com/2020/09/la-herramienta-de-google-para-hacer-apps-de-android-y-iphone-ahora-tambien-puede-hacer-apps-de-windows-y-xbox.html) Flutter para Windows es una realidad, y es que el equipo de Google ha anunciado que su herramienta para crear apps multiplataforma llega al PC
+** [Flokk](https://github.com/gskinnerTeam/flokk? es una aplicación de gestión de contactos hecha en Flutter compatible con Linux, Windows, Mac OS y Web que puedes descargar en GitHub.
+
 * python y kivy
 * delphi
 
