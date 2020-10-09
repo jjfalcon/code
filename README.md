@@ -552,6 +552,8 @@ Thinking to move to AI? Learn Python first.
 
 ## DESIGN
 
+[Microservices Integration Aggregators](https://dzone.com/articles/microservices-integration-aggregators)
+
 []() The agile lesson is not "don't design." Rather, it's "design enough." When you start, design enough to get started. No more. As you work and learn, incrementally improve the design. A simple design is easier to refactor.
 
 [Designing Software From the Outside In: Putting Visuals First](https://dzone.com/articles/designing-software-from-the-outside-in-the-importa)
