@@ -582,6 +582,12 @@ Thinking to move to AI? Learn Python first.
 
 ## CODE
 
+[Feature flags in real life](https://williamdurand.fr/2020/09/22/feature-flags-in-real-life/)
+
+[Principios SOLID aplicados](https://pro.codely.tv/library/principios-solid-aplicados/77070/about/)
+
+[From STUPID to SOLID Code!](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
+
 [Benefits of Pair Programming](https://hackernoon.com/benefits-of-pair-programming-s51a3ur8)
 
 [5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
