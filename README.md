@@ -669,6 +669,16 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 ## TEST
 
+[An Agile Test Automation Manifesto](https://dzone.com/articles/an-agile-test-automation-manifesto)
+* I believe that automation should serve the whole team, and not just QA
+* I am a master of my tools, not a servant of a toolset or vendor
+* I take pride in my automation because it helps my team go faster
+* I don't just report issues, I drive quality from the outset
+* I am a coder, a tester, a coach, a facilitator, a quality evangelist
+* I am an Agile Test Automation Engineer
+
+You can read the full text (and find some cool learning resources) here: [The Agile Test Automation Manifesto](https://agile-test-automation.com/manifesto43424174)
+
 [Test Automation in Agile Environments: How to Get Started](https://dzone.com/articles/test-automation-how-to-get-started)
 
 [11 Ways To Manage Distributed Testing Teams Effectively](https://dzone.com/articles/11-ways-to-manage-distributed-testing-teams-effect)
