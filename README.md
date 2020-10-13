@@ -13,8 +13,9 @@
 * [Las ventajas del mailing corporativo para una empresa](https://loogic.com/las-ventajas-del-mailing-corporativo-para-una-empresa)
 
 ## ESTRATEGIA
+
 * Definicion y Limites de un equipo
-![alt text](https://images.ctfassets.net/vrkkgjbn4fsk/43rSdEJDxHxvVtR8Ed6axO/879352c9e8436f6b9156967e98629f83/key_image.png:small "Responsabilidades Equipos")
+![Definicion y Limites de un equipo]https://images.ctfassets.net/vrkkgjbn4fsk/43rSdEJDxHxvVtR8Ed6axO/879352c9e8436f6b9156967e98629f83/key_image.png)
 
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
 * [7 Tips to Hire the Perfect Mobile App Developer for Your Company](https://dzone.com/articles/7-easy-steps-to-hire-the-perfect-mobile-app-develo)
