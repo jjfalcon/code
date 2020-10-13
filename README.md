@@ -14,7 +14,7 @@
 
 ## ESTRATEGIA
 * Definicion y Limites de un equipo
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.ctfassets.net%2Fvrkkgjbn4fsk%2F43rSdEJDxHxvVtR8Ed6axO%2F879352c9e8436f6b9156967e98629f83%2Fkey_image.png:small "Responsabilidades Equipos")
+![alt text](https%3A%2F%2Fimages.ctfassets.net%2Fvrkkgjbn4fsk%2F43rSdEJDxHxvVtR8Ed6axO%2F879352c9e8436f6b9156967e98629f83%2Fkey_image.png:small "Responsabilidades Equipos")
 
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
 * [7 Tips to Hire the Perfect Mobile App Developer for Your Company](https://dzone.com/articles/7-easy-steps-to-hire-the-perfect-mobile-app-develo)
