@@ -13,6 +13,10 @@
 * [Las ventajas del mailing corporativo para una empresa](https://loogic.com/las-ventajas-del-mailing-corporativo-para-una-empresa)
 
 ## ESTRATEGIA
+* Definicion y Limites de un equipo
+![alt text](https://twitter.com/johncutlefish/status/1315806382348615680/photo/1:small "Responsabilidades Equipos")
+https://twitter.com/johncutlefish/status/1315806382348615680/photo/1
+
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
 * [7 Tips to Hire the Perfect Mobile App Developer for Your Company](https://dzone.com/articles/7-easy-steps-to-hire-the-perfect-mobile-app-develo)
 * [Como tomar decisiones importantes](https://coda.io/@gokulrajaram/gokuls-spade-toolkit) mediante SPARE, una tecnica para tomar decisiones dificiles y usado en Google, Facebook, Square.
