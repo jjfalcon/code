@@ -4,7 +4,7 @@
 
 ## VENTA ONLINE
 
-* [](https://www.lifestylealcuadrado.com/como-crear-una-oferta-irresistible/)
+* [Como crar una oferta irresistible](https://www.lifestylealcuadrado.com/como-crear-una-oferta-irresistible/)
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
 * [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
 * [Advertising Channels](https://www.thinkwithgoogle.com/advertising-channels/) Discover the advertising resources you need to succeed and determine which advertising channels make sense for your business.
@@ -14,10 +14,9 @@
 
 ## ESTRATEGIA
 
+* [How Remote Teams Implement Agile With a Team Management Software](https://dzone.com/articles/what-is-agile-project-management-and-how-remote-te)
 * Definicion y Limites de un equipo
-
 ![Definicion y Limites de un equipo](https://images.ctfassets.net/vrkkgjbn4fsk/43rSdEJDxHxvVtR8Ed6axO/879352c9e8436f6b9156967e98629f83/key_image.png)
-
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
 * [7 Tips to Hire the Perfect Mobile App Developer for Your Company](https://dzone.com/articles/7-easy-steps-to-hire-the-perfect-mobile-app-develo)
 * [Como tomar decisiones importantes](https://coda.io/@gokulrajaram/gokuls-spade-toolkit) mediante SPARE, una tecnica para tomar decisiones dificiles y usado en Google, Facebook, Square.
