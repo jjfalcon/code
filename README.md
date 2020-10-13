@@ -298,7 +298,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [SWIFT]
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
-[NOCODE]
+### NOCODE
 * [Notion](notion.so)
 ** Go to http://notion.so/guides to find:
 🧱 Tutorials for engineers, designers, PMs & more
@@ -310,7 +310,6 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 ** [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
 * [Roam research](https://roamresearch.com/)
 ** [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
-
 
 * [AirTable](https://airtable.com/)
 * Glide
@@ -356,8 +355,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * Siteground para hosting
   * FacturaDirecta para las facturas
 * [How to Export and Analyze Jira Issues in Google Sheets vs. Coda](https://dzone.com/articles/how-to-export-and-analyze-jira-issues-in-google-sh)
+* [Blynk](https://blynk.io/) is a hardware-agnostic IoT platform with white-label mobile apps, private clouds, device management, data analytics, and machine learning.
 
-[MULTIPLATAFORMA]
+### MULTIPLATAFORMA
 * [electron](https://www.electronjs.org/)
 * [flutter](https://flutter.dev/)
 ** [La herramienta de Google para hacer apps de Android y iPhone ahora también puede hacer apps de Windows y Xbox](https://elandroidelibre.elespanol.com/2020/09/la-herramienta-de-google-para-hacer-apps-de-android-y-iphone-ahora-tambien-puede-hacer-apps-de-windows-y-xbox.html) Flutter para Windows es una realidad, y es que el equipo de Google ha anunciado que su herramienta para crear apps multiplataforma llega al PC
