@@ -15,6 +15,7 @@
 ## ESTRATEGIA
 
 * Definicion y Limites de un equipo
+
 ![Definicion y Limites de un equipo]https://images.ctfassets.net/vrkkgjbn4fsk/43rSdEJDxHxvVtR8Ed6axO/879352c9e8436f6b9156967e98629f83/key_image.png)
 
 * [How to Transform Your Board Meeting with Written Narratives](https://tomtunguz.com/written-board-meetings/)
