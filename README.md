@@ -3,7 +3,7 @@
 [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
 
 ## VENTA ONLINE
-
+* [Canales de Venta](https://loogic.com/012-canales-de-venta-en-el-business-model-canvas-7-loogic-podcast/)
 * [Como crar una oferta irresistible](https://www.lifestylealcuadrado.com/como-crear-una-oferta-irresistible/)
 * [Consejos para vender online si eres una pyme nueva en la red](https://www.pymesyautonomos.com/consejos-practicos/consejos-para-vender-online-eres-pyme-nueva-red)
 * [El comercio online antes y despues de la pandemia](https://www.enriquedans.com/2020/06/el-comercio-electronico-antes-y-despues-de-la-pandemia.html)
