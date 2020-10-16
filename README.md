@@ -329,6 +329,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [TypeForm]
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [DigitalOcean app platform[(https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)
+* [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
