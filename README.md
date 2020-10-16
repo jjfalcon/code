@@ -302,6 +302,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [SWIFT]
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
+### IA
+* [fastai](https://www.fast.ai/) is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. 
+
 ### NOCODE
 * [Notion](notion.so)
 ** Go to http://notion.so/guides to find:
