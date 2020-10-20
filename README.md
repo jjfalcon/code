@@ -306,6 +306,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [fastai](https://www.fast.ai/) is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. 
 
 ### NOCODE
+
+* [Ejemplo práctico](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) AltaGuardia. Como crear una start-up de alquiler de alarmas usando tecnologías nocode
+
 * [Notion](notion.so)
 ** Go to http://notion.so/guides to find:
 🧱 Tutorials for engineers, designers, PMs & more
