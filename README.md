@@ -586,7 +586,8 @@ Thinking to move to AI? Learn Python first.
 
 [The Internet of Things: Why Decentralization Must Be the Next Step](https://dzone.com/articles/the-internet-of-things-why-decentralization-must-b)
 
-[Rafael Conde](https://rafa.design/) I design for passion & code for fun. Interesante portfolio de diseños y desarrollos realizados.
+* [Rafael Conde](https://rafa.design/) I design for passion & code for fun. Interesante portfolio de diseños y desarrollos realizados.
+* [Robin Noguier](https://robin-noguier.com/) is a french designer based in France and available for full-time roles & freelance projects.
 
 ### Diseño sostenible
 
@@ -962,6 +963,8 @@ Todas las secciones incluyen ejercicio práctico
 [Gracias a Google Firebase, cientos de padres y madres pasan menos tiempo en el tráfico y más tiempo con sus hijos](https://developers-latam.googleblog.com/2019/02/gracias-google-firebase-cientos-de.html)
 
 ## Herramientas
+
+[16 Free Tools & Services for Developers: Better and Higher Productivity](https://simpleprogrammer.com/16-free-tools-for-developers/)
 
 [Developper resources](https://zerotomastery.io/resources/) collection of their top free developer resources to help you at any stage of your programming journey. Logo makers, free templates, javascript, css, free developper assets, Must Watch Playlists, Git + Github, Everyday Tools, Free Videos & Images, Top Articles, Handbooks + Guides, Cheat Sheets, Motivational Videos, 
 
