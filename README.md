@@ -964,7 +964,23 @@ Todas las secciones incluyen ejercicio práctico
 
 ## Herramientas
 
-[16 Free Tools & Services for Developers: Better and Higher Productivity](https://simpleprogrammer.com/16-free-tools-for-developers/)
+* [16 Free Tools & Services for Developers: Better and Higher Productivity](https://simpleprogrammer.com/16-free-tools-for-developers/)
+** Asana. Task tracker
+** Toggl. Accurate Billable Hours
+** Trello. Project Manager
+** Silver Searcher. To Spot Code Instantly
+** Atom. Hack Code Ethically
+** Brackets. Smart Text Editor
+** Microsoft Teams. Team Communication
+** Redmine. Error Handling
+** Visual Studio Code. A Robust Code Editor
+** Pagespeed Insights. Performance Reports
+** Sublime. To Code and Collaborate Remotely
+** Postman. For API development
+** GitHub. The Open-Source Platform
+** Dropbox. Enormous Storage
+** Codeshare. An Online Editor To Share Code
+** Gravit. Vector Designer
 
 [Developper resources](https://zerotomastery.io/resources/) collection of their top free developer resources to help you at any stage of your programming journey. Logo makers, free templates, javascript, css, free developper assets, Must Watch Playlists, Git + Github, Everyday Tools, Free Videos & Images, Top Articles, Handbooks + Guides, Cheat Sheets, Motivational Videos, 
 
