@@ -314,16 +314,28 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 🧱 Tutorials for engineers, designers, PMs & more
 🧱 Bite sized videos
 🧱 Inspiration for what to build next!
+** [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
 ** [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
 * [Coda](coda.io)
+** [Doc gallery](https://coda.io/gallery)
+** [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
+** [Home IoT](https://coda.io/@matthew-tebbs/home-iot)
 ** [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
 ** [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
+** [Integrate Coda + Slack to unlock new features](https://help.coda.io/en/articles/4467209-adding-coda-bot-to-slack)
+** [Import coda doc from notion](https://coda.io/@ben-parker/the-notion-users-guide-to-coda/using-the-importer-2)
+** [The Sales Team Starter Kit](https://coda.io/@coda/the-sales-team-starter-kit) Our guide to building success-driven docs that scale with your team.
+
 * [Roam research](https://roamresearch.com/)
 ** [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
 
 * [AirTable](https://airtable.com/)
 * Glide
+** [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
 * AppSheet
+** [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
+** [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
+
 * [Adalo](https://www.adalo.com/) A platform for creating apps that's as easy as click...drag...drop 🙌 #nocode needed! [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
 * [AppGyver](https://www.appgyver.com/) Parece que tiene notificaciones y QR Scan
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
