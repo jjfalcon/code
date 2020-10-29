@@ -308,6 +308,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### NOCODE
 
+* [How To Build Task Dependencies With Durations In Different Platforms](https://dzone.com/articles/how-to-build-tasks-dependencies-with-durations-in)
 * [Ejemplo práctico AltaGuardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run). Como crear una start-up de alquiler de alarmas usando tecnologías nocode
 
 * [Notion](notion.so)
@@ -317,6 +318,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 🧱 Inspiration for what to build next!
 ** [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
 ** [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
+
 * [Coda](coda.io)
 ** [Doc gallery](https://coda.io/gallery)
 ** [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
@@ -326,6 +328,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 ** [Integrate Coda + Slack to unlock new features](https://help.coda.io/en/articles/4467209-adding-coda-bot-to-slack)
 ** [Import coda doc from notion](https://coda.io/@ben-parker/the-notion-users-guide-to-coda/using-the-importer-2)
 ** [The Sales Team Starter Kit](https://coda.io/@coda/the-sales-team-starter-kit) Our guide to building success-driven docs that scale with your team.
+** [How Spotify Design increases transparency with a tracking doc](https://coda.io/@kamdyn-moore/spotify-designs-program-tracker)
+** [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
+** [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
 
 * [Roam research](https://roamresearch.com/)
 ** [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
