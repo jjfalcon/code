@@ -195,7 +195,6 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### Como hacer una web, app con herramientas no code
 * Glide
-*
 
 ### Como hacer un desarrollo multiplataforma (web, app, desktop)
 * electron
@@ -309,6 +308,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 ### NOCODE
 
 * [How To Build Task Dependencies With Durations In Different Platforms](https://dzone.com/articles/how-to-build-tasks-dependencies-with-durations-in)
+** [Coda Template](https://coda.io/@atc/task-dependencies-with-durations)
+
 * [Ejemplo práctico AltaGuardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run). Como crear una start-up de alquiler de alarmas usando tecnologías nocode
 
 * [Notion](notion.so)
@@ -354,6 +355,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [DigitalOcean app platform[(https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)
 * [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
+* [Count](https://count.co/) The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your team
 
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
@@ -1155,6 +1157,8 @@ Flutter is Google’s mobile UI framework for crafting high-quality native inter
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
 
 ## Recursos
+
+[gráficos vectoriales gratis para usar en proyectos personales o comerciales](https://www.genbeta.com/imagen-digital/esta-web-puedes-descargar-miles-graficos-vectoriales-gratis-para-usar-proyectos-personales-comerciales)
 
 [ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
 
