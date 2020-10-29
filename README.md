@@ -16,6 +16,7 @@
 
 ## ESTRATEGIA
 
+* [What it means be a good product manager](https://pbs.twimg.com/media/DJiBn9zWsAIjDfy?format=jpg&name=4096x4096)
 * [How Remote Teams Implement Agile With a Team Management Software](https://dzone.com/articles/what-is-agile-project-management-and-how-remote-te)
 * Definicion y Limites de un equipo
 ![Definicion y Limites de un equipo](https://images.ctfassets.net/vrkkgjbn4fsk/43rSdEJDxHxvVtR8Ed6axO/879352c9e8436f6b9156967e98629f83/key_image.png)
