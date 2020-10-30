@@ -309,6 +309,10 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### NOCODE
 
+* [Google apuesta por el movimiento No Code con AppSheet, una plataforma para crear apps sin escribir ni una línea de código](https://www.genbeta.com/desarrollo/google-apuesta-movimiento-no-code-appsheet-plataforma-para-crear-apps-escribir-linea-codigo)
+
+* [Integration Capabilities in top 20 nocode platforms](https://nocodeinfo.com/integration-capabilities-in-top-20-nocode-platforms/) 
+
 * [How To Build Task Dependencies With Durations In Different Platforms](https://dzone.com/articles/how-to-build-tasks-dependencies-with-durations-in)
 ** [Coda Template](https://coda.io/@atc/task-dependencies-with-durations)
 
@@ -396,6 +400,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 * [Nocodehackers](https://www.nocodehackers.es/) es la plataforma en español donde aprender sobre las herramientas sin código. Mediante proyectos reales, aprenderás todo lo que necesitas saber para poder llevar a cabo tus ideas y lanzarlas al mercado, o mejorar tu día a día.
 ** [Como crear una start-up de alquiler de alarmas usando tecnologías nocode](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run)
+
+* [Startupping](https://startuping.unicornplatform.com/) The best way to launch and boost your startup. We provide you with the Network and the +1000 Tools directory for digital projects
 
 ### MULTIPLATAFORMA
 * [electron](https://www.electronjs.org/)
