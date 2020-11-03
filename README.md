@@ -13,6 +13,8 @@
 * [Mobile on Air: Building a Great Experience Across App and Web](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-building-great-experience-across-app-and-web/)
 * [Mobile on Air: The Business Value of an App](https://www.thinkwithgoogle.com/advertising-channels/mobile-marketing/mobile-air-business-value-app/)
 * [Las ventajas del mailing corporativo para una empresa](https://loogic.com/las-ventajas-del-mailing-corporativo-para-una-empresa)
+* [WhatsApp y Bizum, la combinación ganadora para muchos comercios ante el nuevo confinamiento](https://www.pymesyautonomos.com/estrategia/whatsapp-bizum-combinacion-ganadora-para-muchos-comercios-nuevo-confinamiento)
+* [How To Get Customers for Your E-Commerce Business](https://www.integromat.com/en/blog/how-to-get-customers-for-your-e-commerce-business-the-basics/)
 
 ## ESTRATEGIA
 
