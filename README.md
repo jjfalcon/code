@@ -17,7 +17,7 @@
 * [How To Get Customers for Your E-Commerce Business](https://www.integromat.com/en/blog/how-to-get-customers-for-your-e-commerce-business-the-basics/)
 
 ## ESTRATEGIA
-
+* [You Need an Innovation Strategy](
 * [What it means be a good product manager](https://pbs.twimg.com/media/DJiBn9zWsAIjDfy?format=jpg&name=4096x4096)
 * [How Remote Teams Implement Agile With a Team Management Software](https://dzone.com/articles/what-is-agile-project-management-and-how-remote-te)
 * Definicion y Limites de un equipo
