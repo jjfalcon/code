@@ -17,6 +17,7 @@
 * [How To Get Customers for Your E-Commerce Business](https://www.integromat.com/en/blog/how-to-get-customers-for-your-e-commerce-business-the-basics/)
 
 ## ESTRATEGIA
+* [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/) La importancia de lo intangible (todo lo que no es desarrollo) en el desarrollo de software. Tener todo disponible para que los desarrolladores solo se centren en desarrollar.
 * [Bussiness Model Canvas - Loogic](https://loogic.com/tag/bmc/)
 * [You Need an Innovation Strategy](https://hbr.org/2015/06/you-need-an-innovation-strategy)
 * [What it means be a good product manager](https://pbs.twimg.com/media/DJiBn9zWsAIjDfy?format=jpg&name=4096x4096)
