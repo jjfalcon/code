@@ -76,6 +76,8 @@
 
 ## DESARROLLO PRODUCTO
 
+* [De que hablamos, cuando hablamos de plataformas](https://martinfowler.com/articles/talk-about-platforms.html)
+
 [ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
 Conviérte en un todoterreno digital.
 
