@@ -605,6 +605,8 @@ Thinking to move to AI? Learn Python first.
 
 ## DESIGN
 
+[2 conceptos de usabilidad](https://twitter.com/victoruxui/status/1326976649271894032?s=12) Agrupacion y Jerarquía
+
 [Microservices Integration Aggregators](https://dzone.com/articles/microservices-integration-aggregators)
 
 []() The agile lesson is not "don't design." Rather, it's "design enough." When you start, design enough to get started. No more. As you work and learn, incrementally improve the design. A simple design is easier to refactor.
