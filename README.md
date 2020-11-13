@@ -1089,6 +1089,8 @@ A collections of little tips from @steveschoger to improve your visual design sk
 
 ## Ejemplos/Apps
 
+[Ron Jeffries](https://ronjeffries.com/) Blog donde muestra paso a paso desarrollo de juegos aplicando XP
+
 [Here are some app ideas you can build to level up your coding skills](https://medium.freecodecamp.org/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672)
 
 [Cómo descargar vídeos de YouTube, Facebook y otros sitios usando la terminal en Windows, Linux o Mac](https://www.genbeta.com/paso-a-paso/como-descargar-videos-youtube-facebook-otros-sitios-usando-terminal-windows-linux-mac)
