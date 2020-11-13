@@ -15,6 +15,7 @@
 * [Las ventajas del mailing corporativo para una empresa](https://loogic.com/las-ventajas-del-mailing-corporativo-para-una-empresa)
 * [WhatsApp y Bizum, la combinación ganadora para muchos comercios ante el nuevo confinamiento](https://www.pymesyautonomos.com/estrategia/whatsapp-bizum-combinacion-ganadora-para-muchos-comercios-nuevo-confinamiento)
 * [How To Get Customers for Your E-Commerce Business](https://www.integromat.com/en/blog/how-to-get-customers-for-your-e-commerce-business-the-basics/)
+* [Ejemplos onboarding de cliente](https://twitter.com/carlosthesailor/status/1326182649975730178?s=12)
 
 ## ESTRATEGIA
 * [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/) La importancia de lo intangible (todo lo que no es desarrollo) en el desarrollo de software. Tener todo disponible para que los desarrolladores solo se centren en desarrollar.
