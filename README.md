@@ -18,6 +18,7 @@
 * [Ejemplos onboarding de cliente](https://twitter.com/carlosthesailor/status/1326182649975730178?s=12)
 
 ## ESTRATEGIA
+* [Necesitamos una estrategia de Innovacion](https://hbr.org/2015/06/you-need-an-innovation-strategy) Sin una estrategia de innovación, diferentes partes de una organización pueden fácilmente terminar persiguiendo prioridades conflictivas, incluso si hay una estrategia comercial clara. Los representantes de ventas escuchan a diario las necesidades apremiantes de los clientes más importantes. Una estrategia de innovación explícita nos ayuda a diseñar un sistema que se ajuste a tus necesidades competitivas específicas.  Una estrategia no es más que un compromiso con un conjunto de políticas o comportamientos coherentes y que se refuerzan mutuamente para lograr un objetivo competitivo específico.
 * [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/) La importancia de lo intangible (todo lo que no es desarrollo) en el desarrollo de software. Tener todo disponible para que los desarrolladores solo se centren en desarrollar.
 * [Bussiness Model Canvas - Loogic](https://loogic.com/tag/bmc/)
 * [You Need an Innovation Strategy](https://hbr.org/2015/06/you-need-an-innovation-strategy)
