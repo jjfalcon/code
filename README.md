@@ -3,6 +3,10 @@
 [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
 [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 
+## INNOVACION
+* [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
+* []()
+
 ## VENTA ONLINE
 * [Kolau](https://www.kolau.es/) permite crear en 15 minutos y de forma gratuita una página web con opción a pasarla de pago
 * [Canales de Venta](https://loogic.com/012-canales-de-venta-en-el-business-model-canvas-7-loogic-podcast/)
