@@ -5,7 +5,7 @@
 
 ## INNOVACION
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
-* []()
+* [CB Insights](https://www.cbinsights.com/) Without data, you're just another person with an opinion. PREDICT YOUR NEXT CUSTOMER. The CB Insights tech market intelligence platform analyzes millions of data points on venture capital, startups, patents, partnerships and news mentions to help you see tomorrow's opportunities, today.
 
 ## VENTA ONLINE
 * [Kolau](https://www.kolau.es/) permite crear en 15 minutos y de forma gratuita una página web con opción a pasarla de pago
