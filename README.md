@@ -4,6 +4,7 @@
 [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 
 ## INNOVACION
+* [5 hitos para medir el avance un proyecto de innovación](https://innolandia.es/5-hitos-para-medir-el-avance-un-proyecto-de-innovacion/)
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
 * [CB Insights](https://www.cbinsights.com/) Without data, you're just another person with an opinion. PREDICT YOUR NEXT CUSTOMER. The CB Insights tech market intelligence platform analyzes millions of data points on venture capital, startups, patents, partnerships and news mentions to help you see tomorrow's opportunities, today.
 
