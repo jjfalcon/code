@@ -319,6 +319,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### IA
 * [fastai](https://www.fast.ai/) is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. 
+* [Challenge image recognition in iphone without code](https://twitter.com/braddwyer/status/1330654868839784451) The challenge: teach my iPhone to recognize sharks and fish in images without writing a single line of code.
 
 ### MULTIPLATAFORMA
 * [electron](https://www.electronjs.org/)
