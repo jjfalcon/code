@@ -1093,6 +1093,8 @@ A collections of little tips from @steveschoger to improve your visual design sk
 
 [Search](https://search.creativecommons.org/) Browse over 500 million images, available for reuse
 
+[Descarga más de 100 ilustraciones de alta calidad gratis, personalizables y sin necesidad de atribución para usar en tus proyectos](https://www.genbeta.com/web/descarga-100-ilustraciones-alta-calidad-gratis-personalizables-necesidad-atribucion-para-usar-tus-proyectos)
+
 ## Ejemplos/Apps
 
 [Ron Jeffries](https://ronjeffries.com/) Blog donde muestra paso a paso desarrollo de juegos aplicando XP
