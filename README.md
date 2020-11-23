@@ -254,6 +254,8 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## HERRAMIENTAS
 
+[POEditor](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
+
 [30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
 * canva permite crear infografias e ilustraciones cv, encabezado twitter, etc)
 * datawrapper permite crear graficos, tablas y mapas de color a partir de excel
