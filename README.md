@@ -1163,6 +1163,8 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
 
 ## Formacion
+
+* [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
 * [30 cursos gratuitos para comenzar en noviembre 2020](https://www.genbeta.com/desarrollo/30-cursos-gratis-que-puedes-comenzar-noviembre-para-aprender-nueva-habilidad-este-otono)
 
 [escuelavue.es](https://escuelavue.es/) Cursos de Vue, JavaScript y mucho más. Aprende a desarrollar proyectos Web profesionales con JavaScript, Vue y todo su ecosistema.
