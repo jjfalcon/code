@@ -1,3 +1,23 @@
+## FORMACION
+* [Introduccion al aprendizaje automatico](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es)
+* [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
+* [30 cursos gratuitos para comenzar en noviembre 2020](https://www.genbeta.com/desarrollo/30-cursos-gratis-que-puedes-comenzar-noviembre-para-aprender-nueva-habilidad-este-otono)
+* [Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
+* [Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
+* [3D buzz abre todos sus cursos gratuitamente](https://www.genbeta.com/actualidad/3d-buzz-cierra-como-regalo-final-nos-dejan-descargar-todos-sus-cursos-tutoriales-diseno-desarrollo-completamente-gratis)
+
+* [escuelavue.es](https://escuelavue.es/) Cursos de Vue, JavaScript y mucho más. Aprende a desarrollar proyectos Web profesionales con JavaScript, Vue y todo su ecosistema.
+* [Deep Dive Into Modern Web Development - Full Stack Open 2019](https://fullstackopen.com/en/) La universidad de Helsinki ha publicado un MOOC gratuito sobre desarrollo web fullstack. Explican cómo crear aplicaciones web con #expressjs y #reactjs. Además te enseñan a utilizar GraphQL
+* [a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
+* [My Favorite Free Resources for New Programmers](https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia)
+* [Más de 500 cursos de programación gratis para empezar en febrero](https://www.genbeta.com/actualidad/aqui-tienes-500-cursos-programacion-gratis-que-puedes-empezar-febrero)
+* [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
+* [#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
+* [ajlopez GitHub](https://github.com/ajlopez)
+
+[Libros Autentia](https://www.autentia.com/libros/)
+* [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
+
 ## REMOTE
 
 [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
@@ -1161,36 +1181,6 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 [Aprende a crear tu propio videojuego estilo Tetris en dos horas y usando Python](https://www.genbeta.com/web/aprende-a-crear-tu-propio-videojuego-estilo-tetris-dos-horas-usando-python)
 
 [Aprende a crear tu propio juego de plataformas estilo Super Mario usando JavaScript con este tutorial](https://www.genbeta.com/web/aprende-a-crear-tu-propio-juego-plataformas-estilo-super-mario-usando-javascript-este-tutorial)
-
-## Formacion
-
-* [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
-* [30 cursos gratuitos para comenzar en noviembre 2020](https://www.genbeta.com/desarrollo/30-cursos-gratis-que-puedes-comenzar-noviembre-para-aprender-nueva-habilidad-este-otono)
-
-[escuelavue.es](https://escuelavue.es/) Cursos de Vue, JavaScript y mucho más. Aprende a desarrollar proyectos Web profesionales con JavaScript, Vue y todo su ecosistema.
-
-[3D buzz abre todos sus cursos gratuitamente](https://www.genbeta.com/actualidad/3d-buzz-cierra-como-regalo-final-nos-dejan-descargar-todos-sus-cursos-tutoriales-diseno-desarrollo-completamente-gratis)
-
-[Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
-
-[Deep Dive Into Modern Web Development - Full Stack Open 2019](https://fullstackopen.com/en/) La universidad de Helsinki ha publicado un MOOC gratuito sobre desarrollo web fullstack. Explican cómo crear aplicaciones web con #expressjs y #reactjs. Además te enseñan a utilizar GraphQL
-
-[a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
-
-[My Favorite Free Resources for New Programmers](https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia)
-
-[Más de 500 cursos de programación gratis para empezar en febrero](https://www.genbeta.com/actualidad/aqui-tienes-500-cursos-programacion-gratis-que-puedes-empezar-febrero)
-
-[freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
-
-[#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
-
-[Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
-
-[ajlopez GitHub](https://github.com/ajlopez)
-
-[Libros Autentia](https://www.autentia.com/libros/)
-* [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
 ## Data Structures and Algorithms
 
