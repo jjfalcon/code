@@ -1120,18 +1120,13 @@ Flutter is Google’s mobile UI framework for crafting high-quality native inter
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
 
 ## Recursos
-
-[gráficos vectoriales gratis para usar en proyectos personales o comerciales](https://www.genbeta.com/imagen-digital/esta-web-puedes-descargar-miles-graficos-vectoriales-gratis-para-usar-proyectos-personales-comerciales)
-
-[ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
-
-[BBC sound effects](http://bbcsfx.acropolis.org.uk/)
-
-[Search](https://search.creativecommons.org/) Browse over 500 million images, available for reuse
-
-[Descarga más de 100 ilustraciones de alta calidad gratis, personalizables y sin necesidad de atribución para usar en tus proyectos](https://www.genbeta.com/web/descarga-100-ilustraciones-alta-calidad-gratis-personalizables-necesidad-atribucion-para-usar-tus-proyectos)
-
-[2000 iconos para mac](https://www.genbeta.com/mac/esa-web-puedes-descargar-2000-iconos-para-macos-big-sur-que-lucen-consistentes-diseno)
+* [Flexiple](https://wwwhatsnew.com/2020/11/26/una-coleccion-gratuita-y-de-uso-libre-de-graficos-svg-y-png-actualizada-diariamente/) es una colección gratuita de libre uso de gráficos SVG Y PNG, que se actualiza diariamente.
+* [gráficos vectoriales gratis para usar en proyectos personales o comerciales](https://www.genbeta.com/imagen-digital/esta-web-puedes-descargar-miles-graficos-vectoriales-gratis-para-usar-proyectos-personales-comerciales)
+* [ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
+* [BBC sound effects](http://bbcsfx.acropolis.org.uk/)
+* [Search](https://search.creativecommons.org/) Browse over 500 million images, available for reuse
+* [Descarga más de 100 ilustraciones de alta calidad gratis, personalizables y sin necesidad de atribución para usar en tus proyectos](https://www.genbeta.com/web/descarga-100-ilustraciones-alta-calidad-gratis-personalizables-necesidad-atribucion-para-usar-tus-proyectos)
+* [2000 iconos para mac](https://www.genbeta.com/mac/esa-web-puedes-descargar-2000-iconos-para-macos-big-sur-que-lucen-consistentes-diseno)
 
 ## Ejemplos/Apps
 
