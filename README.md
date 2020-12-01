@@ -1102,6 +1102,21 @@ Extensiones recomendadas:
 
 [Visual Studio Code: HTML, CSS & JS Tips](https://youtu.be/bJiIzz8mFMs)
 
+[Visual Studio Code Extensions](https://simpleprogrammer.com/visual-studio-code-extensions/)
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) helps developers understand their code better in Git
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) enforces a consistent coding style by creating an abstract syntax tree from your code and re-prints it with its own rules.
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) reduce the need to type repetitive code, having more time to focus on the real code.
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) run an analysis incode to see if some patterns or code don’t adhere to specific rule guidelines. 
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) can define which token to match with what color. This way, brackets are easily identified with colors, making developers have a more readable and consistent code.
+* [Peacock](https://marketplace.visualstudio.com/itemdetails?itemName=johnpapa.vscode-peacock) allows developers to change their color settings on multiple VS Code instances. This helps developers identify their workspace and organize it in a better way, maximizing their workflow.
+* [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)  is the perfect tool for programmers to track how much time they spend programming, helping them measure their performance, or making them aware if they are spending too much time on unnecessary tasks.
+* [Carbon](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) create screenshots of your code.
+* [Base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64) is an encoding algorithm that allows developers to transform any characters into an alphabet which consists of Latin letters, digits, plus, and slash. 
+* [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) able to use both text editors, using the best features of each of them.
+* [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) will be able to listen to your favorite songs, controlling which songs appear, pausing, or skipping them, while you are coding.
+* [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) has the objective of making coding more productive by distinguishing indents with different colors.
+* [Visual Snake Code](https://marketplace.visualstudio.com/items?itemName=ZhouSir.visual-snake-code) helps programmers become distracted for a couple minutes with the classic Snake game.  
+
 ### Firebase
 [CRUD en Firebase](https://youtu.be/W-NS2RZm7QM) conectando nuestra app web con firebase
 
