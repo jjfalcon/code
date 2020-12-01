@@ -18,6 +18,7 @@
   * Clean Code
   * The Pragmatic Programmer
   * Code Complete
+  * Extreme Programming Explained. Embrace the change.
   * Design Patterns: Elements of Reusable Object-Oriented Software
   * Refactoring: Improving the Design of Existing Code
   * Introduction to Algorithms
