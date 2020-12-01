@@ -14,6 +14,28 @@
 * [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
 * [#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
 * [ajlopez GitHub](https://github.com/ajlopez)
+* [The Greatest Software Development Books of All Time](https://dzone.com/articles/the-greatest-software-development-books-of-all-tim)
+  * Clean Code
+  * The Pragmatic Programmer
+  * Code Complete
+  * Design Patterns: Elements of Reusable Object-Oriented Software
+  * Refactoring: Improving the Design of Existing Code
+  * Introduction to Algorithms
+  * Structure and Interpretation of Computer Programs
+  * Working Effectively with Legacy Code
+  * Programming Pearls
+  * Patterns of Enterprise Application Architecture
+  * The Art of Computer Programming
+  * Head First Design Patterns
+  * Cracking the Coding Interview
+  * Enterprise Integration Patterns
+  * Object-Oriented Analysis and Design
+  * The Art of Unit Testing
+  * Peopleware: Productive Projects and Teams
+  * The Mythical Man-Month
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software
+  * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+  * Soft Skills: The Software Developer’s Life Manual
 
 [Libros Autentia](https://www.autentia.com/libros/)
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
@@ -24,6 +46,7 @@
 [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 
 ## INNOVACION
+* [Lessons Learned in 80 Years](https://www.blackstone.com/press-releases/article/blackstones-byron-wien-discusses-lessons-learned-in-his-first-80-years/)
 * [Tendencias y oportunidades de negocio post pandemia](https://www.observatorio-empresas.vodafone.es/articulos/pymes/tendencias-oportunidades-de-negocio-pandemia-josu-ugarte/) Vivimos un momento de cambio, y el binomio riesgo-oportunidad obliga a las empresas a estar muy alerta incluso en los países más afectados por la crisis, como es el caso de España, e incluso en los sectores más afectados, hay empresas que van a tener el talento de salir ganando. En este momento, en que la velocidad es mucho más importante que la perfección, algo que deben tener en cuenta las Pymes tienen que moverse como pez en el agua en el ecosistema del talento. Con todo, ¿qué sectores pueden salir reforzados en esta época de rápidas transformaciones? Los referidos a la informática y el mundo digital, los vinculados a la salud, la sostenibilidad y las infraestructuras.
 * [5 hitos para medir el avance un proyecto de innovación](https://innolandia.es/5-hitos-para-medir-el-avance-un-proyecto-de-innovacion/)
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
