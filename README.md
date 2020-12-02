@@ -1,6 +1,3 @@
-## IDEAS DESARROLLO
-* [Digital Tools I Wish Existed](https://jon.bo/posts/digital-tools/)
-
 ## FORMACION
 * [Introduccion al aprendizaje automatico](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es)
 * [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
@@ -260,6 +257,9 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
 
 ## PET PROJECTS
+
+### Ideas desarrollo
+* [Digital Tools I Wish Existed](https://jon.bo/posts/digital-tools/)
 
 ### Como hacer una web personal gratis
 * WebFlow
@@ -613,6 +613,8 @@ Thinking to move to AI? Learn Python first.
 [Charla inspiradora de desarrollo sostenible](https://wordpress.tv/2019/09/22/roberto-vazquez-desarrollo-sostenible/) Recomendada para todos los diseñadores y desarrolladores y luego [Charla de consejos para hacer tu web más sostenible](https://wordpress.tv/2020/05/09/nahuai-badiola-consejos-para-hacer-tus-webs-mas-sostenibles/) con [presentacion](https://2020.spain.wordcamp.org/files/2020/05/08A03_03_WordCamp-Espan%CC%83a-2020-Nahuai-Badiola.pdf) Lo sostenible va de la mano con lean, rapido, conexiones lentas, usable y accesible.
 
 ## CODE
+
+* [Clean Code JS](https://github.com/andersontr15/clean-code-javascript-es)
 
 [Feature flags in real life](https://williamdurand.fr/2020/09/22/feature-flags-in-real-life/)
 
