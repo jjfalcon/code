@@ -1,3 +1,6 @@
+## IDEAS DESARROLLO
+* [Digital Tools I Wish Existed](https://jon.bo/posts/digital-tools/)
+
 ## FORMACION
 * [Introduccion al aprendizaje automatico](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es)
 * [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
