@@ -42,9 +42,8 @@
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
 ## REMOTE
-
-[11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
-[Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
+* [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
+* [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 
 ## INNOVACION
 * [Lessons Learned in 80 Years](https://www.blackstone.com/press-releases/article/blackstones-byron-wien-discusses-lessons-learned-in-his-first-80-years/)
@@ -52,6 +51,7 @@
 * [5 hitos para medir el avance un proyecto de innovación](https://innolandia.es/5-hitos-para-medir-el-avance-un-proyecto-de-innovacion/)
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
 * [CB Insights](https://www.cbinsights.com/) Without data, you're just another person with an opinion. PREDICT YOUR NEXT CUSTOMER. The CB Insights tech market intelligence platform analyzes millions of data points on venture capital, startups, patents, partnerships and news mentions to help you see tomorrow's opportunities, today.
+* Las métricas dice lo que la gente hace, en las entrevistas podrás indagar porque lo hacen.
 
 ## VENTA ONLINE
 * [Pagina de Ventas](https://www.lifestylealcuadrado.com/pagina-de-ventas/)
@@ -140,7 +140,7 @@
 * [Bussines Canvas Model - Loogic](https://loogic.com/business-model-canvas-loogic-podcast) Análisis del Business Model Canvas o Lienzo del Modelo de Negocio, aunque todo el mundo habla de él por su nombre en inglés, o simplemente llamándolo «canvas»
 
 ## DESARROLLO PRODUCTO
-
+* [Plantillas para desarrollo software](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/)
 * [De que hablamos, cuando hablamos de plataformas](https://martinfowler.com/articles/talk-about-platforms.html)
 
 [ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
