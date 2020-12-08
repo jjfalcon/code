@@ -54,6 +54,7 @@
 * [CB Insights](https://www.cbinsights.com/) Without data, you're just another person with an opinion. PREDICT YOUR NEXT CUSTOMER. The CB Insights tech market intelligence platform analyzes millions of data points on venture capital, startups, patents, partnerships and news mentions to help you see tomorrow's opportunities, today.
 
 ## VENTA ONLINE
+* [Pagina de Ventas](https://www.lifestylealcuadrado.com/pagina-de-ventas/)
 * [Kolau](https://www.kolau.es/) permite crear en 15 minutos y de forma gratuita una página web con opción a pasarla de pago
 * [Canales de Venta](https://loogic.com/012-canales-de-venta-en-el-business-model-canvas-7-loogic-podcast/)
 * [Como crar una oferta irresistible](https://www.lifestylealcuadrado.com/como-crear-una-oferta-irresistible/)
