@@ -654,6 +654,8 @@ Thinking to move to AI? Learn Python first.
 [POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
 Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
+[Weblate](https://weblate.org/es/) es una herramienta para traducir una aplicación a múltiples idiomas. Como se explica en [artículo](https://picodotdev.github.io/blog-bitix/2020/12/la-herramienta-weblate-para-traducir-una-aplicacion-a-multiples-idiomas/) es codigo libre y puede ser gratuita si lo instalamos en nuestros equipos.
+
 [How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
 
 [Today I Learned](https://til.hashrocket.com/)
