@@ -70,6 +70,15 @@
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
 * [CB Insights](https://www.cbinsights.com/) Without data, you're just another person with an opinion. PREDICT YOUR NEXT CUSTOMER. The CB Insights tech market intelligence platform analyzes millions of data points on venture capital, startups, patents, partnerships and news mentions to help you see tomorrow's opportunities, today.
 * Las métricas dice lo que la gente hace, en las entrevistas podrás indagar porque lo hacen.
+* [Consejos para desarrollar un nuevo producto por Diego Mariño](https://us2.campaign-archive.com/?u=374c664073e1a1fa3deca53b4&id=84bddac19d)
+  * Pon la máxima información posible en tu web
+  * Elimina toda fricción para poner el producto en manos del cliente
+  * Marca un precio relacionado con el problema que solucionas
+  * Desarrolla una API como principal interfaz en la que tú seas el principal cliente
+  * Intégrate en los servicios y procesos existentes del cliente, en vez de confiar en que los adapten a tu incapacidad
+  * Elimina toda ambigüedad en tus contratos
+  * Muestra que eres confiable tanto a nivel técnico como de seguridad
+  * en definitiva, trabaja para que salga por la puerta sólo aquello que satisfaría al cliente más exigente del mundo!
 
 ## VENTA ONLINE
 * [Pagina de Ventas](https://www.lifestylealcuadrado.com/pagina-de-ventas/)
