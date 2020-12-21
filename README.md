@@ -13,6 +13,7 @@
 * [Más de 500 cursos de programación gratis para empezar en febrero](https://www.genbeta.com/actualidad/aqui-tienes-500-cursos-programacion-gratis-que-puedes-empezar-febrero)
 * [freeCodeCamp](https://www.genbeta.com/web/nuevo-curriculo-para-desarrolladores-freecodecamp-incluye-1400-lecciones-6-certificaciones-completamente-gratuitas) es una plataforma en la que puedes aprender a programar gratis y además ganar experiencia escribiendo código para organizaciones sin fines de lucro. Incluye 1400 lecciones y 6 certificaciones completamente gratuitas.
 * [#100DaysOfCode Haz de la programación un hábito y únete a la comunidad](https://www.genbeta.com/web/reto-que-vale-pena-haz-programacion-habito-unete-comunidad-100daysofcode)
+* [Fabrice Bellard](https://bellard.org/) It is really amazing what #fabricebellard is contributing to the software engineering https://bellard.org
 * [ajlopez GitHub](https://github.com/ajlopez)
 * [The Greatest Software Development Books of All Time](https://dzone.com/articles/the-greatest-software-development-books-of-all-tim)
   * Clean Code
@@ -317,6 +318,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 ## LIBROS
 
 * [Recopilacion de Resumen de libros](https://twitter.com/victorianoi/status/1213393653718306816?s=11)
+* [Resumen Refactoring](https://franiglesias.github.io/books-refactoring-second-edition/)
 * Extreme Programming Explained. Debería ser el primer libro de como programar
 * The Pragmatic Programmer. Un libro de programación en general de obligada lectura
 * Clean Code. Un libro indispensable para escribir codigo limpio
