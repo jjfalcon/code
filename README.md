@@ -608,7 +608,12 @@ Thinking to move to AI? Learn Python first.
 
 ## DESIGN
 
-[Microservices Powered By Domain-Driven Design]()
+* [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
+  * [Bubble Database Design 101 and 2 Quick Tips](https://share.vidyard.com/watch/SAdnMnJnBC9sAs5bRxGeKR) Time spent structuring your database will save you (a lot more) time later on, when building the app. My advice for beginners is to open a Google Sheets and design your database there before actually creating it in Bubble.
+Here is a short video I recorded explaining how I like to approach this. Jump to minute 3:40 for the two quick tips.
+  * [Vertabelo](https://www.vertabelo.com/blog/example_er_diagrams/) has a ton of database examples for all kind of apps: SaaS, marketplaces, fitness apps, delivery apps, board games… Even though their articles are not oriented towards Bubble users, I find them quite useful. I haven’t used their tool because I don’t really need to but I still get a lot of value from their explanations.
+
+* [Microservices Powered By Domain-Driven Design]()
 
 [2 conceptos de usabilidad](https://twitter.com/victoruxui/status/1326976649271894032?s=12) Agrupacion y Jerarquía
 
