@@ -415,7 +415,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### MULTIPLATAFORMA
 * [electron](https://www.electronjs.org/)
-  * [Pomotroid](https://splode.github.io/pomotroid/) A simple, configurable and visually pleasing Pomodoro timer.
+  * [Pomotroid](https://splode.github.io/pomotroid/) A simple, configurable and visually pleasing Pomodoro timer. It's built with Electron & Vue, and is available for Windows, MacOS and Linux.
   
 * [flutter](https://flutter.dev/)
 ** [La herramienta de Google para hacer apps de Android y iPhone ahora también puede hacer apps de Windows y Xbox](https://elandroidelibre.elespanol.com/2020/09/la-herramienta-de-google-para-hacer-apps-de-android-y-iphone-ahora-tambien-puede-hacer-apps-de-windows-y-xbox.html) Flutter para Windows es una realidad, y es que el equipo de Google ha anunciado que su herramienta para crear apps multiplataforma llega al PC
