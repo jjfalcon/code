@@ -415,9 +415,11 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ### MULTIPLATAFORMA
 * [electron](https://www.electronjs.org/)
+  * [Pomotroid](https://splode.github.io/pomotroid/) A simple, configurable and visually pleasing Pomodoro timer.
+  
 * [flutter](https://flutter.dev/)
 ** [La herramienta de Google para hacer apps de Android y iPhone ahora también puede hacer apps de Windows y Xbox](https://elandroidelibre.elespanol.com/2020/09/la-herramienta-de-google-para-hacer-apps-de-android-y-iphone-ahora-tambien-puede-hacer-apps-de-windows-y-xbox.html) Flutter para Windows es una realidad, y es que el equipo de Google ha anunciado que su herramienta para crear apps multiplataforma llega al PC
-** [Flokk](https://github.com/gskinnerTeam/flokk? es una aplicación de gestión de contactos hecha en Flutter compatible con Linux, Windows, Mac OS y Web que puedes descargar en GitHub.
+** [Flokk](https://github.com/gskinnerTeam/flokk) es una aplicación de gestión de contactos hecha en Flutter compatible con Linux, Windows, Mac OS y Web que puedes descargar en GitHub.
 
 * python y kivy
 * delphi
@@ -1211,6 +1213,7 @@ A collections of little tips from @steveschoger to improve your visual design sk
 * [Search](https://search.creativecommons.org/) Browse over 500 million images, available for reuse
 * [Descarga más de 100 ilustraciones de alta calidad gratis, personalizables y sin necesidad de atribución para usar en tus proyectos](https://www.genbeta.com/web/descarga-100-ilustraciones-alta-calidad-gratis-personalizables-necesidad-atribucion-para-usar-tus-proyectos)
 * [2000 iconos para mac](https://www.genbeta.com/mac/esa-web-puedes-descargar-2000-iconos-para-macos-big-sur-que-lucen-consistentes-diseno)
+* [Sonidos y efectos gratuitos](https://wwwhatsnew.com/2020/12/26/como-descargar-sonidos-y-efectos-para-utilizar-de-forma-gratuita/)
 
 ## Ejemplos/Apps
 
