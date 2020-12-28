@@ -1,4 +1,7 @@
 ## FORMACION
+* [Que aprendería en 2021 si tuviera que empezar de cero(https://www.youtube.com/watch?v=zlOaObf5yR0&feature=emb_logo&ab_channel=HolaMundo)
+  * [blog](www.nicolas-schurmann.com)
+  * [Kit desarrollado, video, libros](https://kit.co/nschurmann)
 * [Introduccion al aprendizaje automatico](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es)
 * [Sabadell - Formacion empresa](https://www.bancsabadell.tv/empresas/hub-empresa/)
 * [30 cursos gratuitos para comenzar en noviembre 2020](https://www.genbeta.com/desarrollo/30-cursos-gratis-que-puedes-comenzar-noviembre-para-aprender-nueva-habilidad-este-otono)
@@ -616,6 +619,8 @@ Here is a short video I recorded explaining how I like to approach this. Jump to
   * [Vertabelo](https://www.vertabelo.com/blog/example_er_diagrams/) has a ton of database examples for all kind of apps: SaaS, marketplaces, fitness apps, delivery apps, board games… Even though their articles are not oriented towards Bubble users, I find them quite useful. I haven’t used their tool because I don’t really need to but I still get a lot of value from their explanations.
 
 * [Microservices Powered By Domain-Driven Design]()
+* [Reflexiones de experiencia de usuario](http://itakora.es/wp-content/uploads/2019/12/Libro-Reflexiones-de-Experiencia-de-Usuario-Olga-Revilla-Mu%C3%B1oz-It%C3%A1kora.pdf) es un libro que recopila 20 años de diseño y desarrollo de producto digital en [blog Itakora de Olga Revilla](http://itakora.es/)
+* [Accesibilidad Web. WCAG 2.1 de forma sencilla](http://itakora.com/accesibilidad-web/)
 
 [2 conceptos de usabilidad](https://twitter.com/victoruxui/status/1326976649271894032?s=12) Agrupacion y Jerarquía
 
