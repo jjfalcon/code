@@ -3,6 +3,8 @@
   * [Aprendizaje Automatico](https://www.adictosaltrabajo.com/2020/11/26/instalacion-de-tensorflow-y-entorno-de-desarrollo-python-en-mac/)
   * [MachineLearning with TensorFlow](https://www.youtube.com/watch?v=KNAWp2S3w94&feature=emb_rel_end&ab_channel=TensorFlow)
   * [CodificandoBits](https://www.youtube.com/c/codificandobits/playlists) IA y DataScience en español
+  * [Colab](https://colab.research.google.com/)
+  * [Jupiter](https://jupyter.org/index.html)
 * [Que aprendería en 2021 si tuviera que empezar de cero](https://www.youtube.com/watch?v=zlOaObf5yR0&feature=emb_logo&ab_channel=HolaMundo)
   * [blog](www.nicolas-schurmann.com)
   * [Kit desarrollado, video, libros](https://kit.co/nschurmann)
