@@ -175,6 +175,8 @@
   
 * [Bussines Canvas Model - Loogic](https://loogic.com/business-model-canvas-loogic-podcast) Análisis del Business Model Canvas o Lienzo del Modelo de Negocio, aunque todo el mundo habla de él por su nombre en inglés, o simplemente llamándolo «canvas»
 
+* [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
+
 ## DESARROLLO PRODUCTO
 * [Plantillas para desarrollo software](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/)
 * [De que hablamos, cuando hablamos de plataformas](https://martinfowler.com/articles/talk-about-platforms.html)
@@ -1225,6 +1227,7 @@ A collections of little tips from @steveschoger to improve your visual design sk
 * [Descarga más de 100 ilustraciones de alta calidad gratis, personalizables y sin necesidad de atribución para usar en tus proyectos](https://www.genbeta.com/web/descarga-100-ilustraciones-alta-calidad-gratis-personalizables-necesidad-atribucion-para-usar-tus-proyectos)
 * [2000 iconos para mac](https://www.genbeta.com/mac/esa-web-puedes-descargar-2000-iconos-para-macos-big-sur-que-lucen-consistentes-diseno)
 * [Sonidos y efectos gratuitos](https://wwwhatsnew.com/2020/12/26/como-descargar-sonidos-y-efectos-para-utilizar-de-forma-gratuita/)
+* [Ambient-mixer](https://www.ambient-mixer.com/) Banco de sonidos para escuchar, mezclar y editar.
 
 ## Ejemplos/Apps
 
