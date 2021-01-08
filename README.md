@@ -1042,7 +1042,7 @@ Todas las secciones incluyen ejercicio práctico
 * [16 Free Tools & Services for Developers: Better and Higher Productivity](https://simpleprogrammer.com/16-free-tools-for-developers/)
 ** Asana. Task tracker
 ** Toggl. Accurate Billable Hours
-** Trello. Project Manager
+** Trello, KanbanFlow, nTasks Project Manager. https://dzone.com/articles/kanbanflow-vs-trello-who-wins-the-battle
 ** Silver Searcher. To Spot Code Instantly
 ** Atom. Hack Code Ethically
 ** Brackets. Smart Text Editor
