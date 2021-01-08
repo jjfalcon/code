@@ -1,4 +1,5 @@
 ## FORMACION
+* [6 proyectos de tecnologia que puedes hacer con tus hijos en casa](https://elandroidelibre.elespanol.com/2020/12/6-proyectos-de-tecnologia-que-puedes-hacer-con-tus-hijos-en-casa.html)
 * [Curso Vue](https://codingpotions.com/curso-gratis-vue/)
 * [Curso Angular](https://codingpotions.com/curso-gratis-angular/)
 * InteligenciaArtificial, AprendizajeAutomatico, MachineLearning
