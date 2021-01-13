@@ -93,6 +93,7 @@
   * en definitiva, trabaja para que salga por la puerta sólo aquello que satisfaría al cliente más exigente del mundo!
 
 ## VENTA ONLINE
+* [Qué es una Newsletter](https://www.pymesyautonomos.com/marketing-y-comercial/que-newsletter-como-hacer-para-promocionar-tu-negocio-no-agobiar-al-cliente) y cómo hacer una para promocionar tu negocio y no agobiar al cliente
 * [Pagina de Ventas](https://www.lifestylealcuadrado.com/pagina-de-ventas/)
 * [Kolau](https://www.kolau.es/) permite crear en 15 minutos y de forma gratuita una página web con opción a pasarla de pago
 * [Canales de Venta](https://loogic.com/012-canales-de-venta-en-el-business-model-canvas-7-loogic-podcast/)
