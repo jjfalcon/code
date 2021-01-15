@@ -425,6 +425,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
 ### IA
+* [Amazon Polly](https://aws.amazon.com/es/blogs/machine-learning/build-a-unique-brand-voice-with-amazon-polly/)
 * [levity](https://www.levity.ai) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
 * [fastai](https://www.fast.ai/) is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. 
 * [Challenge image recognition in iphone without code](https://twitter.com/braddwyer/status/1330654868839784451) The challenge: teach my iPhone to recognize sharks and fish in images without writing a single line of code.
