@@ -669,46 +669,33 @@ Here is a short video I recorded explaining how I like to approach this. Jump to
 [Charla inspiradora de desarrollo sostenible](https://wordpress.tv/2019/09/22/roberto-vazquez-desarrollo-sostenible/) Recomendada para todos los diseñadores y desarrolladores y luego [Charla de consejos para hacer tu web más sostenible](https://wordpress.tv/2020/05/09/nahuai-badiola-consejos-para-hacer-tus-webs-mas-sostenibles/) con [presentacion](https://2020.spain.wordcamp.org/files/2020/05/08A03_03_WordCamp-Espan%CC%83a-2020-Nahuai-Badiola.pdf) Lo sostenible va de la mano con lean, rapido, conexiones lentas, usable y accesible.
 
 ## CODE
-
+* [Language-Agnostic Guidelines on Naming Variables](https://github.com/kettanaito/naming-cheatsheet)
 * [Clean Code JS](https://github.com/andersontr15/clean-code-javascript-es)
+* [Feature flags in real life](https://williamdurand.fr/2020/09/22/feature-flags-in-real-life/)
+* [Principios SOLID aplicados](https://pro.codely.tv/library/principios-solid-aplicados/77070/about/)
+* [From STUPID to SOLID Code!](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
+* [Benefits of Pair Programming](https://hackernoon.com/benefits-of-pair-programming-s51a3ur8)
+* [5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
+* [Más allá de SOLID, principios básicos](https://franiglesias.github.io/beyond-solid/) Un buen codigo debe ser robusto, reutilizable, testeable, bien organizado, legible, y sostenible para lo cual debemos aplicar los siguientes principios:
+  * Separacion de intereses dice que diferentes partes de un programa se ocupan de diferentes intereses. Ayuda a separar partes del código de una manera significativa, yendo juntas aquellas que atienen a los mismos intereses, lo cual es un punto de partida para una buena organización.
+  * Abstracción (DRY) dice que cada parte significativa de funcionalidad de un programa debe implementarse en un sólo lugar del código fuente. Ayuda a tener criterios para modularizar código y para favorecer su sostenibilidad y su capacidad de ser reutilizado.
+  * Separación comando preguna dice que cada método o función debe ser o bien un comando, que provoca un cambio en el sistema ejecutando una acción, o bien una pregunta (o query) que obtiene una información del sistema sin modificarlo. Ayuda la testeablidad del software y contribuye a su robustez.
+  * Minimo conocimiento dice que una unidad de software sólo puede hablar con aquellas otras unidades que conozca, aquellas instanciadas dentro de la propia unidad de software considerada, o aquellas que se pasan como parámetros a la unidad considerada. Ayuda mucho a la testeabilidad, sobre todo cuando en el nivel unitario utilizamos dobles de tests. Además, aligera el acoplamiento eliminando dependencias ocultas o transitivas (cuando desde la unidad A, usamos una unidad B porque contiene una tercera unidad C que es la que realmente queremos usar), y favorece la cohesión.
+  * Cohesion vs Acoplamiento. La cohesión se refiere al grado en que los elementos de un módulo van juntos. Nos interesa que la cohesión dentro de un módulo sea alta. El acoplamiento se refiere al grado de interdependencia entre módulos distintos. Nos interesa que el acoplamiento entre módulos sea lo más bajo posible. En conjunto, la relación entre cohesión y acoplamiento son claves y ayudae en la organización del software y la posibilidad de reutilización de los distintos módulos. 
 
-[Feature flags in real life](https://williamdurand.fr/2020/09/22/feature-flags-in-real-life/)
-
-[Principios SOLID aplicados](https://pro.codely.tv/library/principios-solid-aplicados/77070/about/)
-
-[From STUPID to SOLID Code!](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
-
-[Benefits of Pair Programming](https://hackernoon.com/benefits-of-pair-programming-s51a3ur8)
-
-[5 best practices for clean coding in JavaScript](https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am)
-
-[Más allá de SOLID, principios básicos](https://franiglesias.github.io/beyond-solid/) Un buen codigo debe ser robusto, reutilizable, testeable, bien organizado, legible, y sostenible para lo cual debemos aplicar los siguientes principios:
-* Separacion de intereses dice que diferentes partes de un programa se ocupan de diferentes intereses. Ayuda a separar partes del código de una manera significativa, yendo juntas aquellas que atienen a los mismos intereses, lo cual es un punto de partida para una buena organización.
-* Abstracción (DRY) dice que cada parte significativa de funcionalidad de un programa debe implementarse en un sólo lugar del código fuente. Ayuda a tener criterios para modularizar código y para favorecer su sostenibilidad y su capacidad de ser reutilizado.
-* Separación comando preguna dice que cada método o función debe ser o bien un comando, que provoca un cambio en el sistema ejecutando una acción, o bien una pregunta (o query) que obtiene una información del sistema sin modificarlo. Ayuda la testeablidad del software y contribuye a su robustez.
-* Minimo conocimiento dice que una unidad de software sólo puede hablar con aquellas otras unidades que conozca, aquellas instanciadas dentro de la propia unidad de software considerada, o aquellas que se pasan como parámetros a la unidad considerada. Ayuda mucho a la testeabilidad, sobre todo cuando en el nivel unitario utilizamos dobles de tests. Además, aligera el acoplamiento eliminando dependencias ocultas o transitivas (cuando desde la unidad A, usamos una unidad B porque contiene una tercera unidad C que es la que realmente queremos usar), y favorece la cohesión.
-* Cohesion vs Acoplamiento. La cohesión se refiere al grado en que los elementos de un módulo van juntos. Nos interesa que la cohesión dentro de un módulo sea alta. El acoplamiento se refiere al grado de interdependencia entre módulos distintos. Nos interesa que el acoplamiento entre módulos sea lo más bajo posible. En conjunto, la relación entre cohesión y acoplamiento son claves y ayudae en la organización del software y la posibilidad de reutilización de los distintos módulos. 
-
-[POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
+* [POEditor](https://poeditor.com/) The localization management platform that's truly efficient!
 Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
-[Weblate](https://weblate.org/es/) es una herramienta para traducir una aplicación a múltiples idiomas. Como se explica en [artículo](https://picodotdev.github.io/blog-bitix/2020/12/la-herramienta-weblate-para-traducir-una-aplicacion-a-multiples-idiomas/) es codigo libre y puede ser gratuita si lo instalamos en nuestros equipos.
+* [Weblate](https://weblate.org/es/) es una herramienta para traducir una aplicación a múltiples idiomas. Como se explica en [artículo](https://picodotdev.github.io/blog-bitix/2020/12/la-herramienta-weblate-para-traducir-una-aplicacion-a-multiples-idiomas/) es codigo libre y puede ser gratuita si lo instalamos en nuestros equipos.
 
-[How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
-
-[Today I Learned](https://til.hashrocket.com/)
-
-[Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
-
-[Conventional Commits 1.0.0-beta.2](https://conventionalcommits.org/)
-
-[A Developer’s Guide to Setting and Smashing Career Goals](https://simpleprogrammer.com/developers-setting-career-goals/)
-
-[Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
-
-[The Best Way to Become a Complete Software Developer](https://dzone.com/articles/the-best-way-to-become-a-complete-software-develop)
-
-[Learning, Coding, & Freelancing as a Dad](https://medium.com/@thall1961/learning-coding-freelancing-as-a-dad-7a817fe5461b)
+* [How to Write Quality Code](https://dzone.com/articles/its-not-too-late)
+* [Today I Learned](https://til.hashrocket.com/)
+* [Web.dev, la nueva plataforma de Google para enseñar a los desarrolladores a programar de forma eficiente para la web moderna](https://m.genbeta.com/web/web-dev-nueva-plataforma-google-para-ensenar-a-desarrolladores-a-programar-forma-eficiente-para-web-moderna/amp)
+* [Conventional Commits 1.0.0-beta.2](https://conventionalcommits.org/)
+* [A Developer’s Guide to Setting and Smashing Career Goals](https://simpleprogrammer.com/developers-setting-career-goals/)
+* [Tu marca personal como desarrollador de software](https://www.genbeta.com/desarrollo/tu-marca-personal-como-desarrollador-software)
+* [The Best Way to Become a Complete Software Developer](https://dzone.com/articles/the-best-way-to-become-a-complete-software-develop)
+* [Learning, Coding, & Freelancing as a Dad](https://medium.com/@thall1961/learning-coding-freelancing-as-a-dad-7a817fe5461b)
 
 ### [Interesante ciclo desarrollo to-DO](https://medium.com/finizens-engineering/nuestro-ciclo-de-desarrollo-to-do-fe7acdac8ce5)
 
