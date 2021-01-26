@@ -58,6 +58,8 @@
 ## REMOTE
 * [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
 * [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
+* [Whatsapp como repositorio personal/equipo](https://depor.com/depor-play/tecnologia/whatsapp-como-chatear-contigo-a-ti-mismo-conversaciones-escribir-aplicaciones-apps-truco-2021-tutorial-viral-smartphone-celulares-estados-unidos-espana-mexico-nnda-nnni-noticia/)
+* [Telegram como herramienta de trabajo](https://elandroidelibre.elespanol.com/2021/01/telegram-como-herramienta-de-trabajo-5-consejos-fundamentales.html)
 
 ## INNOVACION
 * [Lessons Learned in 80 Years](https://www.blackstone.com/press-releases/article/blackstones-byron-wien-discusses-lessons-learned-in-his-first-80-years/)
