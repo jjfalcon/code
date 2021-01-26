@@ -629,7 +629,7 @@ Thinking to move to AI? Learn Python first.
 [Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
-
+* [How we designed Dropbox ATF: an async task framework](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 * [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
   * [Bubble Database Design 101 and 2 Quick Tips](https://share.vidyard.com/watch/SAdnMnJnBC9sAs5bRxGeKR) Time spent structuring your database will save you (a lot more) time later on, when building the app. My advice for beginners is to open a Google Sheets and design your database there before actually creating it in Bubble.
 Here is a short video I recorded explaining how I like to approach this. Jump to minute 3:40 for the two quick tips.
