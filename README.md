@@ -55,11 +55,22 @@
 [Libros Autentia](https://www.autentia.com/libros/)
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
-## REMOTE
+## EQUIPO, GESTION, REMOTO
+
+* [Why Be Agile: Main Metrics, Most Used Tools, Agile Planning](https://dzone.com/articles/why-be-agile-main-metrics-most-used-tools-agile-pl) Why should businesses and startups care about PM? Why be Agile? Read about main metrics, Key Performance Indicators, and most used project management tools.
+* [Remote Agile (Part 5): Retrospectives with Distributed Teams](https://dzone.com/articles/remote-agile-part-5-retrospectives-with-distribute)
+* [5 Best Practices for Managing a Remote Engineering Team](https://dzone.com/articles/code-ownership-is-more-important-than-ever-5-best)
+  * The ABCs: Always Be Communicating
+  * Aim for Complete Clarity and Document Everything
+  * Inject Efficiency and Purpose Into Scheduled Meetings
+  * Ditch Whiteboards for Transparency
+  * Promote Human Connections
+
 * [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
 * [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 * [Whatsapp como repositorio personal/equipo](https://depor.com/depor-play/tecnologia/whatsapp-como-chatear-contigo-a-ti-mismo-conversaciones-escribir-aplicaciones-apps-truco-2021-tutorial-viral-smartphone-celulares-estados-unidos-espana-mexico-nnda-nnni-noticia/)
 * [Telegram como herramienta de trabajo](https://elandroidelibre.elespanol.com/2021/01/telegram-como-herramienta-de-trabajo-5-consejos-fundamentales.html)
+* [Organizacion de servicios profesionales](https://javisantana.com/2021/01/16/servicios-profesionales.html)
 
 ## INNOVACION
 * [Lessons Learned in 80 Years](https://www.blackstone.com/press-releases/article/blackstones-byron-wien-discusses-lessons-learned-in-his-first-80-years/)
@@ -328,19 +339,6 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [Aprende JavaScript creando ocho videojuegos simples y clásicos que puedes añadir a tu portafolio](https://www.genbeta.com/desarrollo/aprende-javascript-creando-ocho-videojuegos-simples-clasicos-que-puedes-anadir-a-tu-portafolio)
 
 [Arduino. Termometro fiebre sin contacto](https://create.arduino.cc/projecthub/hardyedela/diy-arduino-gy-906-infrared-thermometer-5881aa)
-
-## EQUIPO, GESTION, REMOTO
-
-[Why Be Agile: Main Metrics, Most Used Tools, Agile Planning](https://dzone.com/articles/why-be-agile-main-metrics-most-used-tools-agile-pl) Why should businesses and startups care about PM? Why be Agile? Read about main metrics, Key Performance Indicators, and most used project management tools.
-
-[Remote Agile (Part 5): Retrospectives with Distributed Teams](https://dzone.com/articles/remote-agile-part-5-retrospectives-with-distribute)
-
-[5 Best Practices for Managing a Remote Engineering Team](https://dzone.com/articles/code-ownership-is-more-important-than-ever-5-best)
-* The ABCs: Always Be Communicating
-* Aim for Complete Clarity and Document Everything
-* Inject Efficiency and Purpose Into Scheduled Meetings
-* Ditch Whiteboards for Transparency
-* Promote Human Connections
 
 ## LIBROS
 
