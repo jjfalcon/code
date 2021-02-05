@@ -832,11 +832,13 @@ Una presentación rompedora de como realizar testing directamente en producción
 
 [How to Prevent Secrets in Source Code with Inspecode](https://blog-en.rocro.com/2018/06/15/how-to-prevent-secrets-in-source-code-with-inspecode/) Cloud Build helps you create fast, consistent, reliable builds across all languages. With this new integration, you can easily set up CI through Cloud Build and automate builds and tests as part of your GitHub workflow.
 
-[Simplify your CI process with GitHub and Google Cloud Build](https://blog.github.com/2018-07-26-simplify-your-ci-process/)
+* [Simplify your CI process with GitHub and Google Cloud Build](https://blog.github.com/2018-07-26-simplify-your-ci-process/)
+* [7 Ways to Improve Your Test Suite with Docker](https://resources.codeship.com/hubfs/Codeship_7-Ways-to-Improve-Your-Test-Suite-with-Docker.pdf)
+* [A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
 
-[7 Ways to Improve Your Test Suite with Docker](https://resources.codeship.com/hubfs/Codeship_7-Ways-to-Improve-Your-Test-Suite-with-Docker.pdf)
-
-[A beginner's guide to continuous integration](https://about.gitlab.com/2018/01/22/a-beginners-guide-to-continuous-integration)
+* [Tendencias 2021](https://simpleprogrammer.com/software-testing-trends-2021) IA, codeless, Growth, Agile and Devops, QAops, robotic, Mobile first testing
+* [Travel App Testing Tips](https://dzone.com/articles/travel-app-testing-tips)
+* [Best Practices in Mobile App Testing](https://dzone.com/articles/best-practices-in-mobile-app-testing)
 
 ## How to avoid slow and brittle end-to-end tests
 A common mistakes people make when writing E2E tests that lead to slow tests
