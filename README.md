@@ -756,65 +756,45 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 
 * [UserExperior](https://www.userexperior.com/) Discover how your users experience your app. Session Replay and Heatmap Analytics Tool for Mobile Apps.
 * [Testing UI logic](https://testing.googleblog.com/2020/10/testing-on-toilet-testing-ui-logic.html)
-
-[An Agile Test Automation Manifesto](https://dzone.com/articles/an-agile-test-automation-manifesto)
-* I believe that automation should serve the whole team, and not just QA
-* I am a master of my tools, not a servant of a toolset or vendor
-* I take pride in my automation because it helps my team go faster
-* I don't just report issues, I drive quality from the outset
-* I am a coder, a tester, a coach, a facilitator, a quality evangelist
-* I am an Agile Test Automation Engineer
-
+* [Automatic Unit Test in API](https://dzone.com/articles/automatically-generate-unit-tests-wrapping-your-ht)
+* [An Agile Test Automation Manifesto](https://dzone.com/articles/an-agile-test-automation-manifesto)
+  * I believe that automation should serve the whole team, and not just QA
+  * I am a master of my tools, not a servant of a toolset or vendor
+  * I take pride in my automation because it helps my team go faster
+  * I don't just report issues, I drive quality from the outset
+  * I am a coder, a tester, a coach, a facilitator, a quality evangelist
+  * I am an Agile Test Automation Engineer
 You can read the full text (and find some cool learning resources) here: [The Agile Test Automation Manifesto](https://agile-test-automation.com/manifesto43424174)
 
-[Test Automation in Agile Environments: How to Get Started](https://dzone.com/articles/test-automation-how-to-get-started)
-
-[11 Ways To Manage Distributed Testing Teams Effectively](https://dzone.com/articles/11-ways-to-manage-distributed-testing-teams-effect)
-
-[osx-config-check](https://github.com/kristovatlas/osx-config-check)
-
-[Guidelines for Quality Assurance and a Technique for Advanced Software Testing](https://simpleprogrammer.com/advanced-software-testing/)
-
-https://twitter.com/davidkpiano/status/1218552334680317953?s=11
+* [Test Automation in Agile Environments: How to Get Started](https://dzone.com/articles/test-automation-how-to-get-started)
+* [11 Ways To Manage Distributed Testing Teams Effectively](https://dzone.com/articles/11-ways-to-manage-distributed-testing-teams-effect)
+* [osx-config-check](https://github.com/kristovatlas/osx-config-check)
+* [Guidelines for Quality Assurance and a Technique for Advanced Software Testing](https://simpleprogrammer.com/advanced-software-testing/)
+* https://twitter.com/davidkpiano/status/1218552334680317953?s=11
 E2E tests make sure the app is working properly.
 Integration tests make sure the code is working properly.
 Unit tests make sure the developer is working properly
 
-[Tests Too DRY? Make Them DAMP!](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html) In tests we can use the DAMP principle (“Descriptive and Meaningful Phrases”), which emphasizes readability over uniqueness. Note that the DRY principle is still relevant in tests; for example, using a helper function for creating value objects can increase clarity by removing redundant details from the test body. Ideally, test code should be both readable and unique, but sometimes there’s a trade-off. When writing unit tests and faced with a choice between the DRY and DAMP principles, lean more heavily toward DAMP.
+* [Tests Too DRY? Make Them DAMP!](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html) In tests we can use the DAMP principle (“Descriptive and Meaningful Phrases”), which emphasizes readability over uniqueness. Note that the DRY principle is still relevant in tests; for example, using a helper function for creating value objects can increase clarity by removing redundant details from the test body. Ideally, test code should be both readable and unique, but sometimes there’s a trade-off. When writing unit tests and faced with a choice between the DRY and DAMP principles, lean more heavily toward DAMP.
 
-[How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)
+* [How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)
+* [TDD Example in Software Development (Part I)](https://dzone.com/articles/tdd-example-in-software-development-part-i) Take a look at how test-driven development can ultimately save you time by using one of the methods presented here to turn your test green.
 
-[TDD Example in Software Development (Part I)](https://dzone.com/articles/tdd-example-in-software-development-part-i) Take a look at how test-driven development can ultimately save you time by using one of the methods presented here to turn your test green.
-
-[Types of QA Checklists in Software Development](https://dzone.com/articles/types-of-qa-checklists-in-software-development) Never miss a bug by organizing a QA checklist for your software development project, and learn what that chceklist should include here.
-
-[How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
-
-[Refactoring](https://rachelcarmena.github.io/2019/04/13/refactoring.html)
-
-[TDD de fuera a dentro. Mi manera de trabajar - Eduardo Sánchez](https://www.youtube.com/watch?v=e9DvmVd4HZM&feature=youtu.be)
-
-[Modesto San Juan - TDD mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0)
-
-[An Introduction to Test-Driven Development](https://medium.freecodecamp.org/an-introduction-to-test-driven-development-c4de6dce5c)
-
-[The Five Benefits of Automated Testing](https://www.codewithjason.com/five-benefits-automated-testing/)
-
-[The 4 Keys to Effective Continuous Testing](https://devops.com/the-4-keys-to-effective-continuous-testing/)
-
-[Kata de TDD](https://es.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela)
-
-[Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
-
-[TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
-
-[10 best practices in test automation](https://www.ranorex.com/resources/whitepaper/best-practices-automated-testing/thank-you/)
-
-[Why I Practice TDD: Speed and Need](https://dzone.com/articles/why-i-practice-tdd-speed-and-need?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16) Learn how TDD lets you work faster while eliminating critical defects.
-
-[Keep Your Automated Testing Simple and Avoid Anti-Patterns](https://dzone.com/articles/keep-your-automated-testing-simple-and-avoid-anti?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16)
-
-[Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
+* [Types of QA Checklists in Software Development](https://dzone.com/articles/types-of-qa-checklists-in-software-development) Never miss a bug by organizing a QA checklist for your software development project, and learn what that chceklist should include here.
+* [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
+* [Refactoring](https://rachelcarmena.github.io/2019/04/13/refactoring.html)
+* [TDD de fuera a dentro. Mi manera de trabajar - Eduardo Sánchez](https://www.youtube.com/watch?v=e9DvmVd4HZM&feature=youtu.be)
+* [Modesto San Juan - TDD mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0)
+* [An Introduction to Test-Driven Development](https://medium.freecodecamp.org/an-introduction-to-test-driven-development-c4de6dce5c)
+* [The Five Benefits of Automated Testing](https://www.codewithjason.com/five-benefits-automated-testing/)
+* [The 4 Keys to Effective Continuous Testing](https://devops.com/the-4-keys-to-effective-continuous-testing/)
+* [Kata de TDD](https://es.slideshare.net/codiumteam/kata-de-tdd-by-jordi-anguela)
+* [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
+* [TDD Example in Software Development](https://dzone.com/articles/tdd-first-cycle-part-2)
+* [10 best practices in test automation](https://www.ranorex.com/resources/whitepaper/best-practices-automated-testing/thank-you/)
+* [Why I Practice TDD: Speed and Need](https://dzone.com/articles/why-i-practice-tdd-speed-and-need?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16) Learn how TDD lets you work faster while eliminating critical defects.
+* [Keep Your Automated Testing Simple and Avoid Anti-Patterns](https://dzone.com/articles/keep-your-automated-testing-simple-and-avoid-anti?edition=418196&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202018-11-16)
+* [Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f)
 
 [Builders: la solución definitiva a los datos de prueba en los test](https://dosideas.com/noticias/java/1054-builders-la-solucion-definitiva-a-los-datos-de-prueba-en-los-test)
 
