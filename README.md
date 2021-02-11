@@ -1,4 +1,5 @@
 ## FORMACION
+* [MIT Deep Learning](https://www.genbeta.com/web/mit-lanza-edicion-2021-su-curso-online-gratuito-introduccion-al-deep-learning)
 * [Free learning platforms](https://twitter.com/denicmarko/status/1351848967177465857)
 * [6 proyectos de tecnologia que puedes hacer con tus hijos en casa](https://elandroidelibre.elespanol.com/2020/12/6-proyectos-de-tecnologia-que-puedes-hacer-con-tus-hijos-en-casa.html)
 * [Curso Vue](https://codingpotions.com/curso-gratis-vue/)
@@ -1195,6 +1196,7 @@ Flutter is Google’s mobile UI framework for crafting high-quality native inter
 A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference 👏
 
 ## Recursos
+* [Unsplash](https://unsplash.com/) The internet’s source of freely-usable images. Powered by creators everywhere. Usado por Notion.
 * [Flexiple](https://wwwhatsnew.com/2020/11/26/una-coleccion-gratuita-y-de-uso-libre-de-graficos-svg-y-png-actualizada-diariamente/) es una colección gratuita de libre uso de gráficos SVG Y PNG, que se actualiza diariamente.
 * [gráficos vectoriales gratis para usar en proyectos personales o comerciales](https://www.genbeta.com/imagen-digital/esta-web-puedes-descargar-miles-graficos-vectoriales-gratis-para-usar-proyectos-personales-comerciales)
 * [ICONSVG](https://wwwhatsnew.com/2019/02/21/iconsvg-una-web-para-personalizar-y-descargar-iconos-svg-para-nuestros-proyectos/) una web para personalizar y descargar iconos SVG para nuestros proyectos
@@ -1204,6 +1206,11 @@ A collections of little tips from @steveschoger to improve your visual design sk
 * [2000 iconos para mac](https://www.genbeta.com/mac/esa-web-puedes-descargar-2000-iconos-para-macos-big-sur-que-lucen-consistentes-diseno)
 * [Sonidos y efectos gratuitos](https://wwwhatsnew.com/2020/12/26/como-descargar-sonidos-y-efectos-para-utilizar-de-forma-gratuita/)
 * [Ambient-mixer](https://www.ambient-mixer.com/) Banco de sonidos para escuchar, mezclar y editar.
+* [Las mejores fuentes de imágenes de stock, gratis y libres de derechos](https://hipertextual.com/2021/02/imagenes-stock-gratis-libres)
+
+  * [PickWizard](https://pikwizard.com/) High Quality, Free Stock Photos and videos. Royalty free and safe for commercial use, with no attribution required. 
+  * [Burst](https://burst.shopify.com/) Free stock photos for websites and commercial use
+  * [Compfight](http://compfight.com/) Locate the visual inspiration you need. Super fast!
 
 ## Ejemplos/Apps
 
