@@ -196,10 +196,10 @@
 * [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
 
 ## DESARROLLO PRODUCTO
+* [Una definición muy gráfica del product/market fit](https://twitter.com/samuelgil/status/1359734049133191173)
 * [Plantillas para desarrollo software](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/)
 * [De que hablamos, cuando hablamos de plataformas](https://martinfowler.com/articles/talk-about-platforms.html)
-
-[ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
+* [ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
 Conviérte en un todoterreno digital.
 
 [Como desarrollar un producto](https://twitter.com/juanmacias/status/1293607798182486016)
