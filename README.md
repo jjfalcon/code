@@ -19,7 +19,6 @@
 * [Microsoft Learn](https://docs.microsoft.com/es-es/learn/) es una plataforma gratuita de cursos en línea que ofrece aprendizaje interactivo para los productos de Microsoft. Nuestro objetivo es ayudarle a convertirse en un experto en nuestras tecnologías gracias a un contenido divertido, guiado, práctico e interactivo específico para su rol y sus objetivos.
 * [Google lanza un curso online gratuito para que aprendas a montar una startup](https://www.genbeta.com/web/google-lanza-curso-online-gratuito-aprendas-montar-startup)
 * [3D buzz abre todos sus cursos gratuitamente](https://www.genbeta.com/actualidad/3d-buzz-cierra-como-regalo-final-nos-dejan-descargar-todos-sus-cursos-tutoriales-diseno-desarrollo-completamente-gratis)
-
 * [escuelavue.es](https://escuelavue.es/) Cursos de Vue, JavaScript y mucho más. Aprende a desarrollar proyectos Web profesionales con JavaScript, Vue y todo su ecosistema.
 * [Deep Dive Into Modern Web Development - Full Stack Open 2019](https://fullstackopen.com/en/) La universidad de Helsinki ha publicado un MOOC gratuito sobre desarrollo web fullstack. Explican cómo crear aplicaciones web con #expressjs y #reactjs. Además te enseñan a utilizar GraphQL
 * [a course on problem solving for programmers](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4)
@@ -53,11 +52,10 @@
   * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
   * Soft Skills: The Software Developer’s Life Manual
 
-[Libros Autentia](https://www.autentia.com/libros/)
+* [Libros Autentia](https://www.autentia.com/libros/)
 * [Las reglas no escritas para triunfar en la empresa. Informática profesional](https://www.autentia.com/wp-content/uploads/libros/LasReglasNoEscritas.pdf)
 
 ## EQUIPO, GESTION, REMOTO
-
 * [Why Be Agile: Main Metrics, Most Used Tools, Agile Planning](https://dzone.com/articles/why-be-agile-main-metrics-most-used-tools-agile-pl) Why should businesses and startups care about PM? Why be Agile? Read about main metrics, Key Performance Indicators, and most used project management tools.
 * [Remote Agile (Part 5): Retrospectives with Distributed Teams](https://dzone.com/articles/remote-agile-part-5-retrospectives-with-distribute)
 * [5 Best Practices for Managing a Remote Engineering Team](https://dzone.com/articles/code-ownership-is-more-important-than-ever-5-best)
@@ -66,7 +64,6 @@
   * Inject Efficiency and Purpose Into Scheduled Meetings
   * Ditch Whiteboards for Transparency
   * Promote Human Connections
-
 * [11 consejos para hacer un onboarding online](https://niltonnavarro.com/onboarding-online-incorporacion-en-remoto-consejos)
 * [Twake](https://hipertextual.com/2020/10/twake-fusion-slack-trello) es lo que obtienes si fusionas Slack con Trello, Google Calendar y Drive
 * [Whatsapp como repositorio personal/equipo](https://depor.com/depor-play/tecnologia/whatsapp-como-chatear-contigo-a-ti-mismo-conversaciones-escribir-aplicaciones-apps-truco-2021-tutorial-viral-smartphone-celulares-estados-unidos-espana-mexico-nnda-nnni-noticia/)
@@ -91,7 +88,6 @@
   * Traguese ese sapo
   * Tu modelo de negocio
   * Vivir sin jefe
-  * 
 * [Tendencias y oportunidades de negocio post pandemia](https://www.observatorio-empresas.vodafone.es/articulos/pymes/tendencias-oportunidades-de-negocio-pandemia-josu-ugarte/) Vivimos un momento de cambio, y el binomio riesgo-oportunidad obliga a las empresas a estar muy alerta incluso en los países más afectados por la crisis, como es el caso de España, e incluso en los sectores más afectados, hay empresas que van a tener el talento de salir ganando. En este momento, en que la velocidad es mucho más importante que la perfección, algo que deben tener en cuenta las Pymes tienen que moverse como pez en el agua en el ecosistema del talento. Con todo, ¿qué sectores pueden salir reforzados en esta época de rápidas transformaciones? Los referidos a la informática y el mundo digital, los vinculados a la salud, la sostenibilidad y las infraestructuras.
 * [5 hitos para medir el avance un proyecto de innovación](https://innolandia.es/5-hitos-para-medir-el-avance-un-proyecto-de-innovacion/)
 * [MOONSHOT](https://moonshot.ceo/) Take Control Over Innovation. The first Al Platform to Manage Innovation Ecosystems
@@ -167,9 +163,7 @@
   * Facilitar info produccion, con un sistema de monitorizacion de todos los servicios, la aceptacion del usuario, y el estado del entorno. Una vez detectado el problema un servicio de log permite analizar que ha ocurrido. Debug remotamente con herramientas como https://www.rookout.com/
   * Optimizar reuniones. Reducir su numero al mínimo (hay empresas donde hay dias semanales sin reuniones). Preparar la reunión con una agenda de informacion previa a revisar, puntos a tratar, y conclusiones/decisiones/objetivos a alcanzar.
   * Aprovechar las fortalezas del equipo.
-
 * [Como introducir en el mercado un software innovador](https://crearsoftware.com/2020/09/29/como-introducir-en-el-mercado-un-software-innovador/) una referencia del libro Crossing the Chasm, como publicitar y vender productos disruptivos al mercado de masas. [Aquí un buen resumen del libro](https://resumidito.com/resumen/resumen-del-libro-cruzando-el-abismo-crossing-the-chasm-por-geoffrey-a-moore)
- 
  * [10 pasos para el cambio cultural que requiere la transformación digital](https://humannova.com/pasos-cambio-cultural-transformacion-digital/) En resumen rimero lo humano, y después la tecnología.
    * Nueva organizacion en red que potencie la cultura innovadora
    * Nueva gestion del talento colectivo, creando aprendizaje e intelingencia para generar nuevas soluciones y modelos de negocio
@@ -198,42 +192,40 @@
 * [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
 
 ## DESARROLLO PRODUCTO
+* [Build the right things](https://twitter.com/fchollet/status/1357774420098490368) If you're building a product... talking to your users and using the product yourself are two of the most effective uses of your time. Executing in the right direction is more important than execution speed. Visión, priorizar, investigar, CEO, clientes, analitica
+* [Building things right]() tecnología, ingenieria, proceso, UX, prototipos, , tests A/B
+
+Executing in the right direction is more important than execution speed.
 * [Una definición muy gráfica del product/market fit](https://twitter.com/samuelgil/status/1359734049133191173)
 * [Plantillas para desarrollo software](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/)
 * [De que hablamos, cuando hablamos de plataformas](https://martinfowler.com/articles/talk-about-platforms.html)
 * [ProducDesigner.es](http://productdesigner.es/) Aprende a crear productos digitales. Aprende a diseñar, desarrollar y lanzar al mercado aplicaciones web y móvil.
 Conviérte en un todoterreno digital.
 
-[Como desarrollar un producto](https://twitter.com/juanmacias/status/1293607798182486016)
-*  Vender el producto, sin producto, por ejemplo llegando hasta carrito e indicar no disponible por falta stock, dejar email para reserva
-* Programarlo
-* Venderselo a mas gente
-* Buscarle un nombre
-* Elegir un logo aleatorio
-* Despues de tres años acabo de registrar el dominio de la empresa y hacer el logo...
+* [Como desarrollar un producto](https://twitter.com/juanmacias/status/1293607798182486016)
+  * Vender el producto, sin producto, por ejemplo llegando hasta carrito e indicar no disponible por falta stock, dejar email para reserva
+  * Programarlo
+  * Venderselo a mas gente
+  * Buscarle un nombre
+  * Elegir un logo aleatorio
+  * Despues de tres años acabo de registrar el dominio de la empresa y hacer el logo...
 
-[¿Cómo creó Steve Jobs el iPhone?](https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/)
+* [¿Cómo creó Steve Jobs el iPhone?](https://crearsoftware.com/2020/08/21/como-creo-steve-jobs-el-iphone/)
+* [8 Essential Steps to Effectively Manage Projects](https://dzone.com/articles/8-essential-steps-to-effectively-managing-project)
+* [The Kano Model analysis is the solution!](https://medium.com/@filomenamsacardoso/the-kano-model-analysis-is-the-solution-56b50ac7a757) Kano Model analysis enables you and your team to focus on the right priorities. Understanding the users is the first step to a great project. The model was built on three core tenets:
+  * Value attracts clients.
+  * Quality keeps clients and builds loyalty.
+  * Innovation is necessary to differentiate and compete in the market.
 
-[8 Essential Steps to Effectively Manage Projects](https://dzone.com/articles/8-essential-steps-to-effectively-managing-project)
+* [Growth Loops](https://samuelgil.substack.com/p/50-growth-loops) la forma óptima de describir un producto digital de alto crecimiento es un sistema compuesto por dos bucles interconectados: uno de adquisición y otro de interacción.
 
-[The Kano Model analysis is the solution!](https://medium.com/@filomenamsacardoso/the-kano-model-analysis-is-the-solution-56b50ac7a757) Kano Model analysis enables you and your team to focus on the right priorities. Understanding the users is the first step to a great project. The model was built on three core tenets:
-* Value attracts clients.
-* Quality keeps clients and builds loyalty.
-* Innovation is necessary to differentiate and compete in the market.
+* [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/) product briefing” (PB) es un documento que resume la estrategia y planificación detrás de un producto, con un formato y contenido dirigidos a ser consumidos por cualquier empleado o stakeholder. Su principal objetivo es responder a cualquier pregunta derivada de: ¿Por qué es un buen uso de los recursos de la empresa el trabajar en este producto (o gran funcionalidad) de este modo en este momento?
 
-[Growth Loops](https://samuelgil.substack.com/p/50-growth-loops) la forma óptima de describir un producto digital de alto crecimiento es un sistema compuesto por dos bucles interconectados: uno de adquisición y otro de interacción.
-
-[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/) product briefing” (PB) es un documento que resume la estrategia y planificación detrás de un producto, con un formato y contenido dirigidos a ser consumidos por cualquier empleado o stakeholder. Su principal objetivo es responder a cualquier pregunta derivada de: ¿Por qué es un buen uso de los recursos de la empresa el trabajar en este producto (o gran funcionalidad) de este modo en este momento?
-
-[A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
-
-[Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
-
-[Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
-
-[Clarifying the Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
-
-[Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
+* [A Simple Technique for Launching Your Project in 20 Minutes](https://zenhabits.net/launch/)
+* [Validar grandes hipotesis con pequeñas soluciones](https://www.dropbox.com/s/vd0satfzgo8lsco/slides-validacion-carlos-sanchez.pdf?dl=0)
+* [Cómo escribir buenas historias de usuario](https://blog.jmbeas.es/2019/01/13/como-escribir-buenas-historias-de-usuario/)
+* [Clarifying the Relationship between Definition of Done and Conditions of Satisfaction](https://www.mountaingoatsoftware.com/blog/clarifying-the-relationship-between-definition-of-done-and-conditions-of-sa)
+* [Code as a product](https://www.diariovasco.com/sociedad/europa-emprende-veto-20181219115522-ntrc.html) Charla youtube de como hacen producto en CartoDB
 
 [three tenets of running a customer centric company](https://twitter.com/ProductHunt/status/909545004183437312) ⁦‪@JeffBezos‬⁩, CEO of ⁦‪@amazon‬⁩:
 
