@@ -615,18 +615,13 @@ Thinking to move to AI? Learn Python first.
 [Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
 
 ## DOC
-
-[Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
-
-[Ejemplos docuemntacion diseño Google[(https://twitter.com/asiermarques/status/1286040586332536833?s=12)
-
-[Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
-
-[Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
-
-[Document APIs with open source OpenAPI Comment Parser](https://developer.ibm.com/blogs/document-apis-with-open-source-openapi-comment-parser/)
-
-[Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
+* [GitBook](https://www.gitbook.com/) Document Everything! For you, your users and your team
+* [Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
+* [Ejemplos docuemntacion diseño Google[(https://twitter.com/asiermarques/status/1286040586332536833?s=12)
+* [Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
+* [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
+* [Document APIs with open source OpenAPI Comment Parser](https://developer.ibm.com/blogs/document-apis-with-open-source-openapi-comment-parser/)
+* [Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
 * [How we designed Dropbox ATF: an async task framework](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
@@ -741,21 +736,14 @@ Extensiones Chrome y Extensiones VisualCode para programadores web
 [ElasticSearch](https://www.elastic.co/products/elasticsearch) Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.
 
 ## LOG
-
-[DataDog, LogEntries, PapeTrail, GrayLog](https://www.datadoghq.com) See it all in one place
-
-[3 open source log aggregation tools](https://opensource.com/article/18/9/open-source-log-aggregation-tools)
-
-[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) View, edit and create a Data Studio report
-
-[Prometheus](https://prometheus.io) From metrics to insight. Power your metrics and alerting with a leading open-source monitoring solution.
-
-[Grafana](https://grafana.com/) The open platform for beautiful analytics and monitoring
-
-[Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
+* [DataDog, LogEntries, PapeTrail, GrayLog](https://www.datadoghq.com) See it all in one place
+* [3 open source log aggregation tools](https://opensource.com/article/18/9/open-source-log-aggregation-tools)
+* [Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) View, edit and create a Data Studio report
+* [Prometheus](https://prometheus.io) From metrics to insight. Power your metrics and alerting with a leading open-source monitoring solution.
+* [Grafana](https://grafana.com/) The open platform for beautiful analytics and monitoring
+* [Kibana](https://www.elastic.co/es/products/kibana) Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 ## TEST
-
 * [UserExperior](https://www.userexperior.com/) Discover how your users experience your app. Session Replay and Heatmap Analytics Tool for Mobile Apps.
 * [Testing UI logic](https://testing.googleblog.com/2020/10/testing-on-toilet-testing-ui-logic.html)
 * [Automatic Unit Test in API](https://dzone.com/articles/automatically-generate-unit-tests-wrapping-your-ht)
@@ -952,7 +940,10 @@ Todas las secciones incluyen ejercicio práctico
 
 ## RELEASE 
 
-[Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
+* [Update Info VisualCode](https://code.visualstudio.com/updates/v1_30) Ejemplo de información de actualización proporcionada y disponible para los usuarios.
+* [AppGyver Change Log](https://docs.appgyver.com/changelog) 
+  * Versiones: Release 2.4.17 (2020/12/10), Hotfix 2.4.17 (2020/12/18)
+  * Cambios  :Features, Breaking Changes, Changes, Fixes, Experiments
 
 ## OTROS
 
@@ -1054,9 +1045,10 @@ Todas las secciones incluyen ejercicio práctico
 
 [POEditor](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
 
-[The Jira moment](http://javisantana.com/2018/03/01/the-jira-moment.html)
-
-[Trello]
+* [The Jira moment](http://javisantana.com/2018/03/01/the-jira-moment.html)
+* [Canny](https://canny.io/) Build better products with customer feedback. Capture, organize, and analyze feedback in one place to inform your product decisions.
+  * [AppGiver Tracker](https://tracker.appgyver.com/) Roadmap (Planned, InProgress, Complete) Feedback (Feature Requests, Bug Reports)
+* [Trello]
 
 [Zenkit](https://www.genbeta.com/a-fondo/zenkit-app-productividad-para-gestionar-proyectos-usando-kanban-que-podria-ser-mejor-rival-trello)
 
