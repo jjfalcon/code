@@ -192,6 +192,21 @@
 * [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
 
 ## DESARROLLO PRODUCTO
+* [How to generate great startup ideas](https://twitter.com/gregisenberg)
+  * Start a community
+  * Grow the community
+  * Let the community inspire you with ideas 
+  * Notice the ideas
+  * My point: communities are the "secret weapon" to startup ideas that people want
+
+* [How to find product/market fit](https://twitter.com/gregisenberg/status/1361114454654607364?s=12)
+  * Study a small niche (research)
+  * Create something you wish existed (product)
+  * Grow a community you wish existed (attention)
+  * Validate with no/low code (iteration)
+  * Make it useful & fun (retention)
+  * Stand out (positioning)
+  * Stay alive (running)
 * [Build the right things](https://twitter.com/fchollet/status/1357774420098490368) If you're building a product... talking to your users and using the product yourself are two of the most effective uses of your time. Executing in the right direction is more important than execution speed. Visión, priorizar, investigar, CEO, clientes, analitica
 * [Building things right]() tecnología, ingenieria, proceso, UX, prototipos, , tests A/B
 
