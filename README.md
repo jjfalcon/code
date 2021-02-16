@@ -633,6 +633,8 @@ Thinking to move to AI? Learn Python first.
 
 [Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
 
+[API Cheat Sheet](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)What is an API, How it Works, and How to Choose the Right API Testing Tools
+
 ## DOC
 * [GitBook](https://www.gitbook.com/) Document Everything! For you, your users and your team
 * [Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
