@@ -120,6 +120,18 @@
 * [Ejemplos onboarding de cliente](https://twitter.com/carlosthesailor/status/1326182649975730178?s=12)
 
 ## ESTRATEGIA
+* [10 important future work skills](https://twitter.com/ValaAfshar/status/1361080590225784834)
+  * complex problem solving
+  * critical thinking
+  * creativity
+  *  people management
+  * collaboration and teamwork
+  * emotional intelligence
+  * solid judgment
+  * customer service
+  * negotiation
+  * cognitive flexibility
+
 * [Decalogo para una buena negociacion](https://www.infoautonomos.com/blog/decalogo-para-una-buena-negociacion)
   * Ganar-Ganar maximizar
   * Perder-Perder minimizar
