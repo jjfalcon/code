@@ -1,4 +1,5 @@
 ## FORMACION
+* [Python vs Javascript](https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/)
 * [MIT Deep Learning](https://www.genbeta.com/web/mit-lanza-edicion-2021-su-curso-online-gratuito-introduccion-al-deep-learning)
 * [Free learning platforms](https://twitter.com/denicmarko/status/1351848967177465857)
 * [6 proyectos de tecnologia que puedes hacer con tus hijos en casa](https://elandroidelibre.elespanol.com/2020/12/6-proyectos-de-tecnologia-que-puedes-hacer-con-tus-hijos-en-casa.html)
