@@ -646,6 +646,8 @@ Thinking to move to AI? Learn Python first.
 * [Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
+* [How an MVP Helps Accelerate Agile Development](https://dzone.com/articles/how-an-mvp-helps-accelerate-agile-development) What is an MVP or minimum viable product development? Why choose MVP development? Learn how an MVP helps accelerate agile development.
+* [Conventions over Configurations](https://dzone.com/articles/conventions-over-configurations)  simple trick to reduce complexity in your code base, by applying conventions instead of configurations
 * [How we designed Dropbox ATF: an async task framework](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
 * [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
   * [Bubble Database Design 101 and 2 Quick Tips](https://share.vidyard.com/watch/SAdnMnJnBC9sAs5bRxGeKR) Time spent structuring your database will save you (a lot more) time later on, when building the app. My advice for beginners is to open a Google Sheets and design your database there before actually creating it in Bubble.
