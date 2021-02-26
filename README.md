@@ -205,6 +205,7 @@
 * [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
 
 ## DESARROLLO PRODUCTO
+* [Agile User Story Mapping Board for Jira](https://nagasada.medium.com/agie-user-story-mapping-board-for-jira-28fa9ac7b988)
 * [How to generate great startup ideas](https://twitter.com/gregisenberg)
   * Start a community
   * Grow the community
