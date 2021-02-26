@@ -466,7 +466,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 
 ## TODO
 
-[WinGet](https://www.genbeta.com/windows/nuevo-gestor-paquetes-windows-10-se-acaba-convertir-mi-forma-favorita-instalar-aplicaciones) Gestor paquetes W10 desde terminal
+* [WinGet](https://www.genbeta.com/windows/nuevo-gestor-paquetes-windows-10-se-acaba-convertir-mi-forma-favorita-instalar-aplicaciones) Gestor paquetes W10 desde terminal
 
 Cómo hacer una app | Guía completa para diseñar y programar una aplicación móvil
 https://platzi.com/blog/como-crear-una-app
@@ -630,11 +630,10 @@ Thinking to move to AI? Learn Python first.
 
 ## ARCHITECTURE
 
-[How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
-
-[Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
-
-[API Cheat Sheet](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)What is an API, How it Works, and How to Choose the Right API Testing Tools
+* [Building a Modern B2B E-Commerce Tech Stack](https://dzone.com/articles/building-a-modern-b2b-e-commerce-tech-stack) Ejemplo de modelo de datos eCommerce B2B
+* [How to make your app's architecture secure](https://www.freecodecamp.org/news/secure-application-basics/)
+* [Agile, ¿En qué te hemos convertido? / presentación CAS2019](http://www.eferro.net/2019/11/agile-en-que-te-hemos-convertido.html?m=1)
+* [API Cheat Sheet](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)What is an API, How it Works, and How to Choose the Right API Testing Tools
 
 ## DOC
 * [GitBook](https://www.gitbook.com/) Document Everything! For you, your users and your team
