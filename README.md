@@ -110,6 +110,7 @@
   * en definitiva, trabaja para que salga por la puerta sólo aquello que satisfaría al cliente más exigente del mundo!
 
 ## VENTA ONLINE
+* [Cómo lograr que tu empresa tenga un servicio de atención al cliente del siglo XXI](https://elpais.com/economia/repensando-el-futuro/2021-02-26/como-lograr-que-tu-empresa-tenga-un-servicio-de-atencion-al-cliente-del-siglo-xxi.html)
 * [Qué es una Newsletter](https://www.pymesyautonomos.com/marketing-y-comercial/que-newsletter-como-hacer-para-promocionar-tu-negocio-no-agobiar-al-cliente) y cómo hacer una para promocionar tu negocio y no agobiar al cliente
 * [Pagina de Ventas](https://www.lifestylealcuadrado.com/pagina-de-ventas/)
 * [Kolau](https://www.kolau.es/) permite crear en 15 minutos y de forma gratuita una página web con opción a pasarla de pago
