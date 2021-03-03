@@ -1,4 +1,15 @@
 ## FORMACION
+* [Javascript Teacher](https://twitter.com/javascriptual/status/1364427603373936640)
+  * Stage 1 – HTML, DOM.
+  * Stage 2 – CSS (Grid, Flex.)
+  * Stage 3 – JavaScript.
+  * Stage 4 – React.
+  * Stage 5 – Node.js
+  * Stage 6 – MySQL.
+  * Stage 7 – MongoDB.
+  * Stage 8 – The CRUD pattern.
+  * Stage 9 – Back-end experience at your first job.
+  * Trofeo – Full Stack developer.
 * [Python vs Javascript](https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/)
 * [MIT Deep Learning](https://www.genbeta.com/web/mit-lanza-edicion-2021-su-curso-online-gratuito-introduccion-al-deep-learning)
 * [Free learning platforms](https://twitter.com/denicmarko/status/1351848967177465857)
@@ -381,6 +392,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+* [WebCatalog](https://hipertextual.com/2021/02/webcatalog-aplicaciones-web-apps-escritorio) convierte web apps en apps de escritorio
 * [Free for Dev](https://free-for.dev/#/) proyecto opensource repositorio software online (SaaS, PaaS, IaaS, etc.) con plan gratuito para desarrolladores, agrupados por categorias.
 * [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
 * [30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
@@ -619,6 +631,7 @@ Thinking to move to AI? Learn Python first.
 ## DOC
 * [GitBook](https://www.gitbook.com/) Document Everything! For you, your users and your team
 * [Release notes](https://twitter.com/recena/status/1285687648691138560?s=12)
+* [MacOs update](https://www.apple.com/macos/big-sur/)
 * [Ejemplos docuemntacion diseño Google[(https://twitter.com/asiermarques/status/1286040586332536833?s=12)
 * [Ejemplos documentacion tecnica innovadora](https://twitter.com/NTKOG/status/1286589899915898882)
 * [Product Briefing](https://blog.productiza.me/2020/07/06/product-briefing/)
