@@ -381,6 +381,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+* [Free for Dev](https://free-for.dev/#/) proyecto opensource repositorio software online (SaaS, PaaS, IaaS, etc.) con plan gratuito para desarrolladores, agrupados por categorias.
 * [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
 * [30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
   * canva permite crear infografias e ilustraciones cv, encabezado twitter, etc)
