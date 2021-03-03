@@ -70,6 +70,11 @@
 * [Whatsapp como repositorio personal/equipo](https://depor.com/depor-play/tecnologia/whatsapp-como-chatear-contigo-a-ti-mismo-conversaciones-escribir-aplicaciones-apps-truco-2021-tutorial-viral-smartphone-celulares-estados-unidos-espana-mexico-nnda-nnni-noticia/)
 * [Telegram como herramienta de trabajo](https://elandroidelibre.elespanol.com/2021/01/telegram-como-herramienta-de-trabajo-5-consejos-fundamentales.html)
 * [Organizacion de servicios profesionales](https://javisantana.com/2021/01/16/servicios-profesionales.html)
+* [Como ser productivo en remoto](https://twitter.com/jobvo/status/1366869025498750976?s=12)
+* Herramientas para trabajo en equipo remoto
+  * videoconferencia: Meet, Zoom, Teams, Skype, Jetsi
+  * colaborar (pizarra): Google Slide, Miro, Trello, [Mural](https://www.mural.co/)
+  * codigo: google app script, codepen, 
 
 ## INNOVACION
 * [Lessons Learned in 80 Years](https://www.blackstone.com/press-releases/article/blackstones-byron-wien-discusses-lessons-learned-in-his-first-80-years/)
@@ -121,6 +126,9 @@
 * [Ejemplos onboarding de cliente](https://twitter.com/carlosthesailor/status/1326182649975730178?s=12)
 
 ## ESTRATEGIA
+
+* [El mantra de Jeff Bezos](https://www.sintetia.com/el-mantra-de-jeff-bezos-hoy-es-el-dia-1/) hoy es el día 1, seguimos en el día 1 y ¡evitamos que llegue el día 2!
+
 * [10 important future work skills](https://twitter.com/ValaAfshar/status/1361080590225784834)
   * complex problem solving
   * critical thinking
@@ -205,6 +213,7 @@
 * [Business Application Development for Growing Businesses](https://dzone.com/articles/business-application-development-for-growing-busin) Every growing business needs the right applications to scale. Without the right apps, you'll struggle to compete. Learn about business application development. 3 types: B2B, B2C, Internal and 3 subcategories: FrontEnd, BackEnd, Services. Learn why and how to do.
 
 ## DESARROLLO PRODUCTO
+* [Small Safe Steps 3s workshop](https://www.eferro.net/p/small-safe-steps-3s-workshop.html) Desarrollo incremental continuo
 * [Agile User Story Mapping Board for Jira](https://nagasada.medium.com/agie-user-story-mapping-board-for-jira-28fa9ac7b988)
 * [How to generate great startup ideas](https://twitter.com/gregisenberg)
   * Start a community
@@ -646,6 +655,10 @@ Thinking to move to AI? Learn Python first.
 * [Añadir descripciones y documentar los campos de GraphQL](https://picodotdev.github.io/blog-bitix/2020/08/anadir-descripciones-y-documentar-los-campos-de-graphql/)
 
 ## DESIGN
+* [Feature Flag Development]
+  * [Taplytics](https://taplytics.com/) Faster and Safer Feature Releases. Complete feature management and experimentation across mobile, web, OTT, and server-side. Control who sees new features with delivery speeds under 50ms.
+  * [LaunchDarkly](https://launchdarkly.com/) Fast and reliable feature management for the modern enterprise. Coste parte de 75$/mes
+We’ve got you covered with flexible deployment options via API, private cloud, or on-premise.
 * [How an MVP Helps Accelerate Agile Development](https://dzone.com/articles/how-an-mvp-helps-accelerate-agile-development) What is an MVP or minimum viable product development? Why choose MVP development? Learn how an MVP helps accelerate agile development.
 * [Conventions over Configurations](https://dzone.com/articles/conventions-over-configurations)  simple trick to reduce complexity in your code base, by applying conventions instead of configurations
 * [How we designed Dropbox ATF: an async task framework](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
@@ -875,29 +888,25 @@ Always remember the reason that you're testing is about confidence. If something
 
 ## DEVOPPs
 
-[Los principios DevOps: The Three Ways](https://danilat.com/weblog/2020/09/01/los-principios-devops-the-three-ways)
-* The First Way: aumentar el flujo de entrega al cliente previniendo defectos.
-* The Second Way: amplificar los ciclos de feedback para prevenir problemas y mejorar la calidad en origen.
-* The Third Way: crear y fomentar una cultura de experimentación y aprendizaje continuos.
+* [Los principios DevOps: The Three Ways](https://danilat.com/weblog/2020/09/01/los-principios-devops-the-three-ways)
+  * The First Way: aumentar el flujo de entrega al cliente previniendo defectos.
+  * The Second Way: amplificar los ciclos de feedback para prevenir problemas y mejorar la calidad en origen.
+  * The Third Way: crear y fomentar una cultura de experimentación y aprendizaje continuos.
 
-Programming the Cloud: Empowering Developers to Do Infrastructure
-https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
-* Pulumi
+* [Programming the Cloud: Empowering Developers to Do Infrastructure](https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail)
+* [Pulumi](https://www.pulumi.com/) Modern Infrastructure as Code. Create, deploy, and manage infrastructure on any cloud using familiar programming languages and tools
+* [Esto es lo que pasa cuando intentas medir la productividad de un programador por las líneas de código que escribe al día](https://www.genbeta.com/desarrollo/esto-que-pasa-cuando-intentas-medir-productividad-programador-lineas-codigo-que-escribe-al-dia)
 
-[Esto es lo que pasa cuando intentas medir la productividad de un programador por las líneas de código que escribe al día](https://www.genbeta.com/desarrollo/esto-que-pasa-cuando-intentas-medir-productividad-programador-lineas-codigo-que-escribe-al-dia)
-
-[TrunkBasesDevelopment](https://twitter.com/inicopaez/status/1100782337141469185?s=11)
-
-[TrunkBasesDevelopment](https://twitter.com/tdpauw/status/1101175888291528710)
+* [TrunkBasesDevelopment](https://twitter.com/inicopaez/status/1100782337141469185?s=11)
+* [TrunkBasesDevelopment](https://twitter.com/tdpauw/status/1101175888291528710)
 - every feature developed behind a toggle
 - keep toggle duration short
 - no dependencies between toggles
 - duplicate code to avoid dependencies
 - work in small units to commit and push frequently (local broken build lasts max 10min)
+* [Pusheando en master, que es gerundio](https://www.youtube.com/watch?v=UvtaujgCNsI) Genial charla del gran @islomar sobre trunk base development
 
-[Pusheando en master, que es gerundio](https://www.youtube.com/watch?v=UvtaujgCNsI) Genial charla del gran @islomar sobre trunk base development
-
-[Agile Development](https://twitter.com/jcesarperez/status/1101437979464253442?s=11)
+* [Agile Development](https://twitter.com/jcesarperez/status/1101437979464253442?s=11)
 - Automatizar una build
 - TDD
 - Montar un entorno de CI/CD
@@ -908,16 +917,12 @@ https://www.youtube.com/watch?v=yIIMf8ohrsg&feature=em-uploademail
 - Definición de hecho
 - DDD
 
-[Entrega continua con Jenkins](https://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/entrega-continua-con-jenkins-2-pipelines/12773.aspx)
-Taller dinámico que combinará explicación y justificación teórica de la metodología conocida como 'entrega continua' (Continuous Delivery) y ejemplos prácticos de creación de Pipelines con el nuevo API de Jenkins 2.
+* [Entrega continua con Jenkins](https://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/entrega-continua-con-jenkins-2-pipelines/12773.aspx)
+Taller dinámico que combina explicación y justificación teórica de la metodología conocida como entrega continua (Continuous Delivery) y ejemplos prácticos de creación de Pipelines con el nuevo API de Jenkins 2.
 
-Objetivos
-El objetivo es que el asistente descubra si las técnicas de entrega continua, integración continua y despliegue continuo son interesantes en el contexto de los desarrollos de software de su organización.
+El objetivo es que el asistente descubra si las técnicas de entrega continua, integración continua y despliegue continuo son interesantes en el contexto de los desarrollos de software de su organización. Y conocer Jenkins 2 como herramienta para reducir la curva de aprendizaje.
 
-Además, Jenkins 2 trae una gran batería de novedades. El objetivo de la dinámica es conocer esas novedades y reducir la curva de aprendizaje de las mismas.
-
-Dirigido a
-Aquellas personas que ya usan Jenkins y quieren conocer las novedades que les permitirán crear tareas y relacionarlas de manera mucho más simple y potente. También para aquellas personas que, usando o no jenkins, se preguntan si podrían mejorar el proceso de entrega de su producto, automatizándolo y haciéndolo más fiable.
+Dirigido aquellas personas que ya usan Jenkins y quieren conocer las novedades que les permitirán crear tareas y relacionarlas de manera mucho más simple y potente. También para aquellas personas que, usando o no jenkins, se preguntan si podrían mejorar el proceso de entrega de su producto, automatizándolo y haciéndolo más fiable.
 
 Contenido
 Todas las secciones incluyen ejercicio práctico
@@ -952,15 +957,16 @@ Todas las secciones incluyen ejercicio práctico
 ...para integración continua
 ...con Jenkins
 
-[Herramientas de desarollo: Travis CI](https://www.fixedbuffer.com/index.php/2019/02/05/herramientas-de-desarollo-travis-ci/) Herramientas como Travis, AppVeyor, o Azure Pipelines, (los 3 son gratis si nuestro repositorio es público) sirven para automatizar tareas en desarrollo de software, de modo que no tengamos que preocuparnos de compilar y ejecutar las pruebas. Ademas, estos sistemas nos aportan otra ventaja adicional, podemos compilar y ejecutar pruebas en diferentes entornos, como veremos a lo largo de esta entrada sobre Travis.
+* [Herramientas de desarollo: Travis CI](https://www.fixedbuffer.com/index.php/2019/02/05/herramientas-de-desarollo-travis-ci/) Herramientas como Travis, AppVeyor, o Azure Pipelines, (los 3 son gratis si nuestro repositorio es público) sirven para automatizar tareas en desarrollo de software, de modo que no tengamos que preocuparnos de compilar y ejecutar las pruebas. Ademas, estos sistemas nos aportan otra ventaja adicional, podemos compilar y ejecutar pruebas en diferentes entornos, como veremos a lo largo de esta entrada sobre Travis.
 
-[DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
+* [DevOps concepts and learning path](https://www.eferro.net/2018/05/devops-concepts-and-learning-path.html)
 
-[Devops in not what you think](https://www.eferro.net/2019/01/bilbostack-2019devops-is-not-what-you.html)
+* [Devops in not what you think](https://www.eferro.net/2019/01/bilbostack-2019devops-is-not-what-you.html)
 
-[SonarQube](https://www.sonarqube.org/) SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
+* [SonarQube](https://www.sonarqube.org/) SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
 
-[Mastering Bitrise workflows for continuous iOS app delivery](https://theswiftdev.com/2019/03/29/mastering-bitrise-workflows-for-ios-app-delivery/)
+* [Mastering Bitrise workflows for continuous iOS app delivery](https://theswiftdev.com/2019/03/29/mastering-bitrise-workflows-for-ios-app-delivery/)
+* [Continuous Delivery Workshop](https://nealford.com/downloads/Continuous_Delivery_1of3_Deployment_Pipelines_Neal_Ford.pdf) deployment pipelines
 
 ## RELEASE 
 
@@ -1279,6 +1285,13 @@ Carlos Azaustre [YouTube](https://www.youtube.com/user/azaman1984/featured) y [W
 
 ## Data Structures and Algorithms
 
+*  Cada estructura de datos tiene aplicación:
+  * Array: O(1) random access
+  * Linked List: O(1) insert/delete
+  * Hash Table: O(1) lookup (expected)
+  * Heap: O(1) find min/max
+  * Binary Search Tree: O(log n) insert maintaining order
+ 
 * [Learn Data Structures from a Google Engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
 * [Learn the Dropbox API in 5 minutes](https://medium.freecodecamp.org/learn-the-dropbox-api-in-5-minutes-fd4626a0df18)
 * [Course Introduction: Data Structures and Algorithms in JavaScript](https://egghead.io/lessons/javascript-course-introduction-data-structures-and-algorithms-in-javascript)
