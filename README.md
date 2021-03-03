@@ -347,116 +347,85 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
 [cómo gastarte bien los cuartos desarrollando software](https://www.tarugoconf.com/blog/programania-tarugo3-como-gastarte-bien-los-cuartos-desarrollando-software/)
 
 ## PET PROJECTS
-
-### Ideas desarrollo
+* [Building a Bot As an Alternative to Classic User Interface. Why Is It Better?](https://dzone.com/articles/building-a-bot-as-an-alternative-to-classic-user-i)
+* [Permisos QR para salir de casa](https://www.xataka.com/medicina-y-salud/permisos-qr-para-salir-casa-recibidos-sms-asi-como-grecia-esta-controlando-salidas-su-ciudadania)
+* [Aprende JavaScript creando ocho videojuegos simples y clásicos que puedes añadir a tu portafolio](https://www.genbeta.com/desarrollo/aprende-javascript-creando-ocho-videojuegos-simples-clasicos-que-puedes-anadir-a-tu-portafolio)
+* [Arduino. Termometro fiebre sin contacto](https://create.arduino.cc/projecthub/hardyedela/diy-arduino-gy-906-infrared-thermometer-5881aa)
 * [Digital Tools I Wish Existed](https://jon.bo/posts/digital-tools/)
-
-### Como hacer una web personal gratis
-* WebFlow
-* Wix
-* [Fruition: Free, Open Source Toolkit for Building Websites with Notion](https://fruitionsite.com/)
-* GitPages
-* Nuxtjs
+* Como hacer una web personal gratis
+  * WebFlow
+  * Wix
+  * [Fruition: Free, Open Source Toolkit for Building Websites with Notion](https://fruitionsite.com/)
+  * GitPages
   * [NuxtJS en español](https://es.nuxtjs.org/) y [tutorial instalacion y empezar](https://es.nuxtjs.org/guides/get-started/installation/)
-
-### Como hacer una web, app con herramientas no code
-* Glide
-
-### Como hacer un desarrollo multiplataforma (web, app, desktop)
-* electron
-* NWjs
-* [Neutralinojs](https://github.com/neutralinojs/neutralinojs/blob/master/README.md)
-
-[Permisos QR para salir de casa](https://www.xataka.com/medicina-y-salud/permisos-qr-para-salir-casa-recibidos-sms-asi-como-grecia-esta-controlando-salidas-su-ciudadania)
-
-[Aprende JavaScript creando ocho videojuegos simples y clásicos que puedes añadir a tu portafolio](https://www.genbeta.com/desarrollo/aprende-javascript-creando-ocho-videojuegos-simples-clasicos-que-puedes-anadir-a-tu-portafolio)
-
-[Arduino. Termometro fiebre sin contacto](https://create.arduino.cc/projecthub/hardyedela/diy-arduino-gy-906-infrared-thermometer-5881aa)
+* Como hacer una web, app con herramientas no code
+  * Glide
+* Como hacer un desarrollo multiplataforma (web, app, desktop)
+  * electron
+  * NWjs
+  * [Neutralinojs](https://github.com/neutralinojs/neutralinojs/blob/master/README.md)
 
 ## LIBROS
-
-* [Recopilacion de Resumen de libros](https://twitter.com/victorianoi/status/1213393653718306816?s=11)
-* [Resumen Refactoring](https://franiglesias.github.io/books-refactoring-second-edition/)
 * Extreme Programming Explained. Debería ser el primer libro de como programar
 * The Pragmatic Programmer. Un libro de programación en general de obligada lectura
 * Clean Code. Un libro indispensable para escribir codigo limpio
 * Code Complete
 * Cracking the code
 * Implementing Domain-Driven Design. Denso pero un must read. Explicado al detalle por @CodelyTV
-
 * How Linux works
 * Linux basics for hackers
-
 * The Javascript Handbook
-
-[What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
+* RESUMENES
+  * [Recopilacion de Resumen de libros](https://twitter.com/victorianoi/status/1213393653718306816?s=11)
+  * [Resumen Refactoring](https://franiglesias.github.io/books-refactoring-second-edition/)
+  * [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+* [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
+* [30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
+  * canva permite crear infografias e ilustraciones cv, encabezado twitter, etc)
+  * datawrapper permite crear graficos, tablas y mapas de color a partir de excel
+  * biorender permite crear ilustraciones y figuras cientificas con múltiples iconos
+  * mindthegraph.com permite diseñar infogracias, posters, etc con iconos cientificos
+  * chemix.org web similar a BioRender y MindTheGraph
+  * inkscape.org permite editar graficos vectoriales
+  * free-powerpoint-templates-design.com ofrece multitud de plantillas
+  * ChemSketch permite dibujar estructuras quimicas
+  * smart.servier.com banco de imagenes relacionadas con la medicina
+  * pixabay.com/es/ banco de imagenes de libre acceso tanto cientificas como de otros temas
+  * flaticon.es ofrece iconos gratuitos de multitud de temas
+  * iconfinder.com similar que flaticon
+  * ilovepdf.com/es permite realizar conversiones de PDF a Word, Excel, etc.
+  * CanScanner permite escanear documentos mediante una foto y compartir en pdf, jpg
 
-[POEditor](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
+* [myCompiler](https://www.mycompiler.io) es una web donde puedes practicar con 16 lenguajes de programación sin instalar nada
+* [Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
+* [Online GDB](https://www.onlinegdb.com/online_c_compiler) online compiler and debugger for c/c++
+* [Paiza](https://paiza.io/es) Escribe y ejecuta código en línea
+* [GitPod](https://www.gitpod.io/) Dev Environments as Code for modern DevOps teams. Describe your dev environment as code and get fully prebuilt, ready-to-code development environments for any GitLab, GitHub, and Bitbucket project.
+* [KataCoda](https://www.katacoda.com/) Learn new technologies using real environments right in your browser. Interactive Learning and Training Platform for Software Engineers. Helping Developers Learn and Companies Increase Adoption
 
-[30 WEBS / APPS científicas y no científicas que te harán la vida más fácil Hilo](https://twitter.com/herenciaciencia/status/1309143924091613185)
-* canva permite crear infografias e ilustraciones cv, encabezado twitter, etc)
-* datawrapper permite crear graficos, tablas y mapas de color a partir de excel
-* biorender permite crear ilustraciones y figuras cientificas con múltiples iconos
-* mindthegraph.com permite diseñar infogracias, posters, etc con iconos cientificos
-* chemix.org web similar a BioRender y MindTheGraph
-* inkscape.org permite editar graficos vectoriales
-* free-powerpoint-templates-design.com ofrece multitud de plantillas
-* ChemSketch permite dibujar estructuras quimicas
-* smart.servier.com banco de imagenes relacionadas con la medicina
-* pixabay.com/es/ banco de imagenes de libre acceso tanto cientificas como de otros temas
-* flaticon.es ofrece iconos gratuitos de multitud de temas
-* iconfinder.com similar que flaticon
-* ilovepdf.com/es permite realizar conversiones de PDF a Word, Excel, etc.
-* CanScanner permite escanear documentos mediante una foto y compartir en pdf, jpg
+* [POEditor](https://poeditor.com/) Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution.
+* [Netlify Drop](https://www.genbeta.com/herramientas/netlify-drop-cuando-publicar-gratis-sitio-web-solo-arrastrar-soltar-esperar-unos-segundos) cuando publicar gratis un sitio web es sólo arrastrar, soltar y esperar unos segundos
+* [Planview LeanKit](https://www.planview.com/products-solutions/products/leankit/) enables engineering teams across all levels of the organization with a visual work delivery tool to apply Lean management principles to their work, helping them work smarter and deliver faster.
+* [Miro](https://miro.com) The online whiteboard for collaborative wireframing
+* [Time Trackers](https://twitter.com/jmbeas/status/1265278000800514048) RescueTime, Clockify,Trello Time Tracker
+* [MindMastr](https://hipertextual.com/presentado-por/mindmaster/representar-ideas-y-proyectos)
+* [UIZARD](https://uizard.io/) The fastest and easiest way to bring your ideas to life
+* [No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev. Follow @nodesigndev
+* [Platforma 2](https://platforma.ws/) Start your web project right with distinct prototype, easily made with Platforma’s huge layout library
+* [10 Important Git Commands that Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
+* [iHateRegex](https://www.genbeta.com/desarrollo/ihateregex-web-que-nos-permite-consultar-verificar-visualizar-expresiones-regulares) la web que nos permite consultar, verificar y visualizar expresiones regulares
+* [How a simple cron job can save you from a ransomware attack](https://www.freecodecamp.org/news/cronjob-ransomware-attack/)
+* [Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
+* [¿Qué puedo usar para publicar documentación de un producto?](https://twitter.com/juanmacias/status/1192020487825690624?s=11) NotionHQ, coda, github/gitlabs pages,GitBook, @NotionHQ + @milanoteapp
 
-[Netlify Drop, cuando publicar gratis un sitio web es sólo arrastrar, soltar y esperar unos segundos](https://www.genbeta.com/herramientas/netlify-drop-cuando-publicar-gratis-sitio-web-solo-arrastrar-soltar-esperar-unos-segundos)
+* React Native
+  * Just launched [new React Native docs](https://twitter.com/reactnative/status/1222911109977530368?s=12) by @rachelnabors to help folks start their React Native journey
+  * [React Native Introduction](https://facebook.github.io/react-native/docs/next/getting-started)
 
-[Planview LeanKit](https://www.planview.com/products-solutions/products/leankit/) enables engineering teams across all levels of the organization with a visual work delivery tool to apply Lean management principles to their work, helping them work smarter and deliver faster.
-
-[Miro](https://miro.com) The online whiteboard for collaborative wireframing
-
-[Time Trackers](https://twitter.com/jmbeas/status/1265278000800514048) RescueTime, Clockify,Trello Time Tracker
-
-[MindMastr](https://hipertextual.com/presentado-por/mindmaster/representar-ideas-y-proyectos)
-
-[UIZARD](https://uizard.io/) The fastest and easiest way to bring your ideas to life
-
-[No Design Development](https://nodesign.dev/) A collection of tools for developers who have little to no artistic talent. Join the movement #nodesigndev. Follow @nodesigndev
-
-[Platforma 2](https://platforma.ws/) Start your web project right with distinct prototype, easily made with Platforma’s huge layout library
-
-[10 Important Git Commands that Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
-
-[iHateRegex](https://www.genbeta.com/desarrollo/ihateregex-web-que-nos-permite-consultar-verificar-visualizar-expresiones-regulares) la web que nos permite consultar, verificar y visualizar expresiones regulares
-
-[How a simple cron job can save you from a ransomware attack](https://www.freecodecamp.org/news/cronjob-ransomware-attack/)
-
-[Cómo crear una app sin saber programar, 25 plataformas](https://www.marketingandweb.es/marketing/como-crear-una-app/)
-
-[¿Qué puedo usar para publicar documentación de un producto?](https://twitter.com/juanmacias/status/1192020487825690624?s=11) NotionHQ, coda, github/gitlabs pages,GitBook, @NotionHQ + @milanoteapp
-
-[35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
-
-[myCompiler](https://www.mycompiler.io) es una web donde puedes practicar con 16 lenguajes de programación sin instalar nada
-
-[Codepad](http://codepad.org/) is an online compiler/interpreter, and a simple collaboration tool.
-
-[Online GDB](https://www.onlinegdb.com/online_c_compiler) online compiler and debugger for c/c++
-
-[Paiza](https://paiza.io/es) Escribe y ejecuta código en línea
-
-[GitPod](https://www.gitpod.io/) Dev Environments as Code for modern DevOps teams. Describe your dev environment as code and get fully prebuilt, ready-to-code development environments for any GitLab, GitHub, and Bitbucket project.
-
-[KataCoda](https://www.katacoda.com/) Learn new technologies using real environments right in your browser. Interactive Learning and Training Platform for Software Engineers. Helping Developers Learn and Companies Increase Adoption
-
-[React Native]
-* Just launched [new React Native docs](https://twitter.com/reactnative/status/1222911109977530368?s=12) by @rachelnabors to help folks start their React Native journey
-** [React Native Introduction](https://facebook.github.io/react-native/docs/next/getting-started)
-
-[SWIFT]
-* [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
+* Swift
+  * [Apple lanza Swift Playgrounds en Mac, su app para aprender a programar](https://hipertextual.com/2020/02/apple-swift-playgrounds-mac)
 
 ### IA
 * [Amazon Polly](https://aws.amazon.com/es/blogs/machine-learning/build-a-unique-brand-voice-with-amazon-polly/)
