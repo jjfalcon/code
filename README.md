@@ -140,7 +140,7 @@
 ## ESTRATEGIA
 
 * [El mantra de Jeff Bezos](https://www.sintetia.com/el-mantra-de-jeff-bezos-hoy-es-el-dia-1/) hoy es el día 1, seguimos en el día 1 y ¡evitamos que llegue el día 2!
-
+* [The Business Costs of Technical Debt](https://codescene.com/technical-debt/whitepaper/calculate-business-costs-of-technical-debt.pdf) Un [recurso muy interesante](https://twitter.com/jerolba/status/1368130622535958530?s=12) cuando tengas que hablar sobre deuda técnica, su importancia y sobre cómo medirla
 * [10 important future work skills](https://twitter.com/ValaAfshar/status/1361080590225784834)
   * complex problem solving
   * critical thinking
