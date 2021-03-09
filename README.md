@@ -392,6 +392,7 @@ Para las reuniones sincronas ineludibles se concierta un horario común, y se es
   * [What I Learned from Reading "The Pragmatic Programmer"](https://www.freecodecamp.org/news/thought-on-the-pragmatic-programmer/)
 
 ## HERRAMIENTAS
+* [Google presenta Flutter 2](https://elandroidelibre.elespanol.com/2021/03/google-presenta-flutter-2-crear-aplicaciones-multiplataforma-es-mejor-que-nunca.html) crear aplicaciones multiplataforma es mejor que nunca
 * [WebCatalog](https://hipertextual.com/2021/02/webcatalog-aplicaciones-web-apps-escritorio) convierte web apps en apps de escritorio
 * [Free for Dev](https://free-for.dev/#/) proyecto opensource repositorio software online (SaaS, PaaS, IaaS, etc.) con plan gratuito para desarrolladores, agrupados por categorias.
 * [35+ Tools Every Developer Must Know](https://dzone.com/articles/35-tools-every-developer-must-know)
